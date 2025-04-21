@@ -2,3 +2,4 @@
 dbt-postgres
 requests
 astronomer-cosmos==1.6.0
+astro-sdk-python[postgres]
