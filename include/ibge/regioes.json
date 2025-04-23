@@ -1,0 +1,27 @@
+[
+  {
+    "regiao.id":5,
+    "regiao.sigla":"CO",
+    "regiao.nome":"Centro-Oeste"
+  },
+  {
+    "regiao.id":2,
+    "regiao.sigla":"NE",
+    "regiao.nome":"Nordeste"
+  },
+  {
+    "regiao.id":1,
+    "regiao.sigla":"N",
+    "regiao.nome":"Norte"
+  },
+  {
+    "regiao.id":3,
+    "regiao.sigla":"SE",
+    "regiao.nome":"Sudeste"
+  },
+  {
+    "regiao.id":4,
+    "regiao.sigla":"S",
+    "regiao.nome":"Sul"
+  }
+]
