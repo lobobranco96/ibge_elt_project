@@ -1,0 +1,156 @@
+[
+  {
+    "imediata.id":520001,
+    "imediata.nome":"Goiânia",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520002,
+    "imediata.nome":"Anápolis",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520003,
+    "imediata.nome":"Inhumas - Itaberaí - Anicuns",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520004,
+    "imediata.nome":"Catalão",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520005,
+    "imediata.nome":"Goiás - Itapuranga",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520006,
+    "imediata.nome":"Pires do Rio",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520007,
+    "imediata.nome":"Itumbiara",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520008,
+    "imediata.nome":"Caldas Novas-Morrinhos",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520009,
+    "imediata.nome":"Piracanjuba",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520010,
+    "imediata.nome":"Rio Verde",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520011,
+    "imediata.nome":"Jataí-Mineiros",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520012,
+    "imediata.nome":"Quirinópolis",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520013,
+    "imediata.nome":"São Luís de Montes Belos",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520014,
+    "imediata.nome":"Iporá",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520015,
+    "imediata.nome":"Palmeiras de Goiás",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520016,
+    "imediata.nome":"Porangatu",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520017,
+    "imediata.nome":"Uruaçu - Niquelândia",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520018,
+    "imediata.nome":"Ceres - Rialma - Goianésia",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520019,
+    "imediata.nome":"Luziânia",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520020,
+    "imediata.nome":"Águas Lindas de Goiás",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520021,
+    "imediata.nome":"Posse-Campos Belos",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520022,
+    "imediata.nome":"Flores de Goiás",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  }
+]

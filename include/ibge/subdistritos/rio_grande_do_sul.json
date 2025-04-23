@@ -1,0 +1,938 @@
+[
+  {
+    "bairro.id":43004060506,
+    "bairro.nome":"Zona Central",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060507,
+    "bairro.nome":"Zona da Coxilha ou Cidade Alta",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060508,
+    "bairro.nome":"Zona Norte",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060509,
+    "bairro.nome":"Zona Sul",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060510,
+    "bairro.nome":"Zona Leste",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060511,
+    "bairro.nome":"Zona Oeste",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060512,
+    "bairro.nome":"Alegrete",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060513,
+    "bairro.nome":"Catimbaú",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060514,
+    "bairro.nome":"Durasnal",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060515,
+    "bairro.nome":"Guassu-Boi",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060516,
+    "bairro.nome":"Inhanduí",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060517,
+    "bairro.nome":"Itaporó",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060518,
+    "bairro.nome":"Rincão de São Miguel",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43004060519,
+    "bairro.nome":"Vasco Alves",
+    "distrito.id":430040605,
+    "municipio.nome":"Alegrete"
+  },
+  {
+    "bairro.id":43006040501,
+    "bairro.nome":"MZ1- Centro",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040502,
+    "bairro.nome":"MZ2- Americana \/ Sumaré",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040503,
+    "bairro.nome":"MZ3- Bela Vista",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040504,
+    "bairro.nome":"MZ4- Intersul",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040505,
+    "bairro.nome":"MZ5- Algarve",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040506,
+    "bairro.nome":"MZ6- Aparecida",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040507,
+    "bairro.nome":"MZ7- Cocão",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040508,
+    "bairro.nome":"MZ8- Piratini",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040509,
+    "bairro.nome":"MZ9- Formosa \/ Maria Regina",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006040510,
+    "bairro.nome":"MZ10- Umbu",
+    "distrito.id":430060405,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006041010,
+    "bairro.nome":"MZ10- Umbu",
+    "distrito.id":430060410,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43006041011,
+    "bairro.nome":"MZ 11 - Industrial",
+    "distrito.id":430060410,
+    "municipio.nome":"Alvorada"
+  },
+  {
+    "bairro.id":43051080510,
+    "bairro.nome":"RA 01 - Centro",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080511,
+    "bairro.nome":"RA 02 - Santa Lúcia",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080512,
+    "bairro.nome":"RA 03 - Fátima",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080513,
+    "bairro.nome":"RA 04 - Cruzeiro",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080514,
+    "bairro.nome":"RA 05 - Esplanada",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080515,
+    "bairro.nome":"RA 06 - Rizzo",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080516,
+    "bairro.nome":"RA 07 - Forqueta",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080517,
+    "bairro.nome":"RA 08 - Ana Rech",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080518,
+    "bairro.nome":"RA 09 - Galópolis",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080519,
+    "bairro.nome":"RA 10 - Serrano",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080520,
+    "bairro.nome":"RA 11 - Planalto",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080521,
+    "bairro.nome":"RA 12 - Presidente Vargas",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080522,
+    "bairro.nome":"RA 13 - São Giácomo",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080523,
+    "bairro.nome":"RA 14 - Nossa Senhora da Saúde",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43051080524,
+    "bairro.nome":"RA 15 - Santa Fé",
+    "distrito.id":430510805,
+    "municipio.nome":"Caxias do Sul"
+  },
+  {
+    "bairro.id":43054390501,
+    "bairro.nome":"Área de Planejamento 01",
+    "distrito.id":430543905,
+    "municipio.nome":"Chuí"
+  },
+  {
+    "bairro.id":43066010506,
+    "bairro.nome":"Sede",
+    "distrito.id":430660105,
+    "municipio.nome":"Dom Pedrito"
+  },
+  {
+    "bairro.id":43066010507,
+    "bairro.nome":"Caveiras",
+    "distrito.id":430660105,
+    "municipio.nome":"Dom Pedrito"
+  },
+  {
+    "bairro.id":43066010508,
+    "bairro.nome":"Vacaiquá",
+    "distrito.id":430660105,
+    "municipio.nome":"Dom Pedrito"
+  },
+  {
+    "bairro.id":43066010509,
+    "bairro.nome":"Ponche Verde",
+    "distrito.id":430660105,
+    "municipio.nome":"Dom Pedrito"
+  },
+  {
+    "bairro.id":43066010510,
+    "bairro.nome":"Fontouras",
+    "distrito.id":430660105,
+    "municipio.nome":"Dom Pedrito"
+  },
+  {
+    "bairro.id":43077080510,
+    "bairro.nome":"Leste",
+    "distrito.id":430770805,
+    "municipio.nome":"Esteio"
+  },
+  {
+    "bairro.id":43077080515,
+    "bairro.nome":"Norte",
+    "distrito.id":430770805,
+    "municipio.nome":"Esteio"
+  },
+  {
+    "bairro.id":43077080520,
+    "bairro.nome":"Oeste",
+    "distrito.id":430770805,
+    "municipio.nome":"Esteio"
+  },
+  {
+    "bairro.id":43077080525,
+    "bairro.nome":"Sul",
+    "distrito.id":430770805,
+    "municipio.nome":"Esteio"
+  },
+  {
+    "bairro.id":43141000501,
+    "bairro.nome":"Região do Bairro Centro \"Centro e Vila Vergueiro\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000502,
+    "bairro.nome":"Região do Bairro Boqueirão",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000503,
+    "bairro.nome":"Região do Bairro Vera Cruz",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000504,
+    "bairro.nome":"Região do Bairro Petrópolis",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000505,
+    "bairro.nome":"Região do Bairro São Luiz Gonzaga",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000506,
+    "bairro.nome":"Região do Bairro \"Vila Cruzeiro\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000507,
+    "bairro.nome":"Região do Bairro Lucas de Araújo",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000508,
+    "bairro.nome":"Região do Bairro Santa Marta",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000509,
+    "bairro.nome":"Região do Bairro Integração",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000510,
+    "bairro.nome":"Região do Bairro \"Vila Vitor Issler\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000511,
+    "bairro.nome":"Região do Bairro São José",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000512,
+    "bairro.nome":"Região do Bairro São Cristóvão",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000513,
+    "bairro.nome":"Região do Bairro Roselândia",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000514,
+    "bairro.nome":"Região do Bairro \"Vila Mattos\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000515,
+    "bairro.nome":"Região do Bairro Annes \"Vila Fátima e Vila Annes\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000516,
+    "bairro.nome":"Região do Bairro José Alexandre Zachia",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000517,
+    "bairro.nome":"Região do Bairro Valinhos \"Loteamento Industrial e São Lucas",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000518,
+    "bairro.nome":"Região do Bairro \"Vila Luíza\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000519,
+    "bairro.nome":"Região do Bairro \"Vila Rodrigues\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000520,
+    "bairro.nome":"Região do Bairro \"Vila Santa Maria\"",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000521,
+    "bairro.nome":"Região do Bairro Planaltina",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43141000522,
+    "bairro.nome":"Região do Bairro Nenê Graeff",
+    "distrito.id":431410005,
+    "municipio.nome":"Passo Fundo"
+  },
+  {
+    "bairro.id":43144070513,
+    "bairro.nome":"Três Vendas",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070514,
+    "bairro.nome":"Barragem",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070515,
+    "bairro.nome":"Fragata",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070516,
+    "bairro.nome":"Centro",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070518,
+    "bairro.nome":"Areal",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070519,
+    "bairro.nome":"Laranjal\/Z3",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43144070520,
+    "bairro.nome":"São Gonçalo",
+    "distrito.id":431440705,
+    "municipio.nome":"Pelotas"
+  },
+  {
+    "bairro.id":43156020501,
+    "bairro.nome":"Unidade Censitária 01",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020502,
+    "bairro.nome":"Unidade Censitária 02",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020503,
+    "bairro.nome":"Unidade Censitária 03",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020504,
+    "bairro.nome":"Unidade Censitária 04",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020505,
+    "bairro.nome":"Unidade Censitária 05",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020506,
+    "bairro.nome":"Unidade Censitária 06",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020507,
+    "bairro.nome":"Unidade Censitária 07",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020508,
+    "bairro.nome":"Unidade Censitária 08",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020509,
+    "bairro.nome":"Unidade Censitária 09",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020510,
+    "bairro.nome":"UNidade Censitária 10",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020511,
+    "bairro.nome":"Unidade Censitária 11",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020512,
+    "bairro.nome":"Unidade Censitária 12",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020513,
+    "bairro.nome":"Unidade Censitária 13",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020514,
+    "bairro.nome":"Unidade Censitária 14",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020515,
+    "bairro.nome":"Unidade Censitária 15",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020516,
+    "bairro.nome":"Unidade Censitária 16",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020517,
+    "bairro.nome":"Unidade Censitária 17",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020518,
+    "bairro.nome":"Unidade Censitária 18",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020519,
+    "bairro.nome":"Unidade Censitária 19",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020520,
+    "bairro.nome":"Unidade Censitária 20",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020521,
+    "bairro.nome":"Unidade Censitária 21",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020522,
+    "bairro.nome":"Unidade Censitária 22",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020523,
+    "bairro.nome":"Unidade Censitária 23",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020524,
+    "bairro.nome":"Unidade Censitária 24",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020525,
+    "bairro.nome":"Unidade Censitária 25",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020526,
+    "bairro.nome":"Unidade Censitária 26",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020527,
+    "bairro.nome":"Unidade Censitária 27",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020528,
+    "bairro.nome":"Unidade Censitária 28",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020529,
+    "bairro.nome":"Unidade Censitária 29",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020530,
+    "bairro.nome":"Unidade Censitária 30",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020531,
+    "bairro.nome":"Unidade Censitária 31",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020532,
+    "bairro.nome":"Unidade Censitária 32",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020533,
+    "bairro.nome":"Unidade Censitária 33",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020534,
+    "bairro.nome":"Unidade Censitária 34",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020535,
+    "bairro.nome":"Unidade Censitária 35",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020536,
+    "bairro.nome":"Unidade Censitária 36",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020537,
+    "bairro.nome":"Unidade Censitária 37",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156020538,
+    "bairro.nome":"Unidade Censitária 38",
+    "distrito.id":431560205,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156021501,
+    "bairro.nome":"Unidade Censitária 41",
+    "distrito.id":431560215,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156022001,
+    "bairro.nome":"Unidade Censitária 42",
+    "distrito.id":431560220,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156022501,
+    "bairro.nome":"Unidade Censitária 40",
+    "distrito.id":431560225,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43156023001,
+    "bairro.nome":"Unidade Censitária 39",
+    "distrito.id":431560230,
+    "municipio.nome":"Rio Grande"
+  },
+  {
+    "bairro.id":43169070506,
+    "bairro.nome":"Centro Urbano",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070507,
+    "bairro.nome":"Norte",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070508,
+    "bairro.nome":"Nordeste",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070509,
+    "bairro.nome":"Leste",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070510,
+    "bairro.nome":"Centro-Leste",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070511,
+    "bairro.nome":"Sul",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070512,
+    "bairro.nome":"Centro-Oeste",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43169070513,
+    "bairro.nome":"Oeste",
+    "distrito.id":431690705,
+    "municipio.nome":"Santa Maria"
+  },
+  {
+    "bairro.id":43175090501,
+    "bairro.nome":"Uplans 1",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090502,
+    "bairro.nome":"Uplans 2",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090503,
+    "bairro.nome":"Uplans 3",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090504,
+    "bairro.nome":"Uplans 4",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090505,
+    "bairro.nome":"Uplans 5",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090506,
+    "bairro.nome":"Uplans 6",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090507,
+    "bairro.nome":"Uplans 7",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090508,
+    "bairro.nome":"Uplans 8",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090509,
+    "bairro.nome":"Uplans 9",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090510,
+    "bairro.nome":"Uplans 10",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090511,
+    "bairro.nome":"Uplans 11",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090512,
+    "bairro.nome":"Uplans 12",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090513,
+    "bairro.nome":"Uplans 13",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090514,
+    "bairro.nome":"Uplans 14",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090515,
+    "bairro.nome":"Uplans 15",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090516,
+    "bairro.nome":"Uplans 16",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090517,
+    "bairro.nome":"Uplans 17",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43175090518,
+    "bairro.nome":"Uplans 18",
+    "distrito.id":431750905,
+    "municipio.nome":"Santo Ângelo"
+  },
+  {
+    "bairro.id":43185070501,
+    "bairro.nome":"Núcleo Cidade Baixa",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185070502,
+    "bairro.nome":"Núcleo São José do Norte-Sul",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185070503,
+    "bairro.nome":"Núcleo São José do Norte-Norte",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185070504,
+    "bairro.nome":"Núcleo Centro Histórico",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185070505,
+    "bairro.nome":"Núcleo Barra-Molhe Leste",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185070506,
+    "bairro.nome":"Núcleo Zona Rural",
+    "distrito.id":431850705,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185071001,
+    "bairro.nome":"Núcleo do Segundo Distrito",
+    "distrito.id":431850710,
+    "municipio.nome":"São José do Norte"
+  },
+  {
+    "bairro.id":43185071501,
+    "bairro.nome":"Núcleo do Terceiro Distrito",
+    "distrito.id":431850715,
+    "municipio.nome":"São José do Norte"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "intermediaria.id":2201,
+    "intermediaria.nome":"Teresina",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  },
+  {
+    "intermediaria.id":2202,
+    "intermediaria.nome":"Parnaíba",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  },
+  {
+    "intermediaria.id":2203,
+    "intermediaria.nome":"Picos",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  },
+  {
+    "intermediaria.id":2204,
+    "intermediaria.nome":"São Raimundo Nonato",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  },
+  {
+    "intermediaria.id":2205,
+    "intermediaria.nome":"Corrente - Bom Jesus",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  },
+  {
+    "intermediaria.id":2206,
+    "intermediaria.nome":"Floriano",
+    "uf.id":22,
+    "uf.sigla":"PI"
+  }
+]

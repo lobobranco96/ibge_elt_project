@@ -1,0 +1,1148 @@
+[
+  {
+    "distrito.id":240010905,
+    "distrito.nome":"Acari",
+    "municipio.id":2400109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240020805,
+    "distrito.nome":"Açu",
+    "municipio.id":2400208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240030705,
+    "distrito.nome":"Afonso Bezerra",
+    "municipio.id":2400307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240040605,
+    "distrito.nome":"Água Nova",
+    "municipio.id":2400406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240050505,
+    "distrito.nome":"Alexandria",
+    "municipio.id":2400505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240060405,
+    "distrito.nome":"Almino Afonso",
+    "municipio.id":2400604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240070305,
+    "distrito.nome":"Alto do Rodrigues",
+    "municipio.id":2400703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240080205,
+    "distrito.nome":"Angicos",
+    "municipio.id":2400802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240090105,
+    "distrito.nome":"Antônio Martins",
+    "municipio.id":2400901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240100805,
+    "distrito.nome":"Apodi",
+    "municipio.id":2401008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240110705,
+    "distrito.nome":"Areia Branca",
+    "municipio.id":2401107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240120605,
+    "distrito.nome":"Arês",
+    "municipio.id":2401206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240140405,
+    "distrito.nome":"Baía Formosa",
+    "municipio.id":2401404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240145305,
+    "distrito.nome":"Baraúna",
+    "municipio.id":2401453,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240150305,
+    "distrito.nome":"Barcelona",
+    "municipio.id":2401503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240160205,
+    "distrito.nome":"Bento Fernandes",
+    "municipio.id":2401602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240160210,
+    "distrito.nome":"Belo Horizonte",
+    "municipio.id":2401602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240165105,
+    "distrito.nome":"Bodó",
+    "municipio.id":2401651,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240170105,
+    "distrito.nome":"Bom Jesus",
+    "municipio.id":2401701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240180005,
+    "distrito.nome":"Brejinho",
+    "municipio.id":2401800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240185905,
+    "distrito.nome":"Caiçara do Norte",
+    "municipio.id":2401859,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240190905,
+    "distrito.nome":"Caiçara do Rio do Vento",
+    "municipio.id":2401909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240200605,
+    "distrito.nome":"Caicó",
+    "municipio.id":2402006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240130505,
+    "distrito.nome":"Campo Grande",
+    "municipio.id":2401305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240210505,
+    "distrito.nome":"Campo Redondo",
+    "municipio.id":2402105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240220405,
+    "distrito.nome":"Canguaretama",
+    "municipio.id":2402204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240230305,
+    "distrito.nome":"Caraúbas",
+    "municipio.id":2402303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240230310,
+    "distrito.nome":"São Geraldo",
+    "municipio.id":2402303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240240205,
+    "distrito.nome":"Carnaúba dos Dantas",
+    "municipio.id":2402402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240250105,
+    "distrito.nome":"Carnaubais",
+    "municipio.id":2402501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240260005,
+    "distrito.nome":"Ceará-Mirim",
+    "municipio.id":2402600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240270905,
+    "distrito.nome":"Cerro Corá",
+    "municipio.id":2402709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240280805,
+    "distrito.nome":"Coronel Ezequiel",
+    "municipio.id":2402808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240290705,
+    "distrito.nome":"Coronel João Pessoa",
+    "municipio.id":2402907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240300405,
+    "distrito.nome":"Cruzeta",
+    "municipio.id":2403004,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240310305,
+    "distrito.nome":"Currais Novos",
+    "municipio.id":2403103,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240320205,
+    "distrito.nome":"Doutor Severiano",
+    "municipio.id":2403202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240330105,
+    "distrito.nome":"Encanto",
+    "municipio.id":2403301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240340005,
+    "distrito.nome":"Equador",
+    "municipio.id":2403400,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240350905,
+    "distrito.nome":"Espírito Santo",
+    "municipio.id":2403509,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240360805,
+    "distrito.nome":"Extremoz",
+    "municipio.id":2403608,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240370705,
+    "distrito.nome":"Felipe Guerra",
+    "municipio.id":2403707,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240375605,
+    "distrito.nome":"Fernando Pedroza",
+    "municipio.id":2403756,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240380605,
+    "distrito.nome":"Florânia",
+    "municipio.id":2403806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240390505,
+    "distrito.nome":"Francisco Dantas",
+    "municipio.id":2403905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240400205,
+    "distrito.nome":"Frutuoso Gomes",
+    "municipio.id":2404002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240410105,
+    "distrito.nome":"Galinhos",
+    "municipio.id":2404101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240420005,
+    "distrito.nome":"Goianinha",
+    "municipio.id":2404200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240430905,
+    "distrito.nome":"Governador Dix-Sept Rosado",
+    "municipio.id":2404309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240440805,
+    "distrito.nome":"Grossos",
+    "municipio.id":2404408,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240450705,
+    "distrito.nome":"Guamaré",
+    "municipio.id":2404507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240460605,
+    "distrito.nome":"Ielmo Marinho",
+    "municipio.id":2404606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240470505,
+    "distrito.nome":"Ipanguaçu",
+    "municipio.id":2404705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240480405,
+    "distrito.nome":"Ipueira",
+    "municipio.id":2404804,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240485305,
+    "distrito.nome":"Itajá",
+    "municipio.id":2404853,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240490305,
+    "distrito.nome":"Itaú",
+    "municipio.id":2404903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240500905,
+    "distrito.nome":"Jaçanã",
+    "municipio.id":2405009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240510805,
+    "distrito.nome":"Jandaíra",
+    "municipio.id":2405108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240520705,
+    "distrito.nome":"Janduís",
+    "municipio.id":2405207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240530605,
+    "distrito.nome":"Januário Cicco",
+    "municipio.id":2405306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240530610,
+    "distrito.nome":"Córrego de São Mateus",
+    "municipio.id":2405306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240540505,
+    "distrito.nome":"Japi",
+    "municipio.id":2405405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240550405,
+    "distrito.nome":"Jardim de Angicos",
+    "municipio.id":2405504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240560305,
+    "distrito.nome":"Jardim de Piranhas",
+    "municipio.id":2405603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240570205,
+    "distrito.nome":"Jardim do Seridó",
+    "municipio.id":2405702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240580105,
+    "distrito.nome":"João Câmara",
+    "municipio.id":2405801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240590005,
+    "distrito.nome":"João Dias",
+    "municipio.id":2405900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240590010,
+    "distrito.nome":"Rosário",
+    "municipio.id":2405900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240600705,
+    "distrito.nome":"José da Penha",
+    "municipio.id":2406007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240600710,
+    "distrito.nome":"Major Felipe",
+    "municipio.id":2406007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240610605,
+    "distrito.nome":"Jucurutu",
+    "municipio.id":2406106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240615505,
+    "distrito.nome":"Jundiá",
+    "municipio.id":2406155,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240620505,
+    "distrito.nome":"Lagoa d'Anta",
+    "municipio.id":2406205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240630405,
+    "distrito.nome":"Lagoa de Pedras",
+    "municipio.id":2406304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240640305,
+    "distrito.nome":"Lagoa de Velhos",
+    "municipio.id":2406403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240650205,
+    "distrito.nome":"Lagoa Nova",
+    "municipio.id":2406502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240660105,
+    "distrito.nome":"Lagoa Salgada",
+    "municipio.id":2406601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240670005,
+    "distrito.nome":"Lajes",
+    "municipio.id":2406700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240670010,
+    "distrito.nome":"Firmamento",
+    "municipio.id":2406700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240680905,
+    "distrito.nome":"Lajes Pintadas",
+    "municipio.id":2406809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240690805,
+    "distrito.nome":"Lucrécia",
+    "municipio.id":2406908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240700505,
+    "distrito.nome":"Luís Gomes",
+    "municipio.id":2407005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240700515,
+    "distrito.nome":"São Bernardo",
+    "municipio.id":2407005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240710405,
+    "distrito.nome":"Macaíba",
+    "municipio.id":2407104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240710410,
+    "distrito.nome":"Cana Brava",
+    "municipio.id":2407104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240710415,
+    "distrito.nome":"Traíras",
+    "municipio.id":2407104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240710420,
+    "distrito.nome":"Mangabeira",
+    "municipio.id":2407104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240710425,
+    "distrito.nome":"Cajazeiras",
+    "municipio.id":2407104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240720305,
+    "distrito.nome":"Macau",
+    "municipio.id":2407203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240725205,
+    "distrito.nome":"Major Sales",
+    "municipio.id":2407252,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240730205,
+    "distrito.nome":"Marcelino Vieira",
+    "municipio.id":2407302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240740105,
+    "distrito.nome":"Martins",
+    "municipio.id":2407401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240740110,
+    "distrito.nome":"Salva Vida",
+    "municipio.id":2407401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240750005,
+    "distrito.nome":"Maxaranguape",
+    "municipio.id":2407500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240760905,
+    "distrito.nome":"Messias Targino",
+    "municipio.id":2407609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240770805,
+    "distrito.nome":"Montanhas",
+    "municipio.id":2407708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240780705,
+    "distrito.nome":"Monte Alegre",
+    "municipio.id":2407807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240790605,
+    "distrito.nome":"Monte das Gameleiras",
+    "municipio.id":2407906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240800305,
+    "distrito.nome":"Mossoró",
+    "municipio.id":2408003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240810205,
+    "distrito.nome":"Natal",
+    "municipio.id":2408102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240820105,
+    "distrito.nome":"Nísia Floresta",
+    "municipio.id":2408201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240830005,
+    "distrito.nome":"Nova Cruz",
+    "municipio.id":2408300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240840905,
+    "distrito.nome":"Olho d'Água do Borges",
+    "municipio.id":2408409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240850805,
+    "distrito.nome":"Ouro Branco",
+    "municipio.id":2408508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240860705,
+    "distrito.nome":"Paraná",
+    "municipio.id":2408607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240870605,
+    "distrito.nome":"Paraú",
+    "municipio.id":2408706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240880505,
+    "distrito.nome":"Parazinho",
+    "municipio.id":2408805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240890405,
+    "distrito.nome":"Parelhas",
+    "municipio.id":2408904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240325105,
+    "distrito.nome":"Parnamirim",
+    "municipio.id":2403251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240325110,
+    "distrito.nome":"Pium",
+    "municipio.id":2403251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240325115,
+    "distrito.nome":"Cotovelo",
+    "municipio.id":2403251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240325120,
+    "distrito.nome":"Pirangi do Norte",
+    "municipio.id":2403251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240910005,
+    "distrito.nome":"Passa e Fica",
+    "municipio.id":2409100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240920905,
+    "distrito.nome":"Passagem",
+    "municipio.id":2409209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240930805,
+    "distrito.nome":"Patu",
+    "municipio.id":2409308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240940705,
+    "distrito.nome":"Pau dos Ferros",
+    "municipio.id":2409407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240950605,
+    "distrito.nome":"Pedra Grande",
+    "municipio.id":2409506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240960505,
+    "distrito.nome":"Pedra Preta",
+    "municipio.id":2409605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240970405,
+    "distrito.nome":"Pedro Avelino",
+    "municipio.id":2409704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240980305,
+    "distrito.nome":"Pedro Velho",
+    "municipio.id":2409803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240990205,
+    "distrito.nome":"Pendências",
+    "municipio.id":2409902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241000905,
+    "distrito.nome":"Pilões",
+    "municipio.id":2410009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241010805,
+    "distrito.nome":"Poço Branco",
+    "municipio.id":2410108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241020705,
+    "distrito.nome":"Portalegre",
+    "municipio.id":2410207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241025605,
+    "distrito.nome":"Porto do Mangue",
+    "municipio.id":2410256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241040505,
+    "distrito.nome":"Pureza",
+    "municipio.id":2410405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241050405,
+    "distrito.nome":"Rafael Fernandes",
+    "municipio.id":2410504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241060305,
+    "distrito.nome":"Rafael Godeiro",
+    "municipio.id":2410603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241070205,
+    "distrito.nome":"Riacho da Cruz",
+    "municipio.id":2410702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241080105,
+    "distrito.nome":"Riacho de Santana",
+    "municipio.id":2410801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241090005,
+    "distrito.nome":"Riachuelo",
+    "municipio.id":2410900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240895305,
+    "distrito.nome":"Rio do Fogo",
+    "municipio.id":2408953,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241100705,
+    "distrito.nome":"Rodolfo Fernandes",
+    "municipio.id":2411007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241110605,
+    "distrito.nome":"Ruy Barbosa",
+    "municipio.id":2411106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241120505,
+    "distrito.nome":"Santa Cruz",
+    "municipio.id":2411205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":240933205,
+    "distrito.nome":"Santa Maria",
+    "municipio.id":2409332,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241140305,
+    "distrito.nome":"Santana do Matos",
+    "municipio.id":2411403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241140310,
+    "distrito.nome":"Barão de Serra Branca",
+    "municipio.id":2411403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241140320,
+    "distrito.nome":"Santa Teresa",
+    "municipio.id":2411403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241140325,
+    "distrito.nome":"São José da Passagem",
+    "municipio.id":2411403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241142905,
+    "distrito.nome":"Santana do Seridó",
+    "municipio.id":2411429,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241150205,
+    "distrito.nome":"Santo Antônio",
+    "municipio.id":2411502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241160105,
+    "distrito.nome":"São Bento do Norte",
+    "municipio.id":2411601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241170005,
+    "distrito.nome":"São Bento do Trairí",
+    "municipio.id":2411700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241180905,
+    "distrito.nome":"São Fernando",
+    "municipio.id":2411809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241190805,
+    "distrito.nome":"São Francisco do Oeste",
+    "municipio.id":2411908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241200505,
+    "distrito.nome":"São Gonçalo do Amarante",
+    "municipio.id":2412005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241210405,
+    "distrito.nome":"São João do Sabugi",
+    "municipio.id":2412104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241220305,
+    "distrito.nome":"São José de Mipibu",
+    "municipio.id":2412203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241230205,
+    "distrito.nome":"São José do Campestre",
+    "municipio.id":2412302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241230210,
+    "distrito.nome":"Ipiranga",
+    "municipio.id":2412302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241240105,
+    "distrito.nome":"São José do Seridó",
+    "municipio.id":2412401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241250005,
+    "distrito.nome":"São Miguel",
+    "municipio.id":2412500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241255905,
+    "distrito.nome":"São Miguel do Gostoso",
+    "municipio.id":2412559,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241260905,
+    "distrito.nome":"São Paulo do Potengi",
+    "municipio.id":2412609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241270805,
+    "distrito.nome":"São Pedro",
+    "municipio.id":2412708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241280705,
+    "distrito.nome":"São Rafael",
+    "municipio.id":2412807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241290605,
+    "distrito.nome":"São Tomé",
+    "municipio.id":2412906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241300305,
+    "distrito.nome":"São Vicente",
+    "municipio.id":2413003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241310205,
+    "distrito.nome":"Senador Elói de Souza",
+    "municipio.id":2413102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241320105,
+    "distrito.nome":"Senador Georgino Avelino",
+    "municipio.id":2413201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241320110,
+    "distrito.nome":"Carnaúba",
+    "municipio.id":2413201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241030605,
+    "distrito.nome":"Serra Caiada",
+    "municipio.id":2410306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241330005,
+    "distrito.nome":"Serra de São Bento",
+    "municipio.id":2413300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241335905,
+    "distrito.nome":"Serra do Mel",
+    "municipio.id":2413359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241340905,
+    "distrito.nome":"Serra Negra do Norte",
+    "municipio.id":2413409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241350805,
+    "distrito.nome":"Serrinha",
+    "municipio.id":2413508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241355705,
+    "distrito.nome":"Serrinha dos Pintos",
+    "municipio.id":2413557,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241360705,
+    "distrito.nome":"Severiano Melo",
+    "municipio.id":2413607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241370605,
+    "distrito.nome":"Sítio Novo",
+    "municipio.id":2413706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241370610,
+    "distrito.nome":"Serra da Tapuia",
+    "municipio.id":2413706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241380505,
+    "distrito.nome":"Taboleiro Grande",
+    "municipio.id":2413805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241390405,
+    "distrito.nome":"Taipu",
+    "municipio.id":2413904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241390410,
+    "distrito.nome":"Gameleira",
+    "municipio.id":2413904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241400105,
+    "distrito.nome":"Tangará",
+    "municipio.id":2414001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241400110,
+    "distrito.nome":"Trairi",
+    "municipio.id":2414001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241410005,
+    "distrito.nome":"Tenente Ananias",
+    "municipio.id":2414100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241410010,
+    "distrito.nome":"Mata de São Braz",
+    "municipio.id":2414100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241415905,
+    "distrito.nome":"Tenente Laurentino Cruz",
+    "municipio.id":2414159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241105605,
+    "distrito.nome":"Tibau",
+    "municipio.id":2411056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241420905,
+    "distrito.nome":"Tibau do Sul",
+    "municipio.id":2414209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241430805,
+    "distrito.nome":"Timbaúba dos Batistas",
+    "municipio.id":2414308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241440705,
+    "distrito.nome":"Touros",
+    "municipio.id":2414407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241445605,
+    "distrito.nome":"Triunfo Potiguar",
+    "municipio.id":2414456,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241450605,
+    "distrito.nome":"Umarizal",
+    "municipio.id":2414506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241460505,
+    "distrito.nome":"Upanema",
+    "municipio.id":2414605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241470405,
+    "distrito.nome":"Várzea",
+    "municipio.id":2414704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241475305,
+    "distrito.nome":"Venha-Ver",
+    "municipio.id":2414753,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241480305,
+    "distrito.nome":"Vera Cruz",
+    "municipio.id":2414803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241490205,
+    "distrito.nome":"Viçosa",
+    "municipio.id":2414902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "distrito.id":241500805,
+    "distrito.nome":"Vila Flor",
+    "municipio.id":2415008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio Grande do Norte"
+  }
+]

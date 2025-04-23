@@ -1,0 +1,68 @@
+[
+  {
+    "intermediaria.id":3501,
+    "intermediaria.nome":"São Paulo",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3502,
+    "intermediaria.nome":"Sorocaba",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3503,
+    "intermediaria.nome":"Bauru",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3504,
+    "intermediaria.nome":"Marília",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3505,
+    "intermediaria.nome":"Presidente Prudente",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3506,
+    "intermediaria.nome":"Araçatuba",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3507,
+    "intermediaria.nome":"São José do Rio Preto",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3508,
+    "intermediaria.nome":"Ribeirão Preto",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3509,
+    "intermediaria.nome":"Araraquara",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3510,
+    "intermediaria.nome":"Campinas",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  },
+  {
+    "intermediaria.id":3511,
+    "intermediaria.nome":"São José dos Campos",
+    "uf.id":35,
+    "uf.sigla":"SP"
+  }
+]

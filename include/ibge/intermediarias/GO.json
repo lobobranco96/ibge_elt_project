@@ -1,0 +1,38 @@
+[
+  {
+    "intermediaria.id":5201,
+    "intermediaria.nome":"Goiânia",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  },
+  {
+    "intermediaria.id":5202,
+    "intermediaria.nome":"Itumbiara",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  },
+  {
+    "intermediaria.id":5203,
+    "intermediaria.nome":"Rio Verde",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  },
+  {
+    "intermediaria.id":5204,
+    "intermediaria.nome":"São Luís de Montes Belos - Iporá",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  },
+  {
+    "intermediaria.id":5205,
+    "intermediaria.nome":"Porangatu - Uruaçu",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  },
+  {
+    "intermediaria.id":5206,
+    "intermediaria.nome":"Luziânia - Águas Lindas de Goiás",
+    "uf.id":52,
+    "uf.sigla":"GO"
+  }
+]

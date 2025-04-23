@@ -1,0 +1,58 @@
+[
+  {
+    "imediata.id":320001,
+    "imediata.nome":"Vitória",
+    "regiao-intermediaria.id":3201,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320002,
+    "imediata.nome":"Afonso Cláudio - Venda Nova do Imigrante - Santa Maria de Jetibá",
+    "regiao-intermediaria.id":3201,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320003,
+    "imediata.nome":"São Mateus",
+    "regiao-intermediaria.id":3202,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320004,
+    "imediata.nome":"Linhares",
+    "regiao-intermediaria.id":3202,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320005,
+    "imediata.nome":"Colatina",
+    "regiao-intermediaria.id":3203,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320006,
+    "imediata.nome":"Nova Venécia",
+    "regiao-intermediaria.id":3203,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320007,
+    "imediata.nome":"Cachoeiro de Itapemirim",
+    "regiao-intermediaria.id":3204,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320008,
+    "imediata.nome":"Alegre",
+    "regiao-intermediaria.id":3204,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  }
+]

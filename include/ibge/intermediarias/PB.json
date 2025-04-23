@@ -1,0 +1,26 @@
+[
+  {
+    "intermediaria.id":2501,
+    "intermediaria.nome":"João Pessoa",
+    "uf.id":25,
+    "uf.sigla":"PB"
+  },
+  {
+    "intermediaria.id":2502,
+    "intermediaria.nome":"Campina Grande",
+    "uf.id":25,
+    "uf.sigla":"PB"
+  },
+  {
+    "intermediaria.id":2503,
+    "intermediaria.nome":"Patos",
+    "uf.id":25,
+    "uf.sigla":"PB"
+  },
+  {
+    "intermediaria.id":2504,
+    "intermediaria.nome":"Sousa - Cajazeiras",
+    "uf.id":25,
+    "uf.sigla":"PB"
+  }
+]

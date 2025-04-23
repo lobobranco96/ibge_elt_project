@@ -1,0 +1,44 @@
+[
+  {
+    "imediata.id":110001,
+    "imediata.nome":"Porto Velho",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110002,
+    "imediata.nome":"Ariquemes",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110003,
+    "imediata.nome":"Jaru",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110004,
+    "imediata.nome":"Ji-Paraná",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110005,
+    "imediata.nome":"Cacoal",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110006,
+    "imediata.nome":"Vilhena",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  }
+]

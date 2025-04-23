@@ -1,0 +1,2810 @@
+[
+  {
+    "distrito.id":420005105,
+    "distrito.nome":"Abdon Batista",
+    "municipio.id":4200051,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420010105,
+    "distrito.nome":"Abelardo Luz",
+    "municipio.id":4200101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420020005,
+    "distrito.nome":"Agrolândia",
+    "municipio.id":4200200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420030905,
+    "distrito.nome":"Agronômica",
+    "municipio.id":4200309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420040805,
+    "distrito.nome":"Água Doce",
+    "municipio.id":4200408,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420040810,
+    "distrito.nome":"Herciliópolis",
+    "municipio.id":4200408,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420050705,
+    "distrito.nome":"Águas de Chapecó",
+    "municipio.id":4200507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420055605,
+    "distrito.nome":"Águas Frias",
+    "municipio.id":4200556,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420060605,
+    "distrito.nome":"Águas Mornas",
+    "municipio.id":4200606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420070505,
+    "distrito.nome":"Alfredo Wagner",
+    "municipio.id":4200705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420070510,
+    "distrito.nome":"Arnópolis",
+    "municipio.id":4200705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420070515,
+    "distrito.nome":"Catuíra",
+    "municipio.id":4200705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420070520,
+    "distrito.nome":"São Leonardo",
+    "municipio.id":4200705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420075405,
+    "distrito.nome":"Alto Bela Vista",
+    "municipio.id":4200754,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420080405,
+    "distrito.nome":"Anchieta",
+    "municipio.id":4200804,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420090305,
+    "distrito.nome":"Angelina",
+    "municipio.id":4200903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420090310,
+    "distrito.nome":"Barra Clara",
+    "municipio.id":4200903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420090315,
+    "distrito.nome":"Garcia",
+    "municipio.id":4200903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420100005,
+    "distrito.nome":"Anita Garibaldi",
+    "municipio.id":4201000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420100015,
+    "distrito.nome":"Lagoa da Estiva",
+    "municipio.id":4201000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420110905,
+    "distrito.nome":"Anitápolis",
+    "municipio.id":4201109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420120805,
+    "distrito.nome":"Antônio Carlos",
+    "municipio.id":4201208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420125705,
+    "distrito.nome":"Apiúna",
+    "municipio.id":4201257,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420127305,
+    "distrito.nome":"Arabutã",
+    "municipio.id":4201273,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420127310,
+    "distrito.nome":"Nova Estrela",
+    "municipio.id":4201273,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420130705,
+    "distrito.nome":"Araquari",
+    "municipio.id":4201307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420130710,
+    "distrito.nome":"Itapocu",
+    "municipio.id":4201307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420140605,
+    "distrito.nome":"Araranguá",
+    "municipio.id":4201406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420140610,
+    "distrito.nome":"Hercílio Luz",
+    "municipio.id":4201406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420140615,
+    "distrito.nome":"Balneário Morro dos Conventos",
+    "municipio.id":4201406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420140625,
+    "distrito.nome":"Sanga da Toca",
+    "municipio.id":4201406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420150505,
+    "distrito.nome":"Armazém",
+    "municipio.id":4201505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420160405,
+    "distrito.nome":"Arroio Trinta",
+    "municipio.id":4201604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420165305,
+    "distrito.nome":"Arvoredo",
+    "municipio.id":4201653,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420170305,
+    "distrito.nome":"Ascurra",
+    "municipio.id":4201703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420180205,
+    "distrito.nome":"Atalanta",
+    "municipio.id":4201802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420190105,
+    "distrito.nome":"Aurora",
+    "municipio.id":4201901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420195005,
+    "distrito.nome":"Balneário Arroio do Silva",
+    "municipio.id":4201950,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420205705,
+    "distrito.nome":"Balneário Barra do Sul",
+    "municipio.id":4202057,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420200805,
+    "distrito.nome":"Balneário Camboriú",
+    "municipio.id":4202008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420207305,
+    "distrito.nome":"Balneário Gaivota",
+    "municipio.id":4202073,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421280905,
+    "distrito.nome":"Balneário Piçarras",
+    "municipio.id":4212809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":422000005,
+    "distrito.nome":"Balneário Rincão",
+    "municipio.id":4220000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420208105,
+    "distrito.nome":"Bandeirante",
+    "municipio.id":4202081,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420209905,
+    "distrito.nome":"Barra Bonita",
+    "municipio.id":4202099,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420210705,
+    "distrito.nome":"Barra Velha",
+    "municipio.id":4202107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420213105,
+    "distrito.nome":"Bela Vista do Toldo",
+    "municipio.id":4202131,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420215605,
+    "distrito.nome":"Belmonte",
+    "municipio.id":4202156,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420220605,
+    "distrito.nome":"Benedito Novo",
+    "municipio.id":4202206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420220613,
+    "distrito.nome":"Barra São João",
+    "municipio.id":4202206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420220615,
+    "distrito.nome":"Santa Maria",
+    "municipio.id":4202206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420230505,
+    "distrito.nome":"Biguaçu",
+    "municipio.id":4202305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420230510,
+    "distrito.nome":"Guaporanga",
+    "municipio.id":4202305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420230515,
+    "distrito.nome":"Sorocaba do Sul",
+    "municipio.id":4202305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420240405,
+    "distrito.nome":"Blumenau",
+    "municipio.id":4202404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420240410,
+    "distrito.nome":"Itoupava",
+    "municipio.id":4202404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420240415,
+    "distrito.nome":"Grande Garcia",
+    "municipio.id":4202404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420243805,
+    "distrito.nome":"Bocaina do Sul",
+    "municipio.id":4202438,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420250305,
+    "distrito.nome":"Bom Jardim da Serra",
+    "municipio.id":4202503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420253705,
+    "distrito.nome":"Bom Jesus",
+    "municipio.id":4202537,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420257805,
+    "distrito.nome":"Bom Jesus do Oeste",
+    "municipio.id":4202578,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420260205,
+    "distrito.nome":"Bom Retiro",
+    "municipio.id":4202602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420260210,
+    "distrito.nome":"Canoas",
+    "municipio.id":4202602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420245305,
+    "distrito.nome":"Bombinhas",
+    "municipio.id":4202453,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420270105,
+    "distrito.nome":"Botuverá",
+    "municipio.id":4202701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420280005,
+    "distrito.nome":"Braço do Norte",
+    "municipio.id":4202800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420285905,
+    "distrito.nome":"Braço do Trombudo",
+    "municipio.id":4202859,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420287505,
+    "distrito.nome":"Brunópolis",
+    "municipio.id":4202875,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420287510,
+    "distrito.nome":"Marombas",
+    "municipio.id":4202875,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420290905,
+    "distrito.nome":"Brusque",
+    "municipio.id":4202909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420300605,
+    "distrito.nome":"Caçador",
+    "municipio.id":4203006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420300615,
+    "distrito.nome":"Taquara Verde",
+    "municipio.id":4203006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420310505,
+    "distrito.nome":"Caibi",
+    "municipio.id":4203105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420315405,
+    "distrito.nome":"Calmon",
+    "municipio.id":4203154,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420320405,
+    "distrito.nome":"Camboriú",
+    "municipio.id":4203204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420320410,
+    "distrito.nome":"Monte Alegre",
+    "municipio.id":4203204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420330305,
+    "distrito.nome":"Campo Alegre",
+    "municipio.id":4203303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420330310,
+    "distrito.nome":"Bateias de Baixo",
+    "municipio.id":4203303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420330315,
+    "distrito.nome":"Fragosos",
+    "municipio.id":4203303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420340205,
+    "distrito.nome":"Campo Belo do Sul",
+    "municipio.id":4203402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420350105,
+    "distrito.nome":"Campo Erê",
+    "municipio.id":4203501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360005,
+    "distrito.nome":"Campos Novos",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360010,
+    "distrito.nome":"Bela Vista",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360015,
+    "distrito.nome":"Dal'Pai",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360017,
+    "distrito.nome":"Encruzilhada",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360020,
+    "distrito.nome":"Espinilho",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360023,
+    "distrito.nome":"Ibicuí",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360026,
+    "distrito.nome":"Leão",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420360045,
+    "distrito.nome":"Guarani",
+    "municipio.id":4203600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420370905,
+    "distrito.nome":"Canelinha",
+    "municipio.id":4203709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380805,
+    "distrito.nome":"Canoinhas",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380812,
+    "distrito.nome":"Campo da Água Verde",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380815,
+    "distrito.nome":"Felipe Schmidt",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380820,
+    "distrito.nome":"Marcílio Dias",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380825,
+    "distrito.nome":"Paula Pereira",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420380830,
+    "distrito.nome":"Pinheiros",
+    "municipio.id":4203808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420325305,
+    "distrito.nome":"Capão Alto",
+    "municipio.id":4203253,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420390705,
+    "distrito.nome":"Capinzal",
+    "municipio.id":4203907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420390710,
+    "distrito.nome":"Alto Alegre",
+    "municipio.id":4203907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420395605,
+    "distrito.nome":"Capivari de Baixo",
+    "municipio.id":4203956,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420400405,
+    "distrito.nome":"Catanduvas",
+    "municipio.id":4204004,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420410305,
+    "distrito.nome":"Caxambu do Sul",
+    "municipio.id":4204103,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420415205,
+    "distrito.nome":"Celso Ramos",
+    "municipio.id":4204152,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420417805,
+    "distrito.nome":"Cerro Negro",
+    "municipio.id":4204178,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420419405,
+    "distrito.nome":"Chapadão do Lageado",
+    "municipio.id":4204194,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420420205,
+    "distrito.nome":"Chapecó",
+    "municipio.id":4204202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420420210,
+    "distrito.nome":"Alto da Serra",
+    "municipio.id":4204202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420420220,
+    "distrito.nome":"Figueira",
+    "municipio.id":4204202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420420225,
+    "distrito.nome":"Gôio-En",
+    "municipio.id":4204202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420420240,
+    "distrito.nome":"Marechal Bormann",
+    "municipio.id":4204202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420425105,
+    "distrito.nome":"Cocal do Sul",
+    "municipio.id":4204251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430105,
+    "distrito.nome":"Concórdia",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430115,
+    "distrito.nome":"Engenho Velho",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430120,
+    "distrito.nome":"Planalto",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430125,
+    "distrito.nome":"Presidente Kennedy",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430135,
+    "distrito.nome":"Santo Antônio",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420430140,
+    "distrito.nome":"Tamanduá",
+    "municipio.id":4204301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420435005,
+    "distrito.nome":"Cordilheira Alta",
+    "municipio.id":4204350,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420435010,
+    "distrito.nome":"Fernando Machado",
+    "municipio.id":4204350,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420440005,
+    "distrito.nome":"Coronel Freitas",
+    "municipio.id":4204400,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420445905,
+    "distrito.nome":"Coronel Martins",
+    "municipio.id":4204459,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420455805,
+    "distrito.nome":"Correia Pinto",
+    "municipio.id":4204558,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420450905,
+    "distrito.nome":"Corupá",
+    "municipio.id":4204509,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420460805,
+    "distrito.nome":"Criciúma",
+    "municipio.id":4204608,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420460815,
+    "distrito.nome":"Rio Maina",
+    "municipio.id":4204608,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420470705,
+    "distrito.nome":"Cunha Porã",
+    "municipio.id":4204707,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420475605,
+    "distrito.nome":"Cunhataí",
+    "municipio.id":4204756,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420480605,
+    "distrito.nome":"Curitibanos",
+    "municipio.id":4204806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420480613,
+    "distrito.nome":"Marombas Bossardi",
+    "municipio.id":4204806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420480617,
+    "distrito.nome":"Santa Cruz do Pery",
+    "municipio.id":4204806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420490505,
+    "distrito.nome":"Descanso",
+    "municipio.id":4204905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420490515,
+    "distrito.nome":"Itajubá",
+    "municipio.id":4204905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420500105,
+    "distrito.nome":"Dionísio Cerqueira",
+    "municipio.id":4205001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420500107,
+    "distrito.nome":"Idamar",
+    "municipio.id":4205001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420500109,
+    "distrito.nome":"Jorge Lacerda",
+    "municipio.id":4205001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420500110,
+    "distrito.nome":"São Pedro Tobias",
+    "municipio.id":4205001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420510005,
+    "distrito.nome":"Dona Emma",
+    "municipio.id":4205100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420515905,
+    "distrito.nome":"Doutor Pedrinho",
+    "municipio.id":4205159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420517505,
+    "distrito.nome":"Entre Rios",
+    "municipio.id":4205175,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420519105,
+    "distrito.nome":"Ermo",
+    "municipio.id":4205191,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420520905,
+    "distrito.nome":"Erval Velho",
+    "municipio.id":4205209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420520910,
+    "distrito.nome":"Barra Fria",
+    "municipio.id":4205209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420530805,
+    "distrito.nome":"Faxinal dos Guedes",
+    "municipio.id":4205308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420530810,
+    "distrito.nome":"Barra Grande",
+    "municipio.id":4205308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420535705,
+    "distrito.nome":"Flor do Sertão",
+    "municipio.id":4205357,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540705,
+    "distrito.nome":"Florianópolis",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540708,
+    "distrito.nome":"Barra da Lagoa",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540710,
+    "distrito.nome":"Cachoeira do Bom Jesus",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540712,
+    "distrito.nome":"Campeche",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540715,
+    "distrito.nome":"Canasvieiras",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540720,
+    "distrito.nome":"Ingleses do Rio Vermelho",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540725,
+    "distrito.nome":"Lagoa da Conceição",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540730,
+    "distrito.nome":"Pântano do Sul",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540735,
+    "distrito.nome":"Ratones",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540740,
+    "distrito.nome":"Ribeirão da Ilha",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540745,
+    "distrito.nome":"Santo Antônio de Lisboa",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420540750,
+    "distrito.nome":"São João do Rio Vermelho",
+    "municipio.id":4205407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420543105,
+    "distrito.nome":"Formosa do Sul",
+    "municipio.id":4205431,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420545605,
+    "distrito.nome":"Forquilhinha",
+    "municipio.id":4205456,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420550605,
+    "distrito.nome":"Fraiburgo",
+    "municipio.id":4205506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420555505,
+    "distrito.nome":"Frei Rogério",
+    "municipio.id":4205555,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420555510,
+    "distrito.nome":"Núcleo Tritícola",
+    "municipio.id":4205555,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420560505,
+    "distrito.nome":"Galvão",
+    "municipio.id":4205605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420570405,
+    "distrito.nome":"Garopaba",
+    "municipio.id":4205704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420580305,
+    "distrito.nome":"Garuva",
+    "municipio.id":4205803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420590205,
+    "distrito.nome":"Gaspar",
+    "municipio.id":4205902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420600905,
+    "distrito.nome":"Governador Celso Ramos",
+    "municipio.id":4206009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420610805,
+    "distrito.nome":"Grão-Pará",
+    "municipio.id":4206108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420610810,
+    "distrito.nome":"Aiurê",
+    "municipio.id":4206108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420610815,
+    "distrito.nome":"Invernada",
+    "municipio.id":4206108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420620705,
+    "distrito.nome":"Gravatal",
+    "municipio.id":4206207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420630605,
+    "distrito.nome":"Guabiruba",
+    "municipio.id":4206306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420640505,
+    "distrito.nome":"Guaraciaba",
+    "municipio.id":4206405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420640520,
+    "distrito.nome":"Ouro Verde",
+    "municipio.id":4206405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420650405,
+    "distrito.nome":"Guaramirim",
+    "municipio.id":4206504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420660305,
+    "distrito.nome":"Guarujá do Sul",
+    "municipio.id":4206603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420665205,
+    "distrito.nome":"Guatambú",
+    "municipio.id":4206652,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420665210,
+    "distrito.nome":"Fazenda Zandavalli",
+    "municipio.id":4206652,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420670205,
+    "distrito.nome":"Herval d'Oeste",
+    "municipio.id":4206702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420675105,
+    "distrito.nome":"Ibiam",
+    "municipio.id":4206751,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420680105,
+    "distrito.nome":"Ibicaré",
+    "municipio.id":4206801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420690005,
+    "distrito.nome":"Ibirama",
+    "municipio.id":4206900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420690010,
+    "distrito.nome":"Dalbérgia",
+    "municipio.id":4206900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420700705,
+    "distrito.nome":"Içara",
+    "municipio.id":4207007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420710605,
+    "distrito.nome":"Ilhota",
+    "municipio.id":4207106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420720505,
+    "distrito.nome":"Imaruí",
+    "municipio.id":4207205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420720510,
+    "distrito.nome":"Rio d'Una",
+    "municipio.id":4207205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420730405,
+    "distrito.nome":"Imbituba",
+    "municipio.id":4207304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420730410,
+    "distrito.nome":"Mirim",
+    "municipio.id":4207304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420730415,
+    "distrito.nome":"Vila Nova",
+    "municipio.id":4207304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420740305,
+    "distrito.nome":"Imbuia",
+    "municipio.id":4207403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420750205,
+    "distrito.nome":"Indaial",
+    "municipio.id":4207502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420757705,
+    "distrito.nome":"Iomerê",
+    "municipio.id":4207577,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420760105,
+    "distrito.nome":"Ipira",
+    "municipio.id":4207601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420765005,
+    "distrito.nome":"Iporã do Oeste",
+    "municipio.id":4207650,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420768405,
+    "distrito.nome":"Ipuaçu",
+    "municipio.id":4207684,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420770005,
+    "distrito.nome":"Ipumirim",
+    "municipio.id":4207700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420775905,
+    "distrito.nome":"Iraceminha",
+    "municipio.id":4207759,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420775920,
+    "distrito.nome":"São José do Laranjal",
+    "municipio.id":4207759,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420780905,
+    "distrito.nome":"Irani",
+    "municipio.id":4207809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420785805,
+    "distrito.nome":"Irati",
+    "municipio.id":4207858,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420790805,
+    "distrito.nome":"Irineópolis",
+    "municipio.id":4207908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420790810,
+    "distrito.nome":"Poço Preto",
+    "municipio.id":4207908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420800505,
+    "distrito.nome":"Itá",
+    "municipio.id":4208005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420810405,
+    "distrito.nome":"Itaiópolis",
+    "municipio.id":4208104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420810410,
+    "distrito.nome":"Iraputã",
+    "municipio.id":4208104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420810415,
+    "distrito.nome":"Itaió",
+    "municipio.id":4208104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420810418,
+    "distrito.nome":"Moema",
+    "municipio.id":4208104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420820305,
+    "distrito.nome":"Itajaí",
+    "municipio.id":4208203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420830205,
+    "distrito.nome":"Itapema",
+    "municipio.id":4208302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420840105,
+    "distrito.nome":"Itapiranga",
+    "municipio.id":4208401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420845005,
+    "distrito.nome":"Itapoá",
+    "municipio.id":4208450,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420850005,
+    "distrito.nome":"Ituporanga",
+    "municipio.id":4208500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420850010,
+    "distrito.nome":"Rio Bonito",
+    "municipio.id":4208500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420860905,
+    "distrito.nome":"Jaborá",
+    "municipio.id":4208609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420870805,
+    "distrito.nome":"Jacinto Machado",
+    "municipio.id":4208708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420880705,
+    "distrito.nome":"Jaguaruna",
+    "municipio.id":4208807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420890605,
+    "distrito.nome":"Jaraguá do Sul",
+    "municipio.id":4208906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420895505,
+    "distrito.nome":"Jardinópolis",
+    "municipio.id":4208955,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420900305,
+    "distrito.nome":"Joaçaba",
+    "municipio.id":4209003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420900315,
+    "distrito.nome":"Nova Petrópolis",
+    "municipio.id":4209003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420900325,
+    "distrito.nome":"Santa Helena",
+    "municipio.id":4209003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420910205,
+    "distrito.nome":"Joinville",
+    "municipio.id":4209102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420910210,
+    "distrito.nome":"Pirabeiraba",
+    "municipio.id":4209102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420915105,
+    "distrito.nome":"José Boiteux",
+    "municipio.id":4209151,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420917705,
+    "distrito.nome":"Jupiá",
+    "municipio.id":4209177,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420920105,
+    "distrito.nome":"Lacerdópolis",
+    "municipio.id":4209201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420920110,
+    "distrito.nome":"São Roque",
+    "municipio.id":4209201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420930005,
+    "distrito.nome":"Lages",
+    "municipio.id":4209300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420930025,
+    "distrito.nome":"Índios",
+    "municipio.id":4209300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420930045,
+    "distrito.nome":"Santa Teresinha do Salto",
+    "municipio.id":4209300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420940905,
+    "distrito.nome":"Laguna",
+    "municipio.id":4209409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420940915,
+    "distrito.nome":"Ribeirão Pequeno",
+    "municipio.id":4209409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420945805,
+    "distrito.nome":"Lajeado Grande",
+    "municipio.id":4209458,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420950805,
+    "distrito.nome":"Laurentino",
+    "municipio.id":4209508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420960705,
+    "distrito.nome":"Lauro Müller",
+    "municipio.id":4209607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420960710,
+    "distrito.nome":"Barro Branco",
+    "municipio.id":4209607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420960715,
+    "distrito.nome":"Guatá",
+    "municipio.id":4209607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420970605,
+    "distrito.nome":"Lebon Régis",
+    "municipio.id":4209706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420970610,
+    "distrito.nome":"São Sebastião do Sul",
+    "municipio.id":4209706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420980505,
+    "distrito.nome":"Leoberto Leal",
+    "municipio.id":4209805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420985405,
+    "distrito.nome":"Lindóia do Sul",
+    "municipio.id":4209854,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":420990405,
+    "distrito.nome":"Lontras",
+    "municipio.id":4209904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421000105,
+    "distrito.nome":"Luiz Alves",
+    "municipio.id":4210001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421003505,
+    "distrito.nome":"Luzerna",
+    "municipio.id":4210035,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421005005,
+    "distrito.nome":"Macieira",
+    "municipio.id":4210050,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421010005,
+    "distrito.nome":"Mafra",
+    "municipio.id":4210100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421010010,
+    "distrito.nome":"Bela Vista do Sul",
+    "municipio.id":4210100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421010015,
+    "distrito.nome":"Rio Preto do Sul",
+    "municipio.id":4210100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421020905,
+    "distrito.nome":"Major Gercino",
+    "municipio.id":4210209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421020910,
+    "distrito.nome":"Boiteuxburgo",
+    "municipio.id":4210209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421020915,
+    "distrito.nome":"Pinheiral",
+    "municipio.id":4210209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421030805,
+    "distrito.nome":"Major Vieira",
+    "municipio.id":4210308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421040705,
+    "distrito.nome":"Maracajá",
+    "municipio.id":4210407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421050605,
+    "distrito.nome":"Maravilha",
+    "municipio.id":4210506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421055505,
+    "distrito.nome":"Marema",
+    "municipio.id":4210555,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421060505,
+    "distrito.nome":"Massaranduba",
+    "municipio.id":4210605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421070405,
+    "distrito.nome":"Matos Costa",
+    "municipio.id":4210704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421080305,
+    "distrito.nome":"Meleiro",
+    "municipio.id":4210803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421080315,
+    "distrito.nome":"Sapiranga",
+    "municipio.id":4210803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421085205,
+    "distrito.nome":"Mirim Doce",
+    "municipio.id":4210852,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421090205,
+    "distrito.nome":"Modelo",
+    "municipio.id":4210902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421100905,
+    "distrito.nome":"Mondaí",
+    "municipio.id":4211009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421105805,
+    "distrito.nome":"Monte Carlo",
+    "municipio.id":4211058,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421110805,
+    "distrito.nome":"Monte Castelo",
+    "municipio.id":4211108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421110820,
+    "distrito.nome":"Residência Fuck",
+    "municipio.id":4211108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421120705,
+    "distrito.nome":"Morro da Fumaça",
+    "municipio.id":4211207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421120710,
+    "distrito.nome":"Estação Cocal",
+    "municipio.id":4211207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421125605,
+    "distrito.nome":"Morro Grande",
+    "municipio.id":4211256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421130605,
+    "distrito.nome":"Navegantes",
+    "municipio.id":4211306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421140505,
+    "distrito.nome":"Nova Erechim",
+    "municipio.id":4211405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421145405,
+    "distrito.nome":"Nova Itaberaba",
+    "municipio.id":4211454,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421150405,
+    "distrito.nome":"Nova Trento",
+    "municipio.id":4211504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421150410,
+    "distrito.nome":"Aguti",
+    "municipio.id":4211504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421150415,
+    "distrito.nome":"Claraíba",
+    "municipio.id":4211504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421160305,
+    "distrito.nome":"Nova Veneza",
+    "municipio.id":4211603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421160307,
+    "distrito.nome":"Nossa Senhora do Caravagio",
+    "municipio.id":4211603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421160310,
+    "distrito.nome":"São Bento Baixo",
+    "municipio.id":4211603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421165205,
+    "distrito.nome":"Novo Horizonte",
+    "municipio.id":4211652,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170205,
+    "distrito.nome":"Orleans",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170210,
+    "distrito.nome":"Pindotiba",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170215,
+    "distrito.nome":"Rio das Furnas",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170220,
+    "distrito.nome":"Barracão",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170225,
+    "distrito.nome":"Brusque do Sul",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421170230,
+    "distrito.nome":"Rio Pinheiros",
+    "municipio.id":4211702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421175105,
+    "distrito.nome":"Otacílio Costa",
+    "municipio.id":4211751,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421180105,
+    "distrito.nome":"Ouro",
+    "municipio.id":4211801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421180115,
+    "distrito.nome":"Santa Lúcia",
+    "municipio.id":4211801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421185005,
+    "distrito.nome":"Ouro Verde",
+    "municipio.id":4211850,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421187605,
+    "distrito.nome":"Paial",
+    "municipio.id":4211876,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421189205,
+    "distrito.nome":"Painel",
+    "municipio.id":4211892,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421190005,
+    "distrito.nome":"Palhoça",
+    "municipio.id":4211900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421190010,
+    "distrito.nome":"Enseada de Brito",
+    "municipio.id":4211900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421200705,
+    "distrito.nome":"Palma Sola",
+    "municipio.id":4212007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421200710,
+    "distrito.nome":"Cerro Azul",
+    "municipio.id":4212007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421200720,
+    "distrito.nome":"Rene Damo",
+    "municipio.id":4212007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421205605,
+    "distrito.nome":"Palmeira",
+    "municipio.id":4212056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421210605,
+    "distrito.nome":"Palmitos",
+    "municipio.id":4212106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421210610,
+    "distrito.nome":"Diamantina",
+    "municipio.id":4212106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421210620,
+    "distrito.nome":"Oldemburg",
+    "municipio.id":4212106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421210625,
+    "distrito.nome":"Santa Lúcia",
+    "municipio.id":4212106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421220505,
+    "distrito.nome":"Papanduva",
+    "municipio.id":4212205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421220510,
+    "distrito.nome":"Nova Cultura",
+    "municipio.id":4212205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421223905,
+    "distrito.nome":"Paraíso",
+    "municipio.id":4212239,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421223910,
+    "distrito.nome":"Grápia",
+    "municipio.id":4212239,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421225405,
+    "distrito.nome":"Passo de Torres",
+    "municipio.id":4212254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421225410,
+    "distrito.nome":"Balneário Rosa do Mar",
+    "municipio.id":4212254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421227005,
+    "distrito.nome":"Passos Maia",
+    "municipio.id":4212270,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421230405,
+    "distrito.nome":"Paulo Lopes",
+    "municipio.id":4212304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421240305,
+    "distrito.nome":"Pedras Grandes",
+    "municipio.id":4212403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421240310,
+    "distrito.nome":"Azambuja",
+    "municipio.id":4212403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421250205,
+    "distrito.nome":"Penha",
+    "municipio.id":4212502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421260105,
+    "distrito.nome":"Peritiba",
+    "municipio.id":4212601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421265005,
+    "distrito.nome":"Pescaria Brava",
+    "municipio.id":4212650,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421270005,
+    "distrito.nome":"Petrolândia",
+    "municipio.id":4212700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421270010,
+    "distrito.nome":"Rio Antinha",
+    "municipio.id":4212700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421290805,
+    "distrito.nome":"Pinhalzinho",
+    "municipio.id":4212908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421290815,
+    "distrito.nome":"Machado",
+    "municipio.id":4212908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421300505,
+    "distrito.nome":"Pinheiro Preto",
+    "municipio.id":4213005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421310405,
+    "distrito.nome":"Piratuba",
+    "municipio.id":4213104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421310410,
+    "distrito.nome":"Uruguai",
+    "municipio.id":4213104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421315305,
+    "distrito.nome":"Planalto Alegre",
+    "municipio.id":4213153,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421320305,
+    "distrito.nome":"Pomerode",
+    "municipio.id":4213203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421330205,
+    "distrito.nome":"Ponte Alta",
+    "municipio.id":4213302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421335105,
+    "distrito.nome":"Ponte Alta do Norte",
+    "municipio.id":4213351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421340105,
+    "distrito.nome":"Ponte Serrada",
+    "municipio.id":4213401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421340108,
+    "distrito.nome":"Baía Alta",
+    "municipio.id":4213401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421350005,
+    "distrito.nome":"Porto Belo",
+    "municipio.id":4213500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421360905,
+    "distrito.nome":"Porto União",
+    "municipio.id":4213609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421360910,
+    "distrito.nome":"Santa Cruz do Timbó",
+    "municipio.id":4213609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421360920,
+    "distrito.nome":"São Miguel da Serra",
+    "municipio.id":4213609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421370805,
+    "distrito.nome":"Pouso Redondo",
+    "municipio.id":4213708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421370810,
+    "distrito.nome":"Aterrado Torto",
+    "municipio.id":4213708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421380705,
+    "distrito.nome":"Praia Grande",
+    "municipio.id":4213807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421380710,
+    "distrito.nome":"Cachoeira de Fátima",
+    "municipio.id":4213807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421390605,
+    "distrito.nome":"Presidente Castello Branco",
+    "municipio.id":4213906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421400305,
+    "distrito.nome":"Presidente Getúlio",
+    "municipio.id":4214003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421400310,
+    "distrito.nome":"Mirador",
+    "municipio.id":4214003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421410205,
+    "distrito.nome":"Presidente Nereu",
+    "municipio.id":4214102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421415105,
+    "distrito.nome":"Princesa",
+    "municipio.id":4214151,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421420105,
+    "distrito.nome":"Quilombo",
+    "municipio.id":4214201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421430005,
+    "distrito.nome":"Rancho Queimado",
+    "municipio.id":4214300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421430010,
+    "distrito.nome":"Taquaras",
+    "municipio.id":4214300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421440905,
+    "distrito.nome":"Rio das Antas",
+    "municipio.id":4214409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421440910,
+    "distrito.nome":"Ipoméia",
+    "municipio.id":4214409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421450805,
+    "distrito.nome":"Rio do Campo",
+    "municipio.id":4214508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421460705,
+    "distrito.nome":"Rio do Oeste",
+    "municipio.id":4214607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421480505,
+    "distrito.nome":"Rio do Sul",
+    "municipio.id":4214805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421470605,
+    "distrito.nome":"Rio dos Cedros",
+    "municipio.id":4214706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421470610,
+    "distrito.nome":"Cedro Alto",
+    "municipio.id":4214706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421490405,
+    "distrito.nome":"Rio Fortuna",
+    "municipio.id":4214904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421500005,
+    "distrito.nome":"Rio Negrinho",
+    "municipio.id":4215000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421500030,
+    "distrito.nome":"Vila de Volta Grande",
+    "municipio.id":4215000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421505905,
+    "distrito.nome":"Rio Rufino",
+    "municipio.id":4215059,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421507505,
+    "distrito.nome":"Riqueza",
+    "municipio.id":4215075,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421510905,
+    "distrito.nome":"Rodeio",
+    "municipio.id":4215109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421520805,
+    "distrito.nome":"Romelândia",
+    "municipio.id":4215208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421530705,
+    "distrito.nome":"Salete",
+    "municipio.id":4215307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421535605,
+    "distrito.nome":"Saltinho",
+    "municipio.id":4215356,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421540605,
+    "distrito.nome":"Salto Veloso",
+    "municipio.id":4215406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421545505,
+    "distrito.nome":"Sangão",
+    "municipio.id":4215455,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421545515,
+    "distrito.nome":"Morro Grande",
+    "municipio.id":4215455,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421550505,
+    "distrito.nome":"Santa Cecília",
+    "municipio.id":4215505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421555405,
+    "distrito.nome":"Santa Helena",
+    "municipio.id":4215554,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421560405,
+    "distrito.nome":"Santa Rosa de Lima",
+    "municipio.id":4215604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421565305,
+    "distrito.nome":"Santa Rosa do Sul",
+    "municipio.id":4215653,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421567905,
+    "distrito.nome":"Santa Terezinha",
+    "municipio.id":4215679,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421567915,
+    "distrito.nome":"Craveiro",
+    "municipio.id":4215679,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421567925,
+    "distrito.nome":"Rio da Anta",
+    "municipio.id":4215679,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421568705,
+    "distrito.nome":"Santa Terezinha do Progresso",
+    "municipio.id":4215687,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421569505,
+    "distrito.nome":"Santiago do Sul",
+    "municipio.id":4215695,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421570305,
+    "distrito.nome":"Santo Amaro da Imperatriz",
+    "municipio.id":4215703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421580205,
+    "distrito.nome":"São Bento do Sul",
+    "municipio.id":4215802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421575205,
+    "distrito.nome":"São Bernardino",
+    "municipio.id":4215752,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421590105,
+    "distrito.nome":"São Bonifácio",
+    "municipio.id":4215901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421600805,
+    "distrito.nome":"São Carlos",
+    "municipio.id":4216008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421605705,
+    "distrito.nome":"São Cristóvão do Sul",
+    "municipio.id":4216057,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421610705,
+    "distrito.nome":"São Domingos",
+    "municipio.id":4216107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421610715,
+    "distrito.nome":"Maratá",
+    "municipio.id":4216107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421610730,
+    "distrito.nome":"Vila Milani",
+    "municipio.id":4216107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421620605,
+    "distrito.nome":"São Francisco do Sul",
+    "municipio.id":4216206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421620610,
+    "distrito.nome":"Saí",
+    "municipio.id":4216206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421630505,
+    "distrito.nome":"São João Batista",
+    "municipio.id":4216305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421630510,
+    "distrito.nome":"Tijipió",
+    "municipio.id":4216305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421635405,
+    "distrito.nome":"São João do Itaperiú",
+    "municipio.id":4216354,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421625505,
+    "distrito.nome":"São João do Oeste",
+    "municipio.id":4216255,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421640405,
+    "distrito.nome":"São João do Sul",
+    "municipio.id":4216404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421640415,
+    "distrito.nome":"Vila Conceição",
+    "municipio.id":4216404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421640420,
+    "distrito.nome":"Vila Santa Catarina",
+    "municipio.id":4216404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421650305,
+    "distrito.nome":"São Joaquim",
+    "municipio.id":4216503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421650310,
+    "distrito.nome":"Pericó",
+    "municipio.id":4216503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421650313,
+    "distrito.nome":"Santa Izabel",
+    "municipio.id":4216503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421650315,
+    "distrito.nome":"São Sebastião do Arvoredo",
+    "municipio.id":4216503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421660205,
+    "distrito.nome":"São José",
+    "municipio.id":4216602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421660210,
+    "distrito.nome":"Barreiros",
+    "municipio.id":4216602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421660213,
+    "distrito.nome":"Centro Histórico de São José",
+    "municipio.id":4216602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421670105,
+    "distrito.nome":"São José do Cedro",
+    "municipio.id":4216701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421670110,
+    "distrito.nome":"Mariflor",
+    "municipio.id":4216701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421670112,
+    "distrito.nome":"Padre Reus",
+    "municipio.id":4216701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421680005,
+    "distrito.nome":"São José do Cerrito",
+    "municipio.id":4216800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421680010,
+    "distrito.nome":"Salto dos Marianos",
+    "municipio.id":4216800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421690905,
+    "distrito.nome":"São Lourenço do Oeste",
+    "municipio.id":4216909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421690910,
+    "distrito.nome":"Frederico Wastner",
+    "municipio.id":4216909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421690920,
+    "distrito.nome":"Presidente Juscelino",
+    "municipio.id":4216909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421690929,
+    "distrito.nome":"São Roque",
+    "municipio.id":4216909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421700605,
+    "distrito.nome":"São Ludgero",
+    "municipio.id":4217006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421710505,
+    "distrito.nome":"São Martinho",
+    "municipio.id":4217105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421710510,
+    "distrito.nome":"Vargem do Cedro",
+    "municipio.id":4217105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421715405,
+    "distrito.nome":"São Miguel da Boa Vista",
+    "municipio.id":4217154,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421720405,
+    "distrito.nome":"São Miguel do Oeste",
+    "municipio.id":4217204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421725305,
+    "distrito.nome":"São Pedro de Alcântara",
+    "municipio.id":4217253,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421730305,
+    "distrito.nome":"Saudades",
+    "municipio.id":4217303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421730310,
+    "distrito.nome":"Juvêncio",
+    "municipio.id":4217303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421740205,
+    "distrito.nome":"Schroeder",
+    "municipio.id":4217402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421750105,
+    "distrito.nome":"Seara",
+    "municipio.id":4217501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421750115,
+    "distrito.nome":"Caraíba",
+    "municipio.id":4217501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421750120,
+    "distrito.nome":"Nova Teutônia",
+    "municipio.id":4217501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421755005,
+    "distrito.nome":"Serra Alta",
+    "municipio.id":4217550,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421760005,
+    "distrito.nome":"Siderópolis",
+    "municipio.id":4217600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421770905,
+    "distrito.nome":"Sombrio",
+    "municipio.id":4217709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421770909,
+    "distrito.nome":"Boa Esperança",
+    "municipio.id":4217709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421770915,
+    "distrito.nome":"Nova Guarita",
+    "municipio.id":4217709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421775805,
+    "distrito.nome":"Sul Brasil",
+    "municipio.id":4217758,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421780805,
+    "distrito.nome":"Taió",
+    "municipio.id":4217808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421780815,
+    "distrito.nome":"Passo Manso",
+    "municipio.id":4217808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421790705,
+    "distrito.nome":"Tangará",
+    "municipio.id":4217907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421790715,
+    "distrito.nome":"Irakitan",
+    "municipio.id":4217907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421790720,
+    "distrito.nome":"Marari",
+    "municipio.id":4217907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421795605,
+    "distrito.nome":"Tigrinhos",
+    "municipio.id":4217956,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421800405,
+    "distrito.nome":"Tijucas",
+    "municipio.id":4218004,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421810305,
+    "distrito.nome":"Timbé do Sul",
+    "municipio.id":4218103,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421820205,
+    "distrito.nome":"Timbó",
+    "municipio.id":4218202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421825105,
+    "distrito.nome":"Timbó Grande",
+    "municipio.id":4218251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421830105,
+    "distrito.nome":"Três Barras",
+    "municipio.id":4218301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421830110,
+    "distrito.nome":"São Cristóvão",
+    "municipio.id":4218301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421835005,
+    "distrito.nome":"Treviso",
+    "municipio.id":4218350,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421840005,
+    "distrito.nome":"Treze de Maio",
+    "municipio.id":4218400,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421840010,
+    "distrito.nome":"São Gabriel",
+    "municipio.id":4218400,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421850905,
+    "distrito.nome":"Treze Tílias",
+    "municipio.id":4218509,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421860805,
+    "distrito.nome":"Trombudo Central",
+    "municipio.id":4218608,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421870705,
+    "distrito.nome":"Tubarão",
+    "municipio.id":4218707,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421875605,
+    "distrito.nome":"Tunápolis",
+    "municipio.id":4218756,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421880605,
+    "distrito.nome":"Turvo",
+    "municipio.id":4218806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421880620,
+    "distrito.nome":"Morro Chato",
+    "municipio.id":4218806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421885505,
+    "distrito.nome":"União do Oeste",
+    "municipio.id":4218855,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421890505,
+    "distrito.nome":"Urubici",
+    "municipio.id":4218905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421890510,
+    "distrito.nome":"Águas Brancas",
+    "municipio.id":4218905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421890520,
+    "distrito.nome":"Santa Teresinha",
+    "municipio.id":4218905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421895405,
+    "distrito.nome":"Urupema",
+    "municipio.id":4218954,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421900205,
+    "distrito.nome":"Urussanga",
+    "municipio.id":4219002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421910105,
+    "distrito.nome":"Vargeão",
+    "municipio.id":4219101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421915005,
+    "distrito.nome":"Vargem",
+    "municipio.id":4219150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421917605,
+    "distrito.nome":"Vargem Bonita",
+    "municipio.id":4219176,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421920005,
+    "distrito.nome":"Vidal Ramos",
+    "municipio.id":4219200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421930905,
+    "distrito.nome":"Videira",
+    "municipio.id":4219309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421930910,
+    "distrito.nome":"Anta Gorda",
+    "municipio.id":4219309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421930925,
+    "distrito.nome":"Lourdes",
+    "municipio.id":4219309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421935805,
+    "distrito.nome":"Vitor Meireles",
+    "municipio.id":4219358,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421935810,
+    "distrito.nome":"Barra da Prata",
+    "municipio.id":4219358,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421940805,
+    "distrito.nome":"Witmarsum",
+    "municipio.id":4219408,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421950705,
+    "distrito.nome":"Xanxerê",
+    "municipio.id":4219507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421950715,
+    "distrito.nome":"Cambuinzal",
+    "municipio.id":4219507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421960605,
+    "distrito.nome":"Xavantina",
+    "municipio.id":4219606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421960610,
+    "distrito.nome":"Linha das Palmeiras",
+    "municipio.id":4219606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421970505,
+    "distrito.nome":"Xaxim",
+    "municipio.id":4219705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421970511,
+    "distrito.nome":"Anita Garibaldi",
+    "municipio.id":4219705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421970516,
+    "distrito.nome":"Diadema",
+    "municipio.id":4219705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  },
+  {
+    "distrito.id":421985305,
+    "distrito.nome":"Zortéa",
+    "municipio.id":4219853,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Santa Catarina"
+  }
+]

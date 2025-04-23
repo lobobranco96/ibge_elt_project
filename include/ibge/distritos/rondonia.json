@@ -1,0 +1,632 @@
+[
+  {
+    "distrito.id":110001505,
+    "distrito.nome":"Alta Floresta D'Oeste",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110001515,
+    "distrito.nome":"Filadélfia d'Oeste",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110001520,
+    "distrito.nome":"Izidolândia",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110001525,
+    "distrito.nome":"Nova Gease d'Oeste",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110001530,
+    "distrito.nome":"Rolim de Moura do Guaporé",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110001535,
+    "distrito.nome":"Santo Antônio d'Oeste",
+    "municipio.id":1100015,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110037905,
+    "distrito.nome":"Alto Alegre dos Parecis",
+    "municipio.id":1100379,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110040305,
+    "distrito.nome":"Alto Paraíso",
+    "municipio.id":1100403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110034605,
+    "distrito.nome":"Alvorada D'Oeste",
+    "municipio.id":1100346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110034625,
+    "distrito.nome":"Tancredópolis",
+    "municipio.id":1100346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110034630,
+    "distrito.nome":"Terra Boa",
+    "municipio.id":1100346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110002305,
+    "distrito.nome":"Ariquemes",
+    "municipio.id":1100023,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110045205,
+    "distrito.nome":"Buritis",
+    "municipio.id":1100452,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110003105,
+    "distrito.nome":"Cabixi",
+    "municipio.id":1100031,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110060105,
+    "distrito.nome":"Cacaulândia",
+    "municipio.id":1100601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110004905,
+    "distrito.nome":"Cacoal",
+    "municipio.id":1100049,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110004910,
+    "distrito.nome":"Riozinho",
+    "municipio.id":1100049,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110004915,
+    "distrito.nome":"Divinópolis",
+    "municipio.id":1100049,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110070005,
+    "distrito.nome":"Campo Novo de Rondônia",
+    "municipio.id":1100700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110080905,
+    "distrito.nome":"Candeias do Jamari",
+    "municipio.id":1100809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110080920,
+    "distrito.nome":"Rio Preto do Candeias",
+    "municipio.id":1100809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110090805,
+    "distrito.nome":"Castanheiras",
+    "municipio.id":1100908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110005605,
+    "distrito.nome":"Cerejeiras",
+    "municipio.id":1100056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110092405,
+    "distrito.nome":"Chupinguaia",
+    "municipio.id":1100924,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110006405,
+    "distrito.nome":"Colorado do Oeste",
+    "municipio.id":1100064,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110007205,
+    "distrito.nome":"Corumbiara",
+    "municipio.id":1100072,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110008005,
+    "distrito.nome":"Costa Marques",
+    "municipio.id":1100080,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110008015,
+    "distrito.nome":"Real Forte Príncipe da Beira",
+    "municipio.id":1100080,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110008035,
+    "distrito.nome":"São Domingos do Guaporé",
+    "municipio.id":1100080,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110094005,
+    "distrito.nome":"Cujubim",
+    "municipio.id":1100940,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110009805,
+    "distrito.nome":"Espigão D'Oeste",
+    "municipio.id":1100098,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110009810,
+    "distrito.nome":"Boa Vista do Pacarana",
+    "municipio.id":1100098,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110009812,
+    "distrito.nome":"Novo Paraíso",
+    "municipio.id":1100098,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110009815,
+    "distrito.nome":"Flor da Serra",
+    "municipio.id":1100098,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110009818,
+    "distrito.nome":"Nova Esperança",
+    "municipio.id":1100098,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110100505,
+    "distrito.nome":"Governador Jorge Teixeira",
+    "municipio.id":1101005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110100515,
+    "distrito.nome":"Colina Verde",
+    "municipio.id":1101005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110010605,
+    "distrito.nome":"Guajará-Mirim",
+    "municipio.id":1100106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110010612,
+    "distrito.nome":"Iata",
+    "municipio.id":1100106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110010622,
+    "distrito.nome":"Surpresa",
+    "municipio.id":1100106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110110405,
+    "distrito.nome":"Itapuã do Oeste",
+    "municipio.id":1101104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110011405,
+    "distrito.nome":"Jaru",
+    "municipio.id":1100114,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110011410,
+    "distrito.nome":"Bom Jesus",
+    "municipio.id":1100114,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110011420,
+    "distrito.nome":"Santa Cruz da Serra",
+    "municipio.id":1100114,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110011425,
+    "distrito.nome":"Tarilândia",
+    "municipio.id":1100114,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110012205,
+    "distrito.nome":"Ji-Paraná",
+    "municipio.id":1100122,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110012220,
+    "distrito.nome":"Nova Colina",
+    "municipio.id":1100122,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110012225,
+    "distrito.nome":"Nova Londrina",
+    "municipio.id":1100122,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110013005,
+    "distrito.nome":"Machadinho D'Oeste",
+    "municipio.id":1100130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110013015,
+    "distrito.nome":"Oriente Novo",
+    "municipio.id":1100130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110013020,
+    "distrito.nome":"Quinto BEC",
+    "municipio.id":1100130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110013025,
+    "distrito.nome":"Tabajara",
+    "municipio.id":1100130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110120305,
+    "distrito.nome":"Ministro Andreazza",
+    "municipio.id":1101203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110130205,
+    "distrito.nome":"Mirante da Serra",
+    "municipio.id":1101302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110140105,
+    "distrito.nome":"Monte Negro",
+    "municipio.id":1101401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110014805,
+    "distrito.nome":"Nova Brasilândia D'Oeste",
+    "municipio.id":1100148,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033805,
+    "distrito.nome":"Nova Mamoré",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033810,
+    "distrito.nome":"Araras",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033812,
+    "distrito.nome":"Jacynópolis",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033815,
+    "distrito.nome":"Nova Dimensão",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033820,
+    "distrito.nome":"Palmeiras",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110033825,
+    "distrito.nome":"Nova Marechal Rondon",
+    "municipio.id":1100338,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110143505,
+    "distrito.nome":"Nova União",
+    "municipio.id":1101435,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110050205,
+    "distrito.nome":"Novo Horizonte do Oeste",
+    "municipio.id":1100502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110050210,
+    "distrito.nome":"Migrantinópolis",
+    "municipio.id":1100502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110015505,
+    "distrito.nome":"Ouro Preto do Oeste",
+    "municipio.id":1100155,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110015525,
+    "distrito.nome":"Rondominas",
+    "municipio.id":1100155,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110145005,
+    "distrito.nome":"Parecis",
+    "municipio.id":1101450,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110018905,
+    "distrito.nome":"Pimenta Bueno",
+    "municipio.id":1100189,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110018915,
+    "distrito.nome":"Marco Rondon",
+    "municipio.id":1100189,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110018920,
+    "distrito.nome":"Itaporanga",
+    "municipio.id":1100189,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110146805,
+    "distrito.nome":"Pimenteiras do Oeste",
+    "municipio.id":1101468,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020505,
+    "distrito.nome":"Porto Velho",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020510,
+    "distrito.nome":"Abunã",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020515,
+    "distrito.nome":"Calama",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020516,
+    "distrito.nome":"Demarcação",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020517,
+    "distrito.nome":"Extrema",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020518,
+    "distrito.nome":"Fortaleza do Abunã",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020520,
+    "distrito.nome":"Jaci Paraná",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020525,
+    "distrito.nome":"Mutum Paraná",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020530,
+    "distrito.nome":"Nazaré",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020535,
+    "distrito.nome":"Nova Califórnia",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020540,
+    "distrito.nome":"São Carlos",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110020545,
+    "distrito.nome":"Vista Alegre do Abunã",
+    "municipio.id":1100205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110025405,
+    "distrito.nome":"Presidente Médici",
+    "municipio.id":1100254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110025415,
+    "distrito.nome":"Estrela de Rondônia",
+    "municipio.id":1100254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110025420,
+    "distrito.nome":"Novo Riachuelo",
+    "municipio.id":1100254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110025425,
+    "distrito.nome":"Vila Bandeira Branca",
+    "municipio.id":1100254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110025430,
+    "distrito.nome":"Vila Camargo",
+    "municipio.id":1100254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110147605,
+    "distrito.nome":"Primavera de Rondônia",
+    "municipio.id":1101476,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110026205,
+    "distrito.nome":"Rio Crespo",
+    "municipio.id":1100262,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110028805,
+    "distrito.nome":"Rolim de Moura",
+    "municipio.id":1100288,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110029605,
+    "distrito.nome":"Santa Luzia D'Oeste",
+    "municipio.id":1100296,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110148405,
+    "distrito.nome":"São Felipe D'Oeste",
+    "municipio.id":1101484,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110149205,
+    "distrito.nome":"São Francisco do Guaporé",
+    "municipio.id":1101492,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110149210,
+    "distrito.nome":"Porto Murtinho",
+    "municipio.id":1101492,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110032005,
+    "distrito.nome":"São Miguel do Guaporé",
+    "municipio.id":1100320,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110032020,
+    "distrito.nome":"Santana do Guaporé",
+    "municipio.id":1100320,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110150005,
+    "distrito.nome":"Seringueiras",
+    "municipio.id":1101500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110155905,
+    "distrito.nome":"Teixeirópolis",
+    "municipio.id":1101559,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110160905,
+    "distrito.nome":"Theobroma",
+    "municipio.id":1101609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110170805,
+    "distrito.nome":"Urupá",
+    "municipio.id":1101708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110175705,
+    "distrito.nome":"Vale do Anari",
+    "municipio.id":1101757,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110180705,
+    "distrito.nome":"Vale do Paraíso",
+    "municipio.id":1101807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  },
+  {
+    "distrito.id":110030405,
+    "distrito.nome":"Vilhena",
+    "municipio.id":1100304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rondônia"
+  }
+]

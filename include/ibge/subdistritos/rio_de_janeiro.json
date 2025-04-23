@@ -1,0 +1,602 @@
+[
+  {
+    "bairro.id":33004070501,
+    "bairro.nome":"Região Administrativa 01 - Centro",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070502,
+    "bairro.nome":"Região Administrativa 02 - Vista Alegre",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070503,
+    "bairro.nome":"Região Administrativa 03 - Vila Nova",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070504,
+    "bairro.nome":"Região Administrativa 04 - Ano Bom",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070505,
+    "bairro.nome":"Região Administrativa 05 - Vila Elmira",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070506,
+    "bairro.nome":"Região Administrativa 06 - Nove de Abril",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070507,
+    "bairro.nome":"Região Administrativa 07 - Boa Vista",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070508,
+    "bairro.nome":"Região Administrativa 08 - Boa Sorte",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070509,
+    "bairro.nome":"Região Administrativa 09 - Rozelândia",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070510,
+    "bairro.nome":"Região Administrativa 10 - Santa Clara",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070511,
+    "bairro.nome":"Região Administrativa 11 - Vila Independência",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070512,
+    "bairro.nome":"Região Administrativa 12 - Siderlândia",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070513,
+    "bairro.nome":"Região Administrativa 13 - Colônia Santo Antônio",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070514,
+    "bairro.nome":"Região Administrativa 14 - Saudade",
+    "distrito.id":330040705,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004070950,
+    "bairro.nome":"Região Administrativa 50 - Antônio Rocha",
+    "distrito.id":330040709,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004071520,
+    "bairro.nome":"Região Administrativa 20 - Floriano",
+    "distrito.id":330040715,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004072040,
+    "bairro.nome":"Região Administrativa 40 - Nossa Senhora do Amparo",
+    "distrito.id":330040720,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004073030,
+    "bairro.nome":"Região Administrativa 30 - Rialto",
+    "distrito.id":330040730,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004074060,
+    "bairro.nome":"Região Administrativa 60 - Santa Rita de Cássia",
+    "distrito.id":330040740,
+    "municipio.nome":"Barra Mansa"
+  },
+  {
+    "bairro.id":33004560501,
+    "bairro.nome":"Areia Branca",
+    "distrito.id":330045605,
+    "municipio.nome":"Belford Roxo"
+  },
+  {
+    "bairro.id":33004560502,
+    "bairro.nome":"Nova Aurora",
+    "distrito.id":330045605,
+    "municipio.nome":"Belford Roxo"
+  },
+  {
+    "bairro.id":33004560503,
+    "bairro.nome":"Jardim Redentor",
+    "distrito.id":330045605,
+    "municipio.nome":"Belford Roxo"
+  },
+  {
+    "bairro.id":33004560504,
+    "bairro.nome":"Parque São José",
+    "distrito.id":330045605,
+    "municipio.nome":"Belford Roxo"
+  },
+  {
+    "bairro.id":33004560505,
+    "bairro.nome":"Lote XV",
+    "distrito.id":330045605,
+    "municipio.nome":"Belford Roxo"
+  },
+  {
+    "bairro.id":33010090506,
+    "bairro.nome":"Primeiro Subdistrito",
+    "distrito.id":330100905,
+    "municipio.nome":"Campos dos Goytacazes"
+  },
+  {
+    "bairro.id":33010090507,
+    "bairro.nome":"Segundo Subdistrito",
+    "distrito.id":330100905,
+    "municipio.nome":"Campos dos Goytacazes"
+  },
+  {
+    "bairro.id":33010090508,
+    "bairro.nome":"Terceiro Subdistrito",
+    "distrito.id":330100905,
+    "municipio.nome":"Campos dos Goytacazes"
+  },
+  {
+    "bairro.id":33010090509,
+    "bairro.nome":"Quarto Subdistrito",
+    "distrito.id":330100905,
+    "municipio.nome":"Campos dos Goytacazes"
+  },
+  {
+    "bairro.id":33009360501,
+    "bairro.nome":"Primeira Região Administrativa (Centro)",
+    "distrito.id":330093605,
+    "municipio.nome":"Carapebus"
+  },
+  {
+    "bairro.id":33009360502,
+    "bairro.nome":"Segunda Região Administrativa (Ubás)",
+    "distrito.id":330093605,
+    "municipio.nome":"Carapebus"
+  },
+  {
+    "bairro.id":33009360503,
+    "bairro.nome":"Terceira Região Administrativa (Rodagem)",
+    "distrito.id":330093605,
+    "municipio.nome":"Carapebus"
+  },
+  {
+    "bairro.id":33009360504,
+    "bairro.nome":"Quarta Região Administrativa (Praia de Carapebus)",
+    "distrito.id":330093605,
+    "municipio.nome":"Carapebus"
+  },
+  {
+    "bairro.id":33018760506,
+    "bairro.nome":"Sub-região da Orla",
+    "distrito.id":330187605,
+    "municipio.nome":"Iguaba Grande"
+  },
+  {
+    "bairro.id":33018760507,
+    "bairro.nome":"Sub-região do Arrastão das Pedras",
+    "distrito.id":330187605,
+    "municipio.nome":"Iguaba Grande"
+  },
+  {
+    "bairro.id":33018760508,
+    "bairro.nome":"Sub-região de Sapeatiba",
+    "distrito.id":330187605,
+    "municipio.nome":"Iguaba Grande"
+  },
+  {
+    "bairro.id":33018760509,
+    "bairro.nome":"Sub-região Área da Lagoa",
+    "distrito.id":330187605,
+    "municipio.nome":"Iguaba Grande"
+  },
+  {
+    "bairro.id":33022700501,
+    "bairro.nome":"Japeri",
+    "distrito.id":330227005,
+    "municipio.nome":"Japeri"
+  },
+  {
+    "bairro.id":33022700502,
+    "bairro.nome":"Engenheiro Pedreira",
+    "distrito.id":330227005,
+    "municipio.nome":"Japeri"
+  },
+  {
+    "bairro.id":33022700503,
+    "bairro.nome":"Marajoara",
+    "distrito.id":330227005,
+    "municipio.nome":"Japeri"
+  },
+  {
+    "bairro.id":33022700504,
+    "bairro.nome":"Rio D'Ouro",
+    "distrito.id":330227005,
+    "municipio.nome":"Japeri"
+  },
+  {
+    "bairro.id":33022700505,
+    "bairro.nome":"Pedra Lisa",
+    "distrito.id":330227005,
+    "municipio.nome":"Japeri"
+  },
+  {
+    "bairro.id":33024030501,
+    "bairro.nome":"Barra de Macaé",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33024030502,
+    "bairro.nome":"Aeroporto",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33024030503,
+    "bairro.nome":"Cabiúnas",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33024030504,
+    "bairro.nome":"Imboassica",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33024030505,
+    "bairro.nome":"Centro",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33024030506,
+    "bairro.nome":"Nova Cidade",
+    "distrito.id":330240305,
+    "municipio.nome":"Macaé"
+  },
+  {
+    "bairro.id":33035000510,
+    "bairro.nome":"Unidade Regional de Governo Centro - URG I",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000511,
+    "bairro.nome":"Unidade Regional de Governo da Posse - URG II",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000512,
+    "bairro.nome":"Unidade Regional de Governo de Comendador Soares - URG III",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000516,
+    "bairro.nome":"Unidade Regional de Governo de Cabuçu - URG VII",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000517,
+    "bairro.nome":"Unidade Regional de Governo de Km 32 - URG VIII",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000518,
+    "bairro.nome":"Unidade Regional de Governo de Austim - URG IX",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000519,
+    "bairro.nome":"Unidade Regional de Governo de Vila de Cava - URG X",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000520,
+    "bairro.nome":"Unidade Regional de Governo de Miguel Couto - URG XI",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33035000521,
+    "bairro.nome":"U.R.G. de Tinguá,Adrianópolis,Rio D'Ouro e Jaceruba-URG XII",
+    "distrito.id":330350005,
+    "municipio.nome":"Nova Iguaçu"
+  },
+  {
+    "bairro.id":33041440501,
+    "bairro.nome":"Centro",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440502,
+    "bairro.nome":"Nordeste",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440503,
+    "bairro.nome":"Leste",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440504,
+    "bairro.nome":"Sul",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440505,
+    "bairro.nome":"Oeste",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440506,
+    "bairro.nome":"Norte",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33041440507,
+    "bairro.nome":"Industrial",
+    "distrito.id":330414405,
+    "municipio.nome":"Queimados"
+  },
+  {
+    "bairro.id":33045570506,
+    "bairro.nome":"Portuária",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570507,
+    "bairro.nome":"Centro",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570508,
+    "bairro.nome":"Rio Comprido",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570509,
+    "bairro.nome":"Botafogo",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570510,
+    "bairro.nome":"Copacabana",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570511,
+    "bairro.nome":"Lagoa",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570512,
+    "bairro.nome":"São Cristovão",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570513,
+    "bairro.nome":"Tijuca",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570514,
+    "bairro.nome":"Vila Isabel",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570515,
+    "bairro.nome":"Ramos",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570516,
+    "bairro.nome":"Penha",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570517,
+    "bairro.nome":"Méier",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570519,
+    "bairro.nome":"Irajá",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570520,
+    "bairro.nome":"Madureira",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570521,
+    "bairro.nome":"Jacarepaguá",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570522,
+    "bairro.nome":"Bangu",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570523,
+    "bairro.nome":"Campo Grande",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570524,
+    "bairro.nome":"Santa Cruz",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570525,
+    "bairro.nome":"Ilha do Governador",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570526,
+    "bairro.nome":"Ilha de Paquetá",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570527,
+    "bairro.nome":"Anchieta",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570528,
+    "bairro.nome":"Santa Teresa",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570529,
+    "bairro.nome":"Barra da Tijuca",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570530,
+    "bairro.nome":"Pavuna",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570531,
+    "bairro.nome":"Guaratiba",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570532,
+    "bairro.nome":"Inhaúma",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570533,
+    "bairro.nome":"Rocinha",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570534,
+    "bairro.nome":"Jacarezinho",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570535,
+    "bairro.nome":"Complexo do Alemão",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570536,
+    "bairro.nome":"Maré",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570537,
+    "bairro.nome":"Realengo",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570538,
+    "bairro.nome":"Cidade de Deus",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33045570539,
+    "bairro.nome":"Vigário Geral",
+    "distrito.id":330455705,
+    "municipio.nome":"Rio de Janeiro"
+  },
+  {
+    "bairro.id":33052080506,
+    "bairro.nome":"Região Sul",
+    "distrito.id":330520805,
+    "municipio.nome":"São Pedro da Aldeia"
+  },
+  {
+    "bairro.id":33052080507,
+    "bairro.nome":"Região Norte",
+    "distrito.id":330520805,
+    "municipio.nome":"São Pedro da Aldeia"
+  },
+  {
+    "bairro.id":33052080508,
+    "bairro.nome":"Região Oeste",
+    "distrito.id":330520805,
+    "municipio.nome":"São Pedro da Aldeia"
+  },
+  {
+    "bairro.id":33052080509,
+    "bairro.nome":"Região Leste",
+    "distrito.id":330520805,
+    "municipio.nome":"São Pedro da Aldeia"
+  }
+]

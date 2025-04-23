@@ -1,0 +1,32 @@
+[
+  {
+    "bairro.id":11002050506,
+    "bairro.nome":"Zona 01",
+    "distrito.id":110020505,
+    "municipio.nome":"Porto Velho"
+  },
+  {
+    "bairro.id":11002050507,
+    "bairro.nome":"Zona 02",
+    "distrito.id":110020505,
+    "municipio.nome":"Porto Velho"
+  },
+  {
+    "bairro.id":11002050508,
+    "bairro.nome":"Zona 03",
+    "distrito.id":110020505,
+    "municipio.nome":"Porto Velho"
+  },
+  {
+    "bairro.id":11002050509,
+    "bairro.nome":"Zona 04",
+    "distrito.id":110020505,
+    "municipio.nome":"Porto Velho"
+  },
+  {
+    "bairro.id":11002050510,
+    "bairro.nome":"Zona 05",
+    "distrito.id":110020505,
+    "municipio.nome":"Porto Velho"
+  }
+]

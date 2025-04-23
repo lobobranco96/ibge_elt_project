@@ -1,0 +1,404 @@
+[
+  {
+    "bairro.id":41043030501,
+    "bairro.nome":"Zona 1",
+    "distrito.id":410430305,
+    "municipio.nome":"Campo Mourão"
+  },
+  {
+    "bairro.id":41043030502,
+    "bairro.nome":"Zona 2",
+    "distrito.id":410430305,
+    "municipio.nome":"Campo Mourão"
+  },
+  {
+    "bairro.id":41043030503,
+    "bairro.nome":"Zona 3",
+    "distrito.id":410430305,
+    "municipio.nome":"Campo Mourão"
+  },
+  {
+    "bairro.id":41043030504,
+    "bairro.nome":"Zona 4",
+    "distrito.id":410430305,
+    "municipio.nome":"Campo Mourão"
+  },
+  {
+    "bairro.id":41043030505,
+    "bairro.nome":"Zona 5",
+    "distrito.id":410430305,
+    "municipio.nome":"Campo Mourão"
+  },
+  {
+    "bairro.id":41069020501,
+    "bairro.nome":"Administração Regional da Matriz",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020502,
+    "bairro.nome":"Administração Regional do Boqueirão",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020503,
+    "bairro.nome":"Administração Regional do Cajuru",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020504,
+    "bairro.nome":"Administração Regional da Boa Vista",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020505,
+    "bairro.nome":"Administração Regional de Santa Felicidade",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020506,
+    "bairro.nome":"Administração Regional do Portão",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020507,
+    "bairro.nome":"Administração Regional Pinheirinho",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020508,
+    "bairro.nome":"Administração Regional do Bairro Novo",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020509,
+    "bairro.nome":"Administração Regional da Cidade Industrial de Curitiba",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41069020510,
+    "bairro.nome":"Administração Regional do Tatuquara",
+    "distrito.id":410690205,
+    "municipio.nome":"Curitiba"
+  },
+  {
+    "bairro.id":41137000501,
+    "bairro.nome":"Centro",
+    "distrito.id":411370005,
+    "municipio.nome":"Londrina"
+  },
+  {
+    "bairro.id":41137000502,
+    "bairro.nome":"Região Norte",
+    "distrito.id":411370005,
+    "municipio.nome":"Londrina"
+  },
+  {
+    "bairro.id":41137000503,
+    "bairro.nome":"Região Oeste",
+    "distrito.id":411370005,
+    "municipio.nome":"Londrina"
+  },
+  {
+    "bairro.id":41137000504,
+    "bairro.nome":"Região Leste",
+    "distrito.id":411370005,
+    "municipio.nome":"Londrina"
+  },
+  {
+    "bairro.id":41137000505,
+    "bairro.nome":"Região Sul",
+    "distrito.id":411370005,
+    "municipio.nome":"Londrina"
+  },
+  {
+    "bairro.id":41152000501,
+    "bairro.nome":"Zona 1",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000502,
+    "bairro.nome":"Zona 2",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000503,
+    "bairro.nome":"Zona 3",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000504,
+    "bairro.nome":"Zona 4",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000505,
+    "bairro.nome":"Zona 5",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000506,
+    "bairro.nome":"Zona 6",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000507,
+    "bairro.nome":"Zona 7",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000508,
+    "bairro.nome":"Zona 8",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000509,
+    "bairro.nome":"Zona 9",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000510,
+    "bairro.nome":"Zona 10",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000511,
+    "bairro.nome":"Zona 11",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000512,
+    "bairro.nome":"Zona 12",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000513,
+    "bairro.nome":"Zona 13",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000514,
+    "bairro.nome":"Zona 14",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000515,
+    "bairro.nome":"Zona 15",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000517,
+    "bairro.nome":"Zona 17",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000518,
+    "bairro.nome":"Zona 18",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000519,
+    "bairro.nome":"Zona 19",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000520,
+    "bairro.nome":"Zona 20",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000521,
+    "bairro.nome":"Zona 21",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000522,
+    "bairro.nome":"Zona 22",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000523,
+    "bairro.nome":"Zona 23",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000524,
+    "bairro.nome":"Zona 24",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000525,
+    "bairro.nome":"Zona 25",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000526,
+    "bairro.nome":"Zona 26",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000527,
+    "bairro.nome":"Zona 27",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000528,
+    "bairro.nome":"Zona 28",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000529,
+    "bairro.nome":"Zona 29",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000530,
+    "bairro.nome":"Zona 30",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000531,
+    "bairro.nome":"Zona 31",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000535,
+    "bairro.nome":"Zona 35",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000536,
+    "bairro.nome":"Zona 36",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000537,
+    "bairro.nome":"Zona 37",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000538,
+    "bairro.nome":"Zona 38",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000539,
+    "bairro.nome":"Zona 39",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000540,
+    "bairro.nome":"Zona 40",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000541,
+    "bairro.nome":"Zona 41",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000542,
+    "bairro.nome":"Zona 42",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000543,
+    "bairro.nome":"Zona 43",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000544,
+    "bairro.nome":"Zona 44",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000545,
+    "bairro.nome":"Zona 45",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000546,
+    "bairro.nome":"Zona 46",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000547,
+    "bairro.nome":"Zona 47",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000548,
+    "bairro.nome":"Zona 48",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152000550,
+    "bairro.nome":"Zona Central",
+    "distrito.id":411520005,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152001034,
+    "bairro.nome":"Zona 34",
+    "distrito.id":411520010,
+    "municipio.nome":"Maringá"
+  },
+  {
+    "bairro.id":41152001533,
+    "bairro.nome":"Zona 33",
+    "distrito.id":411520015,
+    "municipio.nome":"Maringá"
+  }
+]

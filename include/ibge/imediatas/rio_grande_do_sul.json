@@ -1,0 +1,303 @@
+[
+  {
+    "imediata.id":430001,
+    "imediata.nome":"Porto Alegre",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430002,
+    "imediata.nome":"Novo Hamburgo - São Leopoldo",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430003,
+    "imediata.nome":"Tramandaí - Osório",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430004,
+    "imediata.nome":"Taquara - Parobé - Igrejinha",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430005,
+    "imediata.nome":"Camaquã",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430006,
+    "imediata.nome":"Charqueadas - Triunfo - São Jerônimo",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430007,
+    "imediata.nome":"Montenegro",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430008,
+    "imediata.nome":"Torres",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430009,
+    "imediata.nome":"Pelotas",
+    "regiao-intermediaria.id":4302,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430010,
+    "imediata.nome":"Bagé",
+    "regiao-intermediaria.id":4302,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430011,
+    "imediata.nome":"Santa Maria",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430012,
+    "imediata.nome":"São Gabriel - Caçapava do Sul",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430013,
+    "imediata.nome":"Cachoeira do Sul",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430014,
+    "imediata.nome":"Santiago",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430015,
+    "imediata.nome":"Uruguaiana",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430016,
+    "imediata.nome":"Santana do Livramento",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430017,
+    "imediata.nome":"São Borja",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430018,
+    "imediata.nome":"Ijuí",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430019,
+    "imediata.nome":"Santa Rosa",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430020,
+    "imediata.nome":"Santo Ângelo",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430021,
+    "imediata.nome":"Três Passos",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430022,
+    "imediata.nome":"São Luiz Gonzaga",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430023,
+    "imediata.nome":"Três de Maio",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430024,
+    "imediata.nome":"Cerro Largo",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430025,
+    "imediata.nome":"Passo Fundo",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430026,
+    "imediata.nome":"Erechim",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430027,
+    "imediata.nome":"Cruz Alta",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430028,
+    "imediata.nome":"Carazinho",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430029,
+    "imediata.nome":"Frederico Westphalen",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430030,
+    "imediata.nome":"Marau",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430031,
+    "imediata.nome":"Soledade",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430032,
+    "imediata.nome":"Tapejara - Sananduva",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430033,
+    "imediata.nome":"Lagoa Vermelha",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430034,
+    "imediata.nome":"Palmeira das Missões",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430035,
+    "imediata.nome":"Nonoai",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430036,
+    "imediata.nome":"Caxias do Sul",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430037,
+    "imediata.nome":"Bento Gonçalves",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430038,
+    "imediata.nome":"Nova Prata - Guaporé",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430039,
+    "imediata.nome":"Vacaria",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430040,
+    "imediata.nome":"Santa Cruz do Sul",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430041,
+    "imediata.nome":"Lajeado",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430042,
+    "imediata.nome":"Sobradinho",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430043,
+    "imediata.nome":"Encantado",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  }
+]

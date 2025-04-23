@@ -1,0 +1,62 @@
+[
+  {
+    "intermediaria.id":2901,
+    "intermediaria.nome":"Salvador",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2902,
+    "intermediaria.nome":"Santo Antônio de Jesus",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2903,
+    "intermediaria.nome":"Ilhéus ¿ Itabuna",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2904,
+    "intermediaria.nome":"Vitória da Conquista",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2905,
+    "intermediaria.nome":"Guanambi",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2906,
+    "intermediaria.nome":"Barreiras",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2907,
+    "intermediaria.nome":"Irecê",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2908,
+    "intermediaria.nome":"Juazeiro",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2909,
+    "intermediaria.nome":"Paulo Afonso",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  },
+  {
+    "intermediaria.id":2910,
+    "intermediaria.nome":"Feira de Santana",
+    "uf.id":29,
+    "uf.sigla":"BA"
+  }
+]

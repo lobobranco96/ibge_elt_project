@@ -1,0 +1,44 @@
+[
+  {
+    "imediata.id":280001,
+    "imediata.nome":"Aracaju",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280002,
+    "imediata.nome":"Estância",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280003,
+    "imediata.nome":"Propriá",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280004,
+    "imediata.nome":"Itabaiana",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280005,
+    "imediata.nome":"Lagarto",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280006,
+    "imediata.nome":"Nossa Senhora da Glória",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  }
+]

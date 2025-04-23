@@ -1,0 +1,1460 @@
+[
+  {
+    "distrito.id":210005505,
+    "distrito.nome":"Açailândia",
+    "municipio.id":2100055,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210010505,
+    "distrito.nome":"Afonso Cunha",
+    "municipio.id":2100105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210015405,
+    "distrito.nome":"Água Doce do Maranhão",
+    "municipio.id":2100154,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210020405,
+    "distrito.nome":"Alcântara",
+    "municipio.id":2100204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210020410,
+    "distrito.nome":"São João de Cortes",
+    "municipio.id":2100204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210030305,
+    "distrito.nome":"Aldeias Altas",
+    "municipio.id":2100303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210040205,
+    "distrito.nome":"Altamira do Maranhão",
+    "municipio.id":2100402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210043605,
+    "distrito.nome":"Alto Alegre do Maranhão",
+    "municipio.id":2100436,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210047705,
+    "distrito.nome":"Alto Alegre do Pindaré",
+    "municipio.id":2100477,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210050105,
+    "distrito.nome":"Alto Parnaíba",
+    "municipio.id":2100501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210050110,
+    "distrito.nome":"Curupá",
+    "municipio.id":2100501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210055005,
+    "distrito.nome":"Amapá do Maranhão",
+    "municipio.id":2100550,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210060005,
+    "distrito.nome":"Amarante do Maranhão",
+    "municipio.id":2100600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210070905,
+    "distrito.nome":"Anajatuba",
+    "municipio.id":2100709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210070910,
+    "distrito.nome":"Porto das Gabarras",
+    "municipio.id":2100709,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210080805,
+    "distrito.nome":"Anapurus",
+    "municipio.id":2100808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210083205,
+    "distrito.nome":"Apicum-Açu",
+    "municipio.id":2100832,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210087305,
+    "distrito.nome":"Araguanã",
+    "municipio.id":2100873,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210090705,
+    "distrito.nome":"Araioses",
+    "municipio.id":2100907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210095605,
+    "distrito.nome":"Arame",
+    "municipio.id":2100956,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210100405,
+    "distrito.nome":"Arari",
+    "municipio.id":2101004,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210100410,
+    "distrito.nome":"Bonfim do Arari",
+    "municipio.id":2101004,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210110305,
+    "distrito.nome":"Axixá",
+    "municipio.id":2101103,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210120205,
+    "distrito.nome":"Bacabal",
+    "municipio.id":2101202,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210125105,
+    "distrito.nome":"Bacabeira",
+    "municipio.id":2101251,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210130105,
+    "distrito.nome":"Bacuri",
+    "municipio.id":2101301,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210135005,
+    "distrito.nome":"Bacurituba",
+    "municipio.id":2101350,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210140005,
+    "distrito.nome":"Balsas",
+    "municipio.id":2101400,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210150905,
+    "distrito.nome":"Barão de Grajaú",
+    "municipio.id":2101509,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210160805,
+    "distrito.nome":"Barra do Corda",
+    "municipio.id":2101608,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210170705,
+    "distrito.nome":"Barreirinhas",
+    "municipio.id":2101707,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210177205,
+    "distrito.nome":"Bela Vista do Maranhão",
+    "municipio.id":2101772,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210173105,
+    "distrito.nome":"Belágua",
+    "municipio.id":2101731,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210180605,
+    "distrito.nome":"Benedito Leite",
+    "municipio.id":2101806,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210190505,
+    "distrito.nome":"Bequimão",
+    "municipio.id":2101905,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210193905,
+    "distrito.nome":"Bernardo do Mearim",
+    "municipio.id":2101939,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210197005,
+    "distrito.nome":"Boa Vista do Gurupi",
+    "municipio.id":2101970,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210200205,
+    "distrito.nome":"Bom Jardim",
+    "municipio.id":2102002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210203605,
+    "distrito.nome":"Bom Jesus das Selvas",
+    "municipio.id":2102036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210207705,
+    "distrito.nome":"Bom Lugar",
+    "municipio.id":2102077,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210210105,
+    "distrito.nome":"Brejo",
+    "municipio.id":2102101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210215005,
+    "distrito.nome":"Brejo de Areia",
+    "municipio.id":2102150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210220005,
+    "distrito.nome":"Buriti",
+    "municipio.id":2102200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210230905,
+    "distrito.nome":"Buriti Bravo",
+    "municipio.id":2102309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210230910,
+    "distrito.nome":"Bacatuba",
+    "municipio.id":2102309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210232505,
+    "distrito.nome":"Buriticupu",
+    "municipio.id":2102325,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210235805,
+    "distrito.nome":"Buritirana",
+    "municipio.id":2102358,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210237405,
+    "distrito.nome":"Cachoeira Grande",
+    "municipio.id":2102374,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210240805,
+    "distrito.nome":"Cajapió",
+    "municipio.id":2102408,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210250705,
+    "distrito.nome":"Cajari",
+    "municipio.id":2102507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210250710,
+    "distrito.nome":"Boa Vista do Pindaré",
+    "municipio.id":2102507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210255605,
+    "distrito.nome":"Campestre do Maranhão",
+    "municipio.id":2102556,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210260605,
+    "distrito.nome":"Cândido Mendes",
+    "municipio.id":2102606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210260610,
+    "distrito.nome":"Barão de Tromaí",
+    "municipio.id":2102606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210260615,
+    "distrito.nome":"Estandarte",
+    "municipio.id":2102606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210270505,
+    "distrito.nome":"Cantanhede",
+    "municipio.id":2102705,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210275405,
+    "distrito.nome":"Capinzal do Norte",
+    "municipio.id":2102754,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210280405,
+    "distrito.nome":"Carolina",
+    "municipio.id":2102804,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210290305,
+    "distrito.nome":"Carutapera",
+    "municipio.id":2102903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210300005,
+    "distrito.nome":"Caxias",
+    "municipio.id":2103000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210310905,
+    "distrito.nome":"Cedral",
+    "municipio.id":2103109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210312505,
+    "distrito.nome":"Central do Maranhão",
+    "municipio.id":2103125,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210315805,
+    "distrito.nome":"Centro do Guilherme",
+    "municipio.id":2103158,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210317405,
+    "distrito.nome":"Centro Novo do Maranhão",
+    "municipio.id":2103174,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210320805,
+    "distrito.nome":"Chapadinha",
+    "municipio.id":2103208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210325705,
+    "distrito.nome":"Cidelândia",
+    "municipio.id":2103257,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210330705,
+    "distrito.nome":"Codó",
+    "municipio.id":2103307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210330710,
+    "distrito.nome":"Codozinho",
+    "municipio.id":2103307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210330715,
+    "distrito.nome":"São Raimundo de Codó",
+    "municipio.id":2103307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210340605,
+    "distrito.nome":"Coelho Neto",
+    "municipio.id":2103406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210350505,
+    "distrito.nome":"Colinas",
+    "municipio.id":2103505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210355405,
+    "distrito.nome":"Conceição do Lago-Açu",
+    "municipio.id":2103554,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210360405,
+    "distrito.nome":"Coroatá",
+    "municipio.id":2103604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210370305,
+    "distrito.nome":"Cururupu",
+    "municipio.id":2103703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210375205,
+    "distrito.nome":"Davinópolis",
+    "municipio.id":2103752,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210380205,
+    "distrito.nome":"Dom Pedro",
+    "municipio.id":2103802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210390105,
+    "distrito.nome":"Duque Bacelar",
+    "municipio.id":2103901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210400805,
+    "distrito.nome":"Esperantinópolis",
+    "municipio.id":2104008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210405705,
+    "distrito.nome":"Estreito",
+    "municipio.id":2104057,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210407305,
+    "distrito.nome":"Feira Nova do Maranhão",
+    "municipio.id":2104073,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210408105,
+    "distrito.nome":"Fernando Falcão",
+    "municipio.id":2104081,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210409905,
+    "distrito.nome":"Formosa da Serra Negra",
+    "municipio.id":2104099,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210410705,
+    "distrito.nome":"Fortaleza dos Nogueiras",
+    "municipio.id":2104107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210420605,
+    "distrito.nome":"Fortuna",
+    "municipio.id":2104206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210430505,
+    "distrito.nome":"Godofredo Viana",
+    "municipio.id":2104305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210430510,
+    "distrito.nome":"Aurizona",
+    "municipio.id":2104305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210440405,
+    "distrito.nome":"Gonçalves Dias",
+    "municipio.id":2104404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210450305,
+    "distrito.nome":"Governador Archer",
+    "municipio.id":2104503,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210455205,
+    "distrito.nome":"Governador Edison Lobão",
+    "municipio.id":2104552,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210460205,
+    "distrito.nome":"Governador Eugênio Barros",
+    "municipio.id":2104602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210462805,
+    "distrito.nome":"Governador Luiz Rocha",
+    "municipio.id":2104628,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210465105,
+    "distrito.nome":"Governador Newton Bello",
+    "municipio.id":2104651,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210467705,
+    "distrito.nome":"Governador Nunes Freire",
+    "municipio.id":2104677,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210470105,
+    "distrito.nome":"Graça Aranha",
+    "municipio.id":2104701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210480005,
+    "distrito.nome":"Grajaú",
+    "municipio.id":2104800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210490905,
+    "distrito.nome":"Guimarães",
+    "municipio.id":2104909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210500505,
+    "distrito.nome":"Humberto de Campos",
+    "municipio.id":2105005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210510405,
+    "distrito.nome":"Icatu",
+    "municipio.id":2105104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210510410,
+    "distrito.nome":"Itapera",
+    "municipio.id":2105104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210515305,
+    "distrito.nome":"Igarapé do Meio",
+    "municipio.id":2105153,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210520305,
+    "distrito.nome":"Igarapé Grande",
+    "municipio.id":2105203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210530205,
+    "distrito.nome":"Imperatriz",
+    "municipio.id":2105302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210535105,
+    "distrito.nome":"Itaipava do Grajaú",
+    "municipio.id":2105351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210540105,
+    "distrito.nome":"Itapecuru Mirim",
+    "municipio.id":2105401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210542705,
+    "distrito.nome":"Itinga do Maranhão",
+    "municipio.id":2105427,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210545005,
+    "distrito.nome":"Jatobá",
+    "municipio.id":2105450,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210547605,
+    "distrito.nome":"Jenipapo dos Vieiras",
+    "municipio.id":2105476,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210550005,
+    "distrito.nome":"João Lisboa",
+    "municipio.id":2105500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210560905,
+    "distrito.nome":"Joselândia",
+    "municipio.id":2105609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210565805,
+    "distrito.nome":"Junco do Maranhão",
+    "municipio.id":2105658,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210570805,
+    "distrito.nome":"Lago da Pedra",
+    "municipio.id":2105708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210580705,
+    "distrito.nome":"Lago do Junco",
+    "municipio.id":2105807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210594805,
+    "distrito.nome":"Lago dos Rodrigues",
+    "municipio.id":2105948,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210590605,
+    "distrito.nome":"Lago Verde",
+    "municipio.id":2105906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210592205,
+    "distrito.nome":"Lagoa do Mato",
+    "municipio.id":2105922,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210596305,
+    "distrito.nome":"Lagoa Grande do Maranhão",
+    "municipio.id":2105963,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210598905,
+    "distrito.nome":"Lajeado Novo",
+    "municipio.id":2105989,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210600305,
+    "distrito.nome":"Lima Campos",
+    "municipio.id":2106003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210610205,
+    "distrito.nome":"Loreto",
+    "municipio.id":2106102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210620105,
+    "distrito.nome":"Luís Domingues",
+    "municipio.id":2106201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210630005,
+    "distrito.nome":"Magalhães de Almeida",
+    "municipio.id":2106300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210630010,
+    "distrito.nome":"Custódio Lima",
+    "municipio.id":2106300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210632605,
+    "distrito.nome":"Maracaçumé",
+    "municipio.id":2106326,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210635905,
+    "distrito.nome":"Marajá do Sena",
+    "municipio.id":2106359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210637505,
+    "distrito.nome":"Maranhãozinho",
+    "municipio.id":2106375,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210640905,
+    "distrito.nome":"Mata Roma",
+    "municipio.id":2106409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210650805,
+    "distrito.nome":"Matinha",
+    "municipio.id":2106508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210660705,
+    "distrito.nome":"Matões",
+    "municipio.id":2106607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210663105,
+    "distrito.nome":"Matões do Norte",
+    "municipio.id":2106631,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210667205,
+    "distrito.nome":"Milagres do Maranhão",
+    "municipio.id":2106672,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210670605,
+    "distrito.nome":"Mirador",
+    "municipio.id":2106706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210670610,
+    "distrito.nome":"Ibipira",
+    "municipio.id":2106706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210675505,
+    "distrito.nome":"Miranda do Norte",
+    "municipio.id":2106755,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210680505,
+    "distrito.nome":"Mirinzal",
+    "municipio.id":2106805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210690405,
+    "distrito.nome":"Monção",
+    "municipio.id":2106904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210700105,
+    "distrito.nome":"Montes Altos",
+    "municipio.id":2107001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210710005,
+    "distrito.nome":"Morros",
+    "municipio.id":2107100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210720905,
+    "distrito.nome":"Nina Rodrigues",
+    "municipio.id":2107209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210725805,
+    "distrito.nome":"Nova Colinas",
+    "municipio.id":2107258,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210730805,
+    "distrito.nome":"Nova Iorque",
+    "municipio.id":2107308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210735705,
+    "distrito.nome":"Nova Olinda do Maranhão",
+    "municipio.id":2107357,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210740705,
+    "distrito.nome":"Olho d'Água das Cunhãs",
+    "municipio.id":2107407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210745605,
+    "distrito.nome":"Olinda Nova do Maranhão",
+    "municipio.id":2107456,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210750605,
+    "distrito.nome":"Paço do Lumiar",
+    "municipio.id":2107506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210760505,
+    "distrito.nome":"Palmeirândia",
+    "municipio.id":2107605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210770405,
+    "distrito.nome":"Paraibano",
+    "municipio.id":2107704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210780305,
+    "distrito.nome":"Parnarama",
+    "municipio.id":2107803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210780310,
+    "distrito.nome":"Brejo de São Félix",
+    "municipio.id":2107803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210790205,
+    "distrito.nome":"Passagem Franca",
+    "municipio.id":2107902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210800905,
+    "distrito.nome":"Pastos Bons",
+    "municipio.id":2108009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210800910,
+    "distrito.nome":"Roçado",
+    "municipio.id":2108009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210805805,
+    "distrito.nome":"Paulino Neves",
+    "municipio.id":2108058,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210810805,
+    "distrito.nome":"Paulo Ramos",
+    "municipio.id":2108108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210820705,
+    "distrito.nome":"Pedreiras",
+    "municipio.id":2108207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210820710,
+    "distrito.nome":"Marianópolis",
+    "municipio.id":2108207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210825605,
+    "distrito.nome":"Pedro do Rosário",
+    "municipio.id":2108256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210830605,
+    "distrito.nome":"Penalva",
+    "municipio.id":2108306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210840505,
+    "distrito.nome":"Peri Mirim",
+    "municipio.id":2108405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210845405,
+    "distrito.nome":"Peritoró",
+    "municipio.id":2108454,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210850405,
+    "distrito.nome":"Pindaré-Mirim",
+    "municipio.id":2108504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210850410,
+    "distrito.nome":"Pimentel",
+    "municipio.id":2108504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210860305,
+    "distrito.nome":"Pinheiro",
+    "municipio.id":2108603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210860310,
+    "distrito.nome":"Roque",
+    "municipio.id":2108603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210870205,
+    "distrito.nome":"Pio XII",
+    "municipio.id":2108702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210880105,
+    "distrito.nome":"Pirapemas",
+    "municipio.id":2108801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210890005,
+    "distrito.nome":"Poção de Pedras",
+    "municipio.id":2108900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210900705,
+    "distrito.nome":"Porto Franco",
+    "municipio.id":2109007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210905605,
+    "distrito.nome":"Porto Rico do Maranhão",
+    "municipio.id":2109056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210910605,
+    "distrito.nome":"Presidente Dutra",
+    "municipio.id":2109106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210920505,
+    "distrito.nome":"Presidente Juscelino",
+    "municipio.id":2109205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210923905,
+    "distrito.nome":"Presidente Médici",
+    "municipio.id":2109239,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210927005,
+    "distrito.nome":"Presidente Sarney",
+    "municipio.id":2109270,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210930405,
+    "distrito.nome":"Presidente Vargas",
+    "municipio.id":2109304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210940305,
+    "distrito.nome":"Primeira Cruz",
+    "municipio.id":2109403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210945205,
+    "distrito.nome":"Raposa",
+    "municipio.id":2109452,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210950205,
+    "distrito.nome":"Riachão",
+    "municipio.id":2109502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210955105,
+    "distrito.nome":"Ribamar Fiquene",
+    "municipio.id":2109551,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210960105,
+    "distrito.nome":"Rosário",
+    "municipio.id":2109601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210970005,
+    "distrito.nome":"Sambaíba",
+    "municipio.id":2109700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210975905,
+    "distrito.nome":"Santa Filomena do Maranhão",
+    "municipio.id":2109759,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210980905,
+    "distrito.nome":"Santa Helena",
+    "municipio.id":2109809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210980910,
+    "distrito.nome":"Curva Grande",
+    "municipio.id":2109809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":210990805,
+    "distrito.nome":"Santa Inês",
+    "municipio.id":2109908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211000505,
+    "distrito.nome":"Santa Luzia",
+    "municipio.id":2110005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211003905,
+    "distrito.nome":"Santa Luzia do Paruá",
+    "municipio.id":2110039,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211010405,
+    "distrito.nome":"Santa Quitéria do Maranhão",
+    "municipio.id":2110104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211020305,
+    "distrito.nome":"Santa Rita",
+    "municipio.id":2110203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211023705,
+    "distrito.nome":"Santana do Maranhão",
+    "municipio.id":2110237,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211027805,
+    "distrito.nome":"Santo Amaro do Maranhão",
+    "municipio.id":2110278,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211030205,
+    "distrito.nome":"Santo Antônio dos Lopes",
+    "municipio.id":2110302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211040105,
+    "distrito.nome":"São Benedito do Rio Preto",
+    "municipio.id":2110401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211050005,
+    "distrito.nome":"São Bento",
+    "municipio.id":2110500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211060905,
+    "distrito.nome":"São Bernardo",
+    "municipio.id":2110609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211065805,
+    "distrito.nome":"São Domingos do Azeitão",
+    "municipio.id":2110658,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211070805,
+    "distrito.nome":"São Domingos do Maranhão",
+    "municipio.id":2110708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211080705,
+    "distrito.nome":"São Félix de Balsas",
+    "municipio.id":2110807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211085605,
+    "distrito.nome":"São Francisco do Brejão",
+    "municipio.id":2110856,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211090605,
+    "distrito.nome":"São Francisco do Maranhão",
+    "municipio.id":2110906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211090610,
+    "distrito.nome":"Caraíba do Norte",
+    "municipio.id":2110906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211090615,
+    "distrito.nome":"Ribeirão Azul",
+    "municipio.id":2110906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211100305,
+    "distrito.nome":"São João Batista",
+    "municipio.id":2111003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211102905,
+    "distrito.nome":"São João do Carú",
+    "municipio.id":2111029,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211105205,
+    "distrito.nome":"São João do Paraíso",
+    "municipio.id":2111052,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211107805,
+    "distrito.nome":"São João do Soter",
+    "municipio.id":2111078,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211110205,
+    "distrito.nome":"São João dos Patos",
+    "municipio.id":2111102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211120105,
+    "distrito.nome":"São José de Ribamar",
+    "municipio.id":2111201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211120110,
+    "distrito.nome":"Mata",
+    "municipio.id":2111201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211125005,
+    "distrito.nome":"São José dos Basílios",
+    "municipio.id":2111250,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211130005,
+    "distrito.nome":"São Luís",
+    "municipio.id":2111300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211140905,
+    "distrito.nome":"São Luís Gonzaga do Maranhão",
+    "municipio.id":2111409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211150805,
+    "distrito.nome":"São Mateus do Maranhão",
+    "municipio.id":2111508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211153205,
+    "distrito.nome":"São Pedro da Água Branca",
+    "municipio.id":2111532,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211157305,
+    "distrito.nome":"São Pedro dos Crentes",
+    "municipio.id":2111573,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211160705,
+    "distrito.nome":"São Raimundo das Mangabeiras",
+    "municipio.id":2111607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211163105,
+    "distrito.nome":"São Raimundo do Doca Bezerra",
+    "municipio.id":2111631,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211167205,
+    "distrito.nome":"São Roberto",
+    "municipio.id":2111672,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211170605,
+    "distrito.nome":"São Vicente Ferrer",
+    "municipio.id":2111706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211172205,
+    "distrito.nome":"Satubinha",
+    "municipio.id":2111722,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211174805,
+    "distrito.nome":"Senador Alexandre Costa",
+    "municipio.id":2111748,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211176305,
+    "distrito.nome":"Senador La Rocque",
+    "municipio.id":2111763,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211178905,
+    "distrito.nome":"Serrano do Maranhão",
+    "municipio.id":2111789,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211180505,
+    "distrito.nome":"Sítio Novo",
+    "municipio.id":2111805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211190405,
+    "distrito.nome":"Sucupira do Norte",
+    "municipio.id":2111904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211195305,
+    "distrito.nome":"Sucupira do Riachão",
+    "municipio.id":2111953,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211200105,
+    "distrito.nome":"Tasso Fragoso",
+    "municipio.id":2112001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211210005,
+    "distrito.nome":"Timbiras",
+    "municipio.id":2112100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211220905,
+    "distrito.nome":"Timon",
+    "municipio.id":2112209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211220910,
+    "distrito.nome":"Buriti Cortado",
+    "municipio.id":2112209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211223305,
+    "distrito.nome":"Trizidela do Vale",
+    "municipio.id":2112233,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211227405,
+    "distrito.nome":"Tufilândia",
+    "municipio.id":2112274,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211230805,
+    "distrito.nome":"Tuntum",
+    "municipio.id":2112308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211230810,
+    "distrito.nome":"São Joaquim dos Melos",
+    "municipio.id":2112308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211240705,
+    "distrito.nome":"Turiaçu",
+    "municipio.id":2112407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211245605,
+    "distrito.nome":"Turilândia",
+    "municipio.id":2112456,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211250605,
+    "distrito.nome":"Tutóia",
+    "municipio.id":2112506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211250610,
+    "distrito.nome":"Barro Duro",
+    "municipio.id":2112506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211260505,
+    "distrito.nome":"Urbano Santos",
+    "municipio.id":2112605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211270405,
+    "distrito.nome":"Vargem Grande",
+    "municipio.id":2112704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211280305,
+    "distrito.nome":"Viana",
+    "municipio.id":2112803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211285205,
+    "distrito.nome":"Vila Nova dos Martírios",
+    "municipio.id":2112852,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211290205,
+    "distrito.nome":"Vitória do Mearim",
+    "municipio.id":2112902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211300905,
+    "distrito.nome":"Vitorino Freire",
+    "municipio.id":2113009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  },
+  {
+    "distrito.id":211400705,
+    "distrito.nome":"Zé Doca",
+    "municipio.id":2114007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Maranhão"
+  }
+]

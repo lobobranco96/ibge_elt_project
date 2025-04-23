@@ -1,0 +1,26 @@
+[
+  {
+    "intermediaria.id":2601,
+    "intermediaria.nome":"Recife",
+    "uf.id":26,
+    "uf.sigla":"PE"
+  },
+  {
+    "intermediaria.id":2602,
+    "intermediaria.nome":"Caruaru",
+    "uf.id":26,
+    "uf.sigla":"PE"
+  },
+  {
+    "intermediaria.id":2603,
+    "intermediaria.nome":"Serra Talhada",
+    "uf.id":26,
+    "uf.sigla":"PE"
+  },
+  {
+    "intermediaria.id":2604,
+    "intermediaria.nome":"Petrolina",
+    "uf.id":26,
+    "uf.sigla":"PE"
+  }
+]

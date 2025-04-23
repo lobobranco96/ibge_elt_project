@@ -1,0 +1,1670 @@
+[
+  {
+    "distrito.id":320010205,
+    "distrito.nome":"Afonso Cláudio",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010213,
+    "distrito.nome":"Fazenda Guandu",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010215,
+    "distrito.nome":"Ibicaba",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010228,
+    "distrito.nome":"Mata Fria",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010230,
+    "distrito.nome":"Piracema",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010235,
+    "distrito.nome":"Pontões",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010237,
+    "distrito.nome":"São Francisco Xavier do Guandu",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010239,
+    "distrito.nome":"São Luís de Boa Sorte",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320010240,
+    "distrito.nome":"Serra Pelada",
+    "municipio.id":3200102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320016905,
+    "distrito.nome":"Água Doce do Norte",
+    "municipio.id":3200169,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320016910,
+    "distrito.nome":"Governador Lacerda de Aguiar",
+    "municipio.id":3200169,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320016915,
+    "distrito.nome":"Santa Luzia do Azul",
+    "municipio.id":3200169,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320016920,
+    "distrito.nome":"Santo Agostinho",
+    "municipio.id":3200169,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320016930,
+    "distrito.nome":"Vila Nelita",
+    "municipio.id":3200169,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320013605,
+    "distrito.nome":"Águia Branca",
+    "municipio.id":3200136,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320013610,
+    "distrito.nome":"Águas Claras",
+    "municipio.id":3200136,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020105,
+    "distrito.nome":"Alegre",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020110,
+    "distrito.nome":"Anutiba",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020115,
+    "distrito.nome":"Araraí",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020120,
+    "distrito.nome":"Café",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020125,
+    "distrito.nome":"Celina",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020135,
+    "distrito.nome":"Rive",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020140,
+    "distrito.nome":"Santa Angélica",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320020145,
+    "distrito.nome":"São João do Norte",
+    "municipio.id":3200201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030005,
+    "distrito.nome":"Alfredo Chaves",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030010,
+    "distrito.nome":"Crubixá",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030015,
+    "distrito.nome":"Ibitiruí",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030020,
+    "distrito.nome":"Matilde",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030025,
+    "distrito.nome":"Ribeirão do Cristo",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030030,
+    "distrito.nome":"Sagrada Família",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320030035,
+    "distrito.nome":"Urânia",
+    "municipio.id":3200300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320035905,
+    "distrito.nome":"Alto Rio Novo",
+    "municipio.id":3200359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320035915,
+    "distrito.nome":"Monte Carmelo do Rio Novo",
+    "municipio.id":3200359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320035920,
+    "distrito.nome":"Palmerino",
+    "municipio.id":3200359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320040905,
+    "distrito.nome":"Anchieta",
+    "municipio.id":3200409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320040910,
+    "distrito.nome":"Alto Pongal",
+    "municipio.id":3200409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320040915,
+    "distrito.nome":"Jabaquara",
+    "municipio.id":3200409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320050805,
+    "distrito.nome":"Apiacá",
+    "municipio.id":3200508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320050807,
+    "distrito.nome":"Bonsucesso",
+    "municipio.id":3200508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320050810,
+    "distrito.nome":"José Carlos",
+    "municipio.id":3200508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320060705,
+    "distrito.nome":"Aracruz",
+    "municipio.id":3200607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320060710,
+    "distrito.nome":"Guaraná",
+    "municipio.id":3200607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320060712,
+    "distrito.nome":"Jacupemba",
+    "municipio.id":3200607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320060715,
+    "distrito.nome":"Riacho",
+    "municipio.id":3200607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320060720,
+    "distrito.nome":"Santa Cruz",
+    "municipio.id":3200607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320070605,
+    "distrito.nome":"Atílio Vivácqua",
+    "municipio.id":3200706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320080505,
+    "distrito.nome":"Baixo Guandu",
+    "municipio.id":3200805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320080510,
+    "distrito.nome":"Alto Mutum Preto",
+    "municipio.id":3200805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320080515,
+    "distrito.nome":"Ibituba",
+    "municipio.id":3200805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320080520,
+    "distrito.nome":"Quilômetro 14 do Mutum",
+    "municipio.id":3200805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320080525,
+    "distrito.nome":"Vila Nova de Bananal",
+    "municipio.id":3200805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090405,
+    "distrito.nome":"Barra de São Francisco",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090415,
+    "distrito.nome":"Cachoeirinha de Itaúna",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090425,
+    "distrito.nome":"Itaperuna",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090427,
+    "distrito.nome":"Monte Senir",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090430,
+    "distrito.nome":"Monte Sinai",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090435,
+    "distrito.nome":"Paulista",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090440,
+    "distrito.nome":"Poranga",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090450,
+    "distrito.nome":"Santo Antônio",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320090456,
+    "distrito.nome":"Vargem Alegre",
+    "municipio.id":3200904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320100105,
+    "distrito.nome":"Boa Esperança",
+    "municipio.id":3201001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320100140,
+    "distrito.nome":"Santo Antônio do Pousalegre",
+    "municipio.id":3201001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320100145,
+    "distrito.nome":"São José do Sobradinho",
+    "municipio.id":3201001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320110005,
+    "distrito.nome":"Bom Jesus do Norte",
+    "municipio.id":3201100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320115905,
+    "distrito.nome":"Brejetuba",
+    "municipio.id":3201159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320115918,
+    "distrito.nome":"Santa Rita de Brejetuba",
+    "municipio.id":3201159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320115920,
+    "distrito.nome":"São Jorge de Oliveira",
+    "municipio.id":3201159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120905,
+    "distrito.nome":"Cachoeiro de Itapemirim",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120910,
+    "distrito.nome":"Burarama",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120915,
+    "distrito.nome":"Conduru",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120916,
+    "distrito.nome":"Córrego dos Monos",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120917,
+    "distrito.nome":"Coutinho",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120918,
+    "distrito.nome":"Gironda",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120919,
+    "distrito.nome":"Gruta",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120920,
+    "distrito.nome":"Itaoca",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120930,
+    "distrito.nome":"Pacotuba",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120936,
+    "distrito.nome":"São Vicente",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320120940,
+    "distrito.nome":"Vargem Grande do Soturno",
+    "municipio.id":3201209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320130805,
+    "distrito.nome":"Cariacica",
+    "municipio.id":3201308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320130810,
+    "distrito.nome":"Itaquari",
+    "municipio.id":3201308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320140705,
+    "distrito.nome":"Castelo",
+    "municipio.id":3201407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320140715,
+    "distrito.nome":"Estrela do Norte",
+    "municipio.id":3201407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320140723,
+    "distrito.nome":"Limoeiro",
+    "municipio.id":3201407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320140725,
+    "distrito.nome":"Monte Pio",
+    "municipio.id":3201407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320140730,
+    "distrito.nome":"Patrimônio do Ouro",
+    "municipio.id":3201407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150605,
+    "distrito.nome":"Colatina",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150610,
+    "distrito.nome":"Ângelo Frechiani",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150615,
+    "distrito.nome":"Baunilha",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150620,
+    "distrito.nome":"Boapaba",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150630,
+    "distrito.nome":"Graça Aranha",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320150635,
+    "distrito.nome":"Itapina",
+    "municipio.id":3201506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320160505,
+    "distrito.nome":"Conceição da Barra",
+    "municipio.id":3201605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320160507,
+    "distrito.nome":"Braço do Rio",
+    "municipio.id":3201605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320160508,
+    "distrito.nome":"Cricaré",
+    "municipio.id":3201605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320160510,
+    "distrito.nome":"Itaúnas",
+    "municipio.id":3201605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320170405,
+    "distrito.nome":"Conceição do Castelo",
+    "municipio.id":3201704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320180305,
+    "distrito.nome":"Divino de São Lourenço",
+    "municipio.id":3201803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190205,
+    "distrito.nome":"Domingos Martins",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190210,
+    "distrito.nome":"Aracê",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190213,
+    "distrito.nome":"Biriricas",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190220,
+    "distrito.nome":"Isabel",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190230,
+    "distrito.nome":"Melgaço",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320190235,
+    "distrito.nome":"Paraju",
+    "municipio.id":3201902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320200905,
+    "distrito.nome":"Dores do Rio Preto",
+    "municipio.id":3202009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320200910,
+    "distrito.nome":"Mundo Novo",
+    "municipio.id":3202009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320200915,
+    "distrito.nome":"São Raimundo da Pedra Menina",
+    "municipio.id":3202009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210805,
+    "distrito.nome":"Ecoporanga",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210810,
+    "distrito.nome":"Cotaxé",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210815,
+    "distrito.nome":"Imburana",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210820,
+    "distrito.nome":"Joaçuba",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210822,
+    "distrito.nome":"Muritiba",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210823,
+    "distrito.nome":"Prata dos Baianos",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210830,
+    "distrito.nome":"Santa Luzia do Norte",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320210840,
+    "distrito.nome":"Santa Terezinha",
+    "municipio.id":3202108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320220705,
+    "distrito.nome":"Fundão",
+    "municipio.id":3202207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320220710,
+    "distrito.nome":"Irundi",
+    "municipio.id":3202207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320220713,
+    "distrito.nome":"Praia Grande",
+    "municipio.id":3202207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320220715,
+    "distrito.nome":"Timbuí",
+    "municipio.id":3202207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320225605,
+    "distrito.nome":"Governador Lindenberg",
+    "municipio.id":3202256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320225610,
+    "distrito.nome":"Moacyr Ávidos",
+    "municipio.id":3202256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320225613,
+    "distrito.nome":"Morello",
+    "municipio.id":3202256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320225615,
+    "distrito.nome":"Novo Brasil",
+    "municipio.id":3202256,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320230605,
+    "distrito.nome":"Guaçuí",
+    "municipio.id":3202306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320230608,
+    "distrito.nome":"São Miguel do Caparaó",
+    "municipio.id":3202306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320230610,
+    "distrito.nome":"São Pedro de Rates",
+    "municipio.id":3202306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320230615,
+    "distrito.nome":"São Tiago",
+    "municipio.id":3202306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320240505,
+    "distrito.nome":"Guarapari",
+    "municipio.id":3202405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320240510,
+    "distrito.nome":"Rio Calçado",
+    "municipio.id":3202405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320240515,
+    "distrito.nome":"Todos os Santos",
+    "municipio.id":3202405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320245405,
+    "distrito.nome":"Ibatiba",
+    "municipio.id":3202454,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320250405,
+    "distrito.nome":"Ibiraçu",
+    "municipio.id":3202504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320250420,
+    "distrito.nome":"Pendanga",
+    "municipio.id":3202504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320255305,
+    "distrito.nome":"Ibitirama",
+    "municipio.id":3202553,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320255310,
+    "distrito.nome":"Santa Marta",
+    "municipio.id":3202553,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320260305,
+    "distrito.nome":"Iconha",
+    "municipio.id":3202603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320260310,
+    "distrito.nome":"Duas Barras",
+    "municipio.id":3202603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320265205,
+    "distrito.nome":"Irupi",
+    "municipio.id":3202652,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320265220,
+    "distrito.nome":"Santa Cruz de Irupi",
+    "municipio.id":3202652,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320270205,
+    "distrito.nome":"Itaguaçu",
+    "municipio.id":3202702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320270210,
+    "distrito.nome":"Itaçu",
+    "municipio.id":3202702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320270215,
+    "distrito.nome":"Itaimbé",
+    "municipio.id":3202702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320270225,
+    "distrito.nome":"Palmeira",
+    "municipio.id":3202702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320280105,
+    "distrito.nome":"Itapemirim",
+    "municipio.id":3202801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320280109,
+    "distrito.nome":"Itaipava",
+    "municipio.id":3202801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320280110,
+    "distrito.nome":"Itapecoá",
+    "municipio.id":3202801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320280114,
+    "distrito.nome":"Piabanha do Norte",
+    "municipio.id":3202801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320280115,
+    "distrito.nome":"Rio Muqui",
+    "municipio.id":3202801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320290005,
+    "distrito.nome":"Itarana",
+    "municipio.id":3202900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320300705,
+    "distrito.nome":"Iúna",
+    "municipio.id":3203007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320300720,
+    "distrito.nome":"Pequiá",
+    "municipio.id":3203007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320300723,
+    "distrito.nome":"Nossa Senhora das Graças",
+    "municipio.id":3203007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320300725,
+    "distrito.nome":"Santíssima Trindade",
+    "municipio.id":3203007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320300730,
+    "distrito.nome":"São João do Príncipe",
+    "municipio.id":3203007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320305605,
+    "distrito.nome":"Jaguaré",
+    "municipio.id":3203056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320305610,
+    "distrito.nome":"Barra Seca",
+    "municipio.id":3203056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320305620,
+    "distrito.nome":"Nossa Senhora de Fátima",
+    "municipio.id":3203056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320310605,
+    "distrito.nome":"Jerônimo Monteiro",
+    "municipio.id":3203106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320313005,
+    "distrito.nome":"João Neiva",
+    "municipio.id":3203130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320313010,
+    "distrito.nome":"Acioli",
+    "municipio.id":3203130,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320316305,
+    "distrito.nome":"Laranja da Terra",
+    "municipio.id":3203163,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320316315,
+    "distrito.nome":"Joatuba",
+    "municipio.id":3203163,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320316320,
+    "distrito.nome":"São Luiz de Miranda",
+    "municipio.id":3203163,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320316325,
+    "distrito.nome":"Sobreiro",
+    "municipio.id":3203163,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320316330,
+    "distrito.nome":"Vila de Laranja da Terra",
+    "municipio.id":3203163,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320505,
+    "distrito.nome":"Linhares",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320507,
+    "distrito.nome":"Bebedouro",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320510,
+    "distrito.nome":"Desengano",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320512,
+    "distrito.nome":"Farias",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320513,
+    "distrito.nome":"Pontal do Ipiranga",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320514,
+    "distrito.nome":"Povoação",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320515,
+    "distrito.nome":"Regência",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320523,
+    "distrito.nome":"Rio Quartel",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320320525,
+    "distrito.nome":"São Rafael",
+    "municipio.id":3203205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320330405,
+    "distrito.nome":"Mantenópolis",
+    "municipio.id":3203304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320330410,
+    "distrito.nome":"Santa Luzia de Mantenópolis",
+    "municipio.id":3203304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320330415,
+    "distrito.nome":"São Geraldo",
+    "municipio.id":3203304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320330425,
+    "distrito.nome":"São José de Mantenópolis",
+    "municipio.id":3203304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320332005,
+    "distrito.nome":"Marataízes",
+    "municipio.id":3203320,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320332010,
+    "distrito.nome":"Barra do Itapemirim",
+    "municipio.id":3203320,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320334605,
+    "distrito.nome":"Marechal Floriano",
+    "municipio.id":3203346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320334610,
+    "distrito.nome":"Araguaia",
+    "municipio.id":3203346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320334625,
+    "distrito.nome":"Santa Maria de Marechal",
+    "municipio.id":3203346,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320335305,
+    "distrito.nome":"Marilândia",
+    "municipio.id":3203353,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320335310,
+    "distrito.nome":"Sapucaia",
+    "municipio.id":3203353,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340305,
+    "distrito.nome":"Mimoso do Sul",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340310,
+    "distrito.nome":"Conceição do Muqui",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340315,
+    "distrito.nome":"Dona América",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340320,
+    "distrito.nome":"Ponte de Itabapoana",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340325,
+    "distrito.nome":"Santo Antônio do Muqui",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340330,
+    "distrito.nome":"São José das Torres",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320340335,
+    "distrito.nome":"São Pedro de Itabapoana",
+    "municipio.id":3203403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320350205,
+    "distrito.nome":"Montanha",
+    "municipio.id":3203502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320350210,
+    "distrito.nome":"Vinhático",
+    "municipio.id":3203502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320360105,
+    "distrito.nome":"Mucurici",
+    "municipio.id":3203601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320360110,
+    "distrito.nome":"Itabaiana",
+    "municipio.id":3203601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370005,
+    "distrito.nome":"Muniz Freire",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370008,
+    "distrito.nome":"Alto Norte",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370010,
+    "distrito.nome":"Itaici",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370015,
+    "distrito.nome":"Menino Jesus",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370020,
+    "distrito.nome":"Piaçu",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370023,
+    "distrito.nome":"São Pedro",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320370025,
+    "distrito.nome":"Vieira Machado",
+    "municipio.id":3203700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320380905,
+    "distrito.nome":"Muqui",
+    "municipio.id":3203809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320380910,
+    "distrito.nome":"Camará",
+    "municipio.id":3203809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320390805,
+    "distrito.nome":"Nova Venécia",
+    "municipio.id":3203908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320390815,
+    "distrito.nome":"Guararema",
+    "municipio.id":3203908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320390830,
+    "distrito.nome":"Santo Antônio do Quinze",
+    "municipio.id":3203908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320400505,
+    "distrito.nome":"Pancas",
+    "municipio.id":3204005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320400515,
+    "distrito.nome":"Lajinha",
+    "municipio.id":3204005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320400525,
+    "distrito.nome":"Vila Verde",
+    "municipio.id":3204005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320405405,
+    "distrito.nome":"Pedro Canário",
+    "municipio.id":3204054,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320405415,
+    "distrito.nome":"Cristal do Norte",
+    "municipio.id":3204054,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320410405,
+    "distrito.nome":"Pinheiros",
+    "municipio.id":3204104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320410410,
+    "distrito.nome":"São João do Sobrado",
+    "municipio.id":3204104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320420305,
+    "distrito.nome":"Piúma",
+    "municipio.id":3204203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320420310,
+    "distrito.nome":"Aghá",
+    "municipio.id":3204203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320425205,
+    "distrito.nome":"Ponto Belo",
+    "municipio.id":3204252,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320425215,
+    "distrito.nome":"Itamira",
+    "municipio.id":3204252,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320430205,
+    "distrito.nome":"Presidente Kennedy",
+    "municipio.id":3204302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320435105,
+    "distrito.nome":"Rio Bananal",
+    "municipio.id":3204351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320435140,
+    "distrito.nome":"São Francisco",
+    "municipio.id":3204351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320435145,
+    "distrito.nome":"São Jorge de Tiradentes",
+    "municipio.id":3204351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320440105,
+    "distrito.nome":"Rio Novo do Sul",
+    "municipio.id":3204401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320440110,
+    "distrito.nome":"Princesa",
+    "municipio.id":3204401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320450005,
+    "distrito.nome":"Santa Leopoldina",
+    "municipio.id":3204500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320450010,
+    "distrito.nome":"Djalma Coutinho",
+    "municipio.id":3204500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320450025,
+    "distrito.nome":"Mangaraí",
+    "municipio.id":3204500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320455905,
+    "distrito.nome":"Santa Maria de Jetibá",
+    "municipio.id":3204559,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320455915,
+    "distrito.nome":"Garrafão",
+    "municipio.id":3204559,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460905,
+    "distrito.nome":"Santa Teresa",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460907,
+    "distrito.nome":"Alto Caldeirão",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460910,
+    "distrito.nome":"Alto Santa Maria",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460917,
+    "distrito.nome":"Santo Antônio do Canaã",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460920,
+    "distrito.nome":"São João de Petrópolis",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320460925,
+    "distrito.nome":"Vinte e Cinco de Julho",
+    "municipio.id":3204609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320465805,
+    "distrito.nome":"São Domingos do Norte",
+    "municipio.id":3204658,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320465810,
+    "distrito.nome":"Braço do Sul",
+    "municipio.id":3204658,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320470805,
+    "distrito.nome":"São Gabriel da Palha",
+    "municipio.id":3204708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320470815,
+    "distrito.nome":"Fartura",
+    "municipio.id":3204708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320480705,
+    "distrito.nome":"São José do Calçado",
+    "municipio.id":3204807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320480710,
+    "distrito.nome":"Airituba",
+    "municipio.id":3204807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320480715,
+    "distrito.nome":"Alto Calçado",
+    "municipio.id":3204807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320480720,
+    "distrito.nome":"Divino Espírito Santo",
+    "municipio.id":3204807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320490605,
+    "distrito.nome":"São Mateus",
+    "municipio.id":3204906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320490610,
+    "distrito.nome":"Barra Nova",
+    "municipio.id":3204906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320490620,
+    "distrito.nome":"Itauninhas",
+    "municipio.id":3204906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320490630,
+    "distrito.nome":"Nestor Gomes",
+    "municipio.id":3204906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320490635,
+    "distrito.nome":"Nova Verona",
+    "municipio.id":3204906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320495505,
+    "distrito.nome":"São Roque do Canaã",
+    "municipio.id":3204955,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320495520,
+    "distrito.nome":"Santa Júlia",
+    "municipio.id":3204955,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320495525,
+    "distrito.nome":"São Jacinto",
+    "municipio.id":3204955,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320500205,
+    "distrito.nome":"Serra",
+    "municipio.id":3205002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320500210,
+    "distrito.nome":"Calogi",
+    "municipio.id":3205002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320500215,
+    "distrito.nome":"Carapina",
+    "municipio.id":3205002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320500220,
+    "distrito.nome":"Nova Almeida",
+    "municipio.id":3205002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320500225,
+    "distrito.nome":"Queimado",
+    "municipio.id":3205002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320501005,
+    "distrito.nome":"Sooretama",
+    "municipio.id":3205010,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320503605,
+    "distrito.nome":"Vargem Alta",
+    "municipio.id":3205036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320503610,
+    "distrito.nome":"Alto Castelinho",
+    "municipio.id":3205036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320503615,
+    "distrito.nome":"Jaciguá",
+    "municipio.id":3205036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320503620,
+    "distrito.nome":"Prosperidade",
+    "municipio.id":3205036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320503625,
+    "distrito.nome":"São José de Fruteiras",
+    "municipio.id":3205036,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320506905,
+    "distrito.nome":"Venda Nova do Imigrante",
+    "municipio.id":3205069,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320506910,
+    "distrito.nome":"Alto Caxixe",
+    "municipio.id":3205069,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320506920,
+    "distrito.nome":"São João de Viçosa",
+    "municipio.id":3205069,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320510105,
+    "distrito.nome":"Viana",
+    "municipio.id":3205101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320510110,
+    "distrito.nome":"Araçatiba",
+    "municipio.id":3205101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320515005,
+    "distrito.nome":"Vila Pavão",
+    "municipio.id":3205150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320517605,
+    "distrito.nome":"Vila Valério",
+    "municipio.id":3205176,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320517615,
+    "distrito.nome":"Jurama",
+    "municipio.id":3205176,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320517630,
+    "distrito.nome":"São Jorge da Barra Seca",
+    "municipio.id":3205176,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320520005,
+    "distrito.nome":"Vila Velha",
+    "municipio.id":3205200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320520010,
+    "distrito.nome":"Argolas",
+    "municipio.id":3205200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320520015,
+    "distrito.nome":"Ibes",
+    "municipio.id":3205200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320520020,
+    "distrito.nome":"Jucu",
+    "municipio.id":3205200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320520025,
+    "distrito.nome":"São Torquato",
+    "municipio.id":3205200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320530905,
+    "distrito.nome":"Vitória",
+    "municipio.id":3205309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  },
+  {
+    "distrito.id":320530910,
+    "distrito.nome":"Goiabeiras",
+    "municipio.id":3205309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Espírito Santo"
+  }
+]

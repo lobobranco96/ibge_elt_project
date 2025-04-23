@@ -1,0 +1,26 @@
+[
+  {
+    "bairro.id":24081020506,
+    "bairro.nome":"R.A. Norte",
+    "distrito.id":240810205,
+    "municipio.nome":"Natal"
+  },
+  {
+    "bairro.id":24081020507,
+    "bairro.nome":"R.A. Sul",
+    "distrito.id":240810205,
+    "municipio.nome":"Natal"
+  },
+  {
+    "bairro.id":24081020508,
+    "bairro.nome":"R.A. Leste",
+    "distrito.id":240810205,
+    "municipio.nome":"Natal"
+  },
+  {
+    "bairro.id":24081020509,
+    "bairro.nome":"R.A. Oeste",
+    "distrito.id":240810205,
+    "municipio.nome":"Natal"
+  }
+]

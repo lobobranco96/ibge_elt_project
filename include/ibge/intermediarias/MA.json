@@ -1,0 +1,32 @@
+[
+  {
+    "intermediaria.id":2101,
+    "intermediaria.nome":"São Luís",
+    "uf.id":21,
+    "uf.sigla":"MA"
+  },
+  {
+    "intermediaria.id":2102,
+    "intermediaria.nome":"Santa Inês - Bacabal",
+    "uf.id":21,
+    "uf.sigla":"MA"
+  },
+  {
+    "intermediaria.id":2103,
+    "intermediaria.nome":"Caxias",
+    "uf.id":21,
+    "uf.sigla":"MA"
+  },
+  {
+    "intermediaria.id":2104,
+    "intermediaria.nome":"Presidente Dutra",
+    "uf.id":21,
+    "uf.sigla":"MA"
+  },
+  {
+    "intermediaria.id":2105,
+    "intermediaria.nome":"Imperatriz",
+    "uf.id":21,
+    "uf.sigla":"MA"
+  }
+]

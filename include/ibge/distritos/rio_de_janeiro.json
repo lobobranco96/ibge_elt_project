@@ -1,0 +1,1802 @@
+[
+  {
+    "distrito.id":330010005,
+    "distrito.nome":"Angra dos Reis",
+    "municipio.id":3300100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330010010,
+    "distrito.nome":"Abraão",
+    "municipio.id":3300100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330010015,
+    "distrito.nome":"Cunhambebe",
+    "municipio.id":3300100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330010025,
+    "distrito.nome":"Mambucaba",
+    "municipio.id":3300100,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330015905,
+    "distrito.nome":"Aperibé",
+    "municipio.id":3300159,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330020905,
+    "distrito.nome":"Araruama",
+    "municipio.id":3300209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330020908,
+    "distrito.nome":"Iguabinha",
+    "municipio.id":3300209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330020910,
+    "distrito.nome":"Morro Grande",
+    "municipio.id":3300209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330020912,
+    "distrito.nome":"Praia Seca",
+    "municipio.id":3300209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330020915,
+    "distrito.nome":"São Vicente de Paula",
+    "municipio.id":3300209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330022505,
+    "distrito.nome":"Areal",
+    "municipio.id":3300225,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330023305,
+    "distrito.nome":"Armação dos Búzios",
+    "municipio.id":3300233,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330025805,
+    "distrito.nome":"Arraial do Cabo",
+    "municipio.id":3300258,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030805,
+    "distrito.nome":"Barra do Piraí",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030807,
+    "distrito.nome":"Califórnia da Barra",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030810,
+    "distrito.nome":"Dorândia",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030815,
+    "distrito.nome":"Ipiabas",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030820,
+    "distrito.nome":"São José do Turvo",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330030825,
+    "distrito.nome":"Vargem Alegre",
+    "municipio.id":3300308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040705,
+    "distrito.nome":"Barra Mansa",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040709,
+    "distrito.nome":"Antônio Rocha",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040715,
+    "distrito.nome":"Floriano",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040720,
+    "distrito.nome":"Nossa Senhora do Amparo",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040730,
+    "distrito.nome":"Rialto",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330040740,
+    "distrito.nome":"Santa Rita de Cássia",
+    "municipio.id":3300407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330045605,
+    "distrito.nome":"Belford Roxo",
+    "municipio.id":3300456,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330050605,
+    "distrito.nome":"Bom Jardim",
+    "municipio.id":3300506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330050610,
+    "distrito.nome":"Banquete",
+    "municipio.id":3300506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330050615,
+    "distrito.nome":"Barra Alegre",
+    "municipio.id":3300506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330050620,
+    "distrito.nome":"São José do Ribeirão",
+    "municipio.id":3300506,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060505,
+    "distrito.nome":"Bom Jesus do Itabapoana",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060510,
+    "distrito.nome":"Calheiros",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060515,
+    "distrito.nome":"Carabuçu",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060520,
+    "distrito.nome":"Pirapetinga de Bom Jesus",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060525,
+    "distrito.nome":"Rosal",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060530,
+    "distrito.nome":"Serrinha",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060535,
+    "distrito.nome":"Usina Santa Maria",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330060540,
+    "distrito.nome":"Santa Isabel",
+    "municipio.id":3300605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330070405,
+    "distrito.nome":"Cabo Frio",
+    "municipio.id":3300704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330070420,
+    "distrito.nome":"Tamoios",
+    "municipio.id":3300704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330080305,
+    "distrito.nome":"Cachoeiras de Macacu",
+    "municipio.id":3300803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090205,
+    "distrito.nome":"Cambuci",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090207,
+    "distrito.nome":"Cruzeiro",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090210,
+    "distrito.nome":"Funil",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090215,
+    "distrito.nome":"Monte Verde",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090220,
+    "distrito.nome":"São João do Paraíso",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330090230,
+    "distrito.nome":"Três Irmãos",
+    "municipio.id":3300902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100905,
+    "distrito.nome":"Campos dos Goytacazes",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100915,
+    "distrito.nome":"Dores de Macabu",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100920,
+    "distrito.nome":"Ibitioca",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100930,
+    "distrito.nome":"Morangaba",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100935,
+    "distrito.nome":"Morro do Coco",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100940,
+    "distrito.nome":"Mussurepe",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100945,
+    "distrito.nome":"Santa Maria",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100950,
+    "distrito.nome":"Santo Amaro de Campos",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100955,
+    "distrito.nome":"Santo Eduardo",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100965,
+    "distrito.nome":"São Sebastião de Campos",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100970,
+    "distrito.nome":"Serrinha",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100975,
+    "distrito.nome":"Tocos",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100980,
+    "distrito.nome":"Travessão",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330100985,
+    "distrito.nome":"Vila Nova de Campos",
+    "municipio.id":3301009,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330110805,
+    "distrito.nome":"Cantagalo",
+    "municipio.id":3301108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330110810,
+    "distrito.nome":"Boa Sorte",
+    "municipio.id":3301108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330110815,
+    "distrito.nome":"Euclidelândia",
+    "municipio.id":3301108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330110820,
+    "distrito.nome":"Santa Rita da Floresta",
+    "municipio.id":3301108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330110825,
+    "distrito.nome":"São Sebastião do Paraíba",
+    "municipio.id":3301108,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330093605,
+    "distrito.nome":"Carapebus",
+    "municipio.id":3300936,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330115705,
+    "distrito.nome":"Cardoso Moreira",
+    "municipio.id":3301157,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330115710,
+    "distrito.nome":"São Joaquim",
+    "municipio.id":3301157,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330120705,
+    "distrito.nome":"Carmo",
+    "municipio.id":3301207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330120710,
+    "distrito.nome":"Córrego da Prata",
+    "municipio.id":3301207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330120715,
+    "distrito.nome":"Porto Velho do Cunha",
+    "municipio.id":3301207,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330130605,
+    "distrito.nome":"Casimiro de Abreu",
+    "municipio.id":3301306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330130610,
+    "distrito.nome":"Barra de São João",
+    "municipio.id":3301306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330130618,
+    "distrito.nome":"Professor Souza",
+    "municipio.id":3301306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330130620,
+    "distrito.nome":"Rio Dourado",
+    "municipio.id":3301306,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330095105,
+    "distrito.nome":"Comendador Levy Gasparian",
+    "municipio.id":3300951,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330095110,
+    "distrito.nome":"Afonso Arinos",
+    "municipio.id":3300951,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330140505,
+    "distrito.nome":"Conceição de Macabu",
+    "municipio.id":3301405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330140510,
+    "distrito.nome":"Macabuzinho",
+    "municipio.id":3301405,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330150405,
+    "distrito.nome":"Cordeiro",
+    "municipio.id":3301504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330160305,
+    "distrito.nome":"Duas Barras",
+    "municipio.id":3301603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330160310,
+    "distrito.nome":"Monnerat",
+    "municipio.id":3301603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330170205,
+    "distrito.nome":"Duque de Caxias",
+    "municipio.id":3301702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330170210,
+    "distrito.nome":"Campos Elyseos",
+    "municipio.id":3301702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330170215,
+    "distrito.nome":"Imbariê",
+    "municipio.id":3301702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330170220,
+    "distrito.nome":"Xerém",
+    "municipio.id":3301702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330180105,
+    "distrito.nome":"Engenheiro Paulo de Frontin",
+    "municipio.id":3301801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330180110,
+    "distrito.nome":"Sacra Família do Tinguá",
+    "municipio.id":3301801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330180115,
+    "distrito.nome":"Morro Azul do Tinguá",
+    "municipio.id":3301801,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330185005,
+    "distrito.nome":"Guapimirim",
+    "municipio.id":3301850,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330187605,
+    "distrito.nome":"Iguaba Grande",
+    "municipio.id":3301876,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190005,
+    "distrito.nome":"Itaboraí",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190010,
+    "distrito.nome":"Cabuçu",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190015,
+    "distrito.nome":"Itambi",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190018,
+    "distrito.nome":"Manilha",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190019,
+    "distrito.nome":"Pachecos",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190020,
+    "distrito.nome":"Porto das Caixas",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190025,
+    "distrito.nome":"Sambaetiba",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330190040,
+    "distrito.nome":"Visconde de Itaboraí",
+    "municipio.id":3301900,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330200705,
+    "distrito.nome":"Itaguaí",
+    "municipio.id":3302007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330200715,
+    "distrito.nome":"Ibituporanga",
+    "municipio.id":3302007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330205605,
+    "distrito.nome":"Italva",
+    "municipio.id":3302056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210605,
+    "distrito.nome":"Itaocara",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210607,
+    "distrito.nome":"Batatal",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210610,
+    "distrito.nome":"Estrada Nova",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210615,
+    "distrito.nome":"Jaguarembé",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210620,
+    "distrito.nome":"Laranjais",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330210625,
+    "distrito.nome":"Portela",
+    "municipio.id":3302106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220505,
+    "distrito.nome":"Itaperuna",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220510,
+    "distrito.nome":"Boaventura",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220515,
+    "distrito.nome":"Comendador Venâncio",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220520,
+    "distrito.nome":"Itajara",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220525,
+    "distrito.nome":"Nossa Senhora da Penha",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220530,
+    "distrito.nome":"Retiro do Muriaé",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330220535,
+    "distrito.nome":"Raposo",
+    "municipio.id":3302205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330225405,
+    "distrito.nome":"Itatiaia",
+    "municipio.id":3302254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330227005,
+    "distrito.nome":"Japeri",
+    "municipio.id":3302270,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330230405,
+    "distrito.nome":"Laje do Muriaé",
+    "municipio.id":3302304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240305,
+    "distrito.nome":"Macaé",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240315,
+    "distrito.nome":"Cachoeiros de Macaé",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240325,
+    "distrito.nome":"Córrego do Ouro",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240327,
+    "distrito.nome":"Frade",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240330,
+    "distrito.nome":"Glicério",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330240340,
+    "distrito.nome":"Sana",
+    "municipio.id":3302403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330245205,
+    "distrito.nome":"Macuco",
+    "municipio.id":3302452,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250205,
+    "distrito.nome":"Magé",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250215,
+    "distrito.nome":"Guia de Pacobaíba",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250220,
+    "distrito.nome":"Inhomirim",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250225,
+    "distrito.nome":"Santo Aleixo",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250230,
+    "distrito.nome":"Suruí",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330250235,
+    "distrito.nome":"Rio D'Ouro",
+    "municipio.id":3302502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330260105,
+    "distrito.nome":"Mangaratiba",
+    "municipio.id":3302601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330260110,
+    "distrito.nome":"Conceição de Jacareí",
+    "municipio.id":3302601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330260115,
+    "distrito.nome":"Itacurussá",
+    "municipio.id":3302601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330260120,
+    "distrito.nome":"Muriqui",
+    "municipio.id":3302601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330270005,
+    "distrito.nome":"Maricá",
+    "municipio.id":3302700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330270010,
+    "distrito.nome":"Inoã",
+    "municipio.id":3302700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330270015,
+    "distrito.nome":"Ponta Negra",
+    "municipio.id":3302700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330270020,
+    "distrito.nome":"Itaipuaçu",
+    "municipio.id":3302700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330280905,
+    "distrito.nome":"Mendes",
+    "municipio.id":3302809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330285805,
+    "distrito.nome":"Mesquita",
+    "municipio.id":3302858,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330285810,
+    "distrito.nome":"Vila Emil",
+    "municipio.id":3302858,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330285815,
+    "distrito.nome":"Banco de Areia",
+    "municipio.id":3302858,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330290805,
+    "distrito.nome":"Miguel Pereira",
+    "municipio.id":3302908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330290807,
+    "distrito.nome":"Conrado",
+    "municipio.id":3302908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330290810,
+    "distrito.nome":"Governador Portela",
+    "municipio.id":3302908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330300505,
+    "distrito.nome":"Miracema",
+    "municipio.id":3303005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330300510,
+    "distrito.nome":"Paraíso do Tobias",
+    "municipio.id":3303005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330300515,
+    "distrito.nome":"Venda das Flores",
+    "municipio.id":3303005,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330310405,
+    "distrito.nome":"Natividade",
+    "municipio.id":3303104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330310407,
+    "distrito.nome":"Bom Jesus do Querendo",
+    "municipio.id":3303104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330310410,
+    "distrito.nome":"Ourânia",
+    "municipio.id":3303104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330320305,
+    "distrito.nome":"Nilópolis",
+    "municipio.id":3303203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330320310,
+    "distrito.nome":"Olinda",
+    "municipio.id":3303203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330330205,
+    "distrito.nome":"Niterói",
+    "municipio.id":3303302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340105,
+    "distrito.nome":"Nova Friburgo",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340110,
+    "distrito.nome":"Amparo",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340115,
+    "distrito.nome":"Campo do Coelho",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340120,
+    "distrito.nome":"Conselheiro Paulino",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340125,
+    "distrito.nome":"Lumiar",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340127,
+    "distrito.nome":"Muri",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340130,
+    "distrito.nome":"Riograndina",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330340135,
+    "distrito.nome":"São Pedro da Serra",
+    "municipio.id":3303401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330350005,
+    "distrito.nome":"Nova Iguaçu",
+    "municipio.id":3303500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330360905,
+    "distrito.nome":"Paracambi",
+    "municipio.id":3303609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330370805,
+    "distrito.nome":"Paraíba do Sul",
+    "municipio.id":3303708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330370810,
+    "distrito.nome":"Inconfidência",
+    "municipio.id":3303708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330370815,
+    "distrito.nome":"Salutaris",
+    "municipio.id":3303708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330370820,
+    "distrito.nome":"Werneck",
+    "municipio.id":3303708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330380705,
+    "distrito.nome":"Paraty",
+    "municipio.id":3303807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330380710,
+    "distrito.nome":"Paraty-Mirim",
+    "municipio.id":3303807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330380715,
+    "distrito.nome":"Tarituba",
+    "municipio.id":3303807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330385605,
+    "distrito.nome":"Paty do Alferes",
+    "municipio.id":3303856,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330385610,
+    "distrito.nome":"Avelar",
+    "municipio.id":3303856,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330390605,
+    "distrito.nome":"Petrópolis",
+    "municipio.id":3303906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330390610,
+    "distrito.nome":"Cascatinha",
+    "municipio.id":3303906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330390615,
+    "distrito.nome":"Itaipava",
+    "municipio.id":3303906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330390620,
+    "distrito.nome":"Pedro do Rio",
+    "municipio.id":3303906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330390623,
+    "distrito.nome":"Posse",
+    "municipio.id":3303906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330395505,
+    "distrito.nome":"Pinheiral",
+    "municipio.id":3303955,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330400305,
+    "distrito.nome":"Piraí",
+    "municipio.id":3304003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330400310,
+    "distrito.nome":"Arrozal",
+    "municipio.id":3304003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330400315,
+    "distrito.nome":"Monumento",
+    "municipio.id":3304003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330400325,
+    "distrito.nome":"Santanésia",
+    "municipio.id":3304003,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330410205,
+    "distrito.nome":"Porciúncula",
+    "municipio.id":3304102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330410210,
+    "distrito.nome":"Purilândia",
+    "municipio.id":3304102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330410215,
+    "distrito.nome":"Santa Clara",
+    "municipio.id":3304102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330411005,
+    "distrito.nome":"Porto Real",
+    "municipio.id":3304110,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330412805,
+    "distrito.nome":"Quatis",
+    "municipio.id":3304128,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330412810,
+    "distrito.nome":"Falcão",
+    "municipio.id":3304128,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330412820,
+    "distrito.nome":"Ribeirão de São Joaquim",
+    "municipio.id":3304128,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330414405,
+    "distrito.nome":"Queimados",
+    "municipio.id":3304144,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330415105,
+    "distrito.nome":"Quissamã",
+    "municipio.id":3304151,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420105,
+    "distrito.nome":"Resende",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420110,
+    "distrito.nome":"Agulhas Negras",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420115,
+    "distrito.nome":"Engenheiro Passos",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420120,
+    "distrito.nome":"Fumaça",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420130,
+    "distrito.nome":"Pedra Selada",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420145,
+    "distrito.nome":"Bulhões",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330420150,
+    "distrito.nome":"Visconde de Mauá",
+    "municipio.id":3304201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330430005,
+    "distrito.nome":"Rio Bonito",
+    "municipio.id":3304300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330430007,
+    "distrito.nome":"Bazílio",
+    "municipio.id":3304300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330430010,
+    "distrito.nome":"Boa Esperança",
+    "municipio.id":3304300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330440905,
+    "distrito.nome":"Rio Claro",
+    "municipio.id":3304409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330440910,
+    "distrito.nome":"Getulândia",
+    "municipio.id":3304409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330440915,
+    "distrito.nome":"Lídice",
+    "municipio.id":3304409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330440920,
+    "distrito.nome":"Passa Três",
+    "municipio.id":3304409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330440925,
+    "distrito.nome":"São João Marcos",
+    "municipio.id":3304409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330450805,
+    "distrito.nome":"Rio das Flores",
+    "municipio.id":3304508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330450810,
+    "distrito.nome":"Abarracamento",
+    "municipio.id":3304508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330450815,
+    "distrito.nome":"Manuel Duarte",
+    "municipio.id":3304508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330450820,
+    "distrito.nome":"Taboas",
+    "municipio.id":3304508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330452405,
+    "distrito.nome":"Rio das Ostras",
+    "municipio.id":3304524,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330455705,
+    "distrito.nome":"Rio de Janeiro",
+    "municipio.id":3304557,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460705,
+    "distrito.nome":"Santa Maria Madalena",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460710,
+    "distrito.nome":"Doutor Loréti",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460715,
+    "distrito.nome":"Renascença",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460720,
+    "distrito.nome":"Santo Antônio do Imbé",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460725,
+    "distrito.nome":"Sossego",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460730,
+    "distrito.nome":"Triunfo",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330460735,
+    "distrito.nome":"Osório Bersot",
+    "municipio.id":3304607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470605,
+    "distrito.nome":"Santo Antônio de Pádua",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470615,
+    "distrito.nome":"Baltazar",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470617,
+    "distrito.nome":"Campelo",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470620,
+    "distrito.nome":"Ibitiguaçu",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470625,
+    "distrito.nome":"Marangatu",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470630,
+    "distrito.nome":"Monte Alegre",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470635,
+    "distrito.nome":"Paraoquena",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470640,
+    "distrito.nome":"Santa Cruz",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330470650,
+    "distrito.nome":"São Pedro de Alcântara",
+    "municipio.id":3304706,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330480505,
+    "distrito.nome":"São Fidélis",
+    "municipio.id":3304805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330480510,
+    "distrito.nome":"Cambiasca",
+    "municipio.id":3304805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330480515,
+    "distrito.nome":"Colônia",
+    "municipio.id":3304805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330480520,
+    "distrito.nome":"Ipuca",
+    "municipio.id":3304805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330480525,
+    "distrito.nome":"Pureza",
+    "municipio.id":3304805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330475505,
+    "distrito.nome":"São Francisco de Itabapoana",
+    "municipio.id":3304755,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330475510,
+    "distrito.nome":"Barra Seca",
+    "municipio.id":3304755,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330475515,
+    "distrito.nome":"Maniva",
+    "municipio.id":3304755,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330490405,
+    "distrito.nome":"São Gonçalo",
+    "municipio.id":3304904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330490410,
+    "distrito.nome":"Ipiiba",
+    "municipio.id":3304904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330490415,
+    "distrito.nome":"Monjolo",
+    "municipio.id":3304904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330490420,
+    "distrito.nome":"Neves",
+    "municipio.id":3304904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330490425,
+    "distrito.nome":"Sete Pontes",
+    "municipio.id":3304904,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500005,
+    "distrito.nome":"São João da Barra",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500007,
+    "distrito.nome":"Atafona",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500010,
+    "distrito.nome":"Barcelos",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500016,
+    "distrito.nome":"Cajueiro",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500018,
+    "distrito.nome":"Grussaí",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330500030,
+    "distrito.nome":"Pipeiras",
+    "municipio.id":3305000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330510905,
+    "distrito.nome":"São João de Meriti",
+    "municipio.id":3305109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330510910,
+    "distrito.nome":"Coelho da Rocha",
+    "municipio.id":3305109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330510915,
+    "distrito.nome":"São Mateus",
+    "municipio.id":3305109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330513305,
+    "distrito.nome":"São José de Ubá",
+    "municipio.id":3305133,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330515805,
+    "distrito.nome":"São José do Vale do Rio Preto",
+    "municipio.id":3305158,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330520805,
+    "distrito.nome":"São Pedro da Aldeia",
+    "municipio.id":3305208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330530705,
+    "distrito.nome":"São Sebastião do Alto",
+    "municipio.id":3305307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330530707,
+    "distrito.nome":"Ipituna",
+    "municipio.id":3305307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330530710,
+    "distrito.nome":"Valão do Barro",
+    "municipio.id":3305307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330530715,
+    "distrito.nome":"Ibipeba",
+    "municipio.id":3305307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330540605,
+    "distrito.nome":"Sapucaia",
+    "municipio.id":3305406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330540610,
+    "distrito.nome":"Anta",
+    "municipio.id":3305406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330540615,
+    "distrito.nome":"Jamapará",
+    "municipio.id":3305406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330540620,
+    "distrito.nome":"Nossa Senhora da Aparecida",
+    "municipio.id":3305406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330540625,
+    "distrito.nome":"Pião",
+    "municipio.id":3305406,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330550505,
+    "distrito.nome":"Saquarema",
+    "municipio.id":3305505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330550510,
+    "distrito.nome":"Bacaxá",
+    "municipio.id":3305505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330550515,
+    "distrito.nome":"Sampaio Correia",
+    "municipio.id":3305505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330555405,
+    "distrito.nome":"Seropédica",
+    "municipio.id":3305554,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330560405,
+    "distrito.nome":"Silva Jardim",
+    "municipio.id":3305604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330560410,
+    "distrito.nome":"Correntezas",
+    "municipio.id":3305604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330560415,
+    "distrito.nome":"Gaviões",
+    "municipio.id":3305604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330560420,
+    "distrito.nome":"Aldeia Velha",
+    "municipio.id":3305604,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330570305,
+    "distrito.nome":"Sumidouro",
+    "municipio.id":3305703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330570310,
+    "distrito.nome":"Campinas",
+    "municipio.id":3305703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330570315,
+    "distrito.nome":"Dona Mariana",
+    "municipio.id":3305703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330570325,
+    "distrito.nome":"Soledade",
+    "municipio.id":3305703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330575205,
+    "distrito.nome":"Tanguá",
+    "municipio.id":3305752,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330580205,
+    "distrito.nome":"Teresópolis",
+    "municipio.id":3305802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330580210,
+    "distrito.nome":"Vale de Bonsucesso",
+    "municipio.id":3305802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330580215,
+    "distrito.nome":"Vale do Paquequer",
+    "municipio.id":3305802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330590105,
+    "distrito.nome":"Trajano de Moraes",
+    "municipio.id":3305901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330590110,
+    "distrito.nome":"Doutor Elias",
+    "municipio.id":3305901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330590115,
+    "distrito.nome":"Sodrelândia",
+    "municipio.id":3305901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330590120,
+    "distrito.nome":"Vila da Grama",
+    "municipio.id":3305901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330590125,
+    "distrito.nome":"Visconde de Imbé",
+    "municipio.id":3305901,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330600805,
+    "distrito.nome":"Três Rios",
+    "municipio.id":3306008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330600820,
+    "distrito.nome":"Bemposta",
+    "municipio.id":3306008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610705,
+    "distrito.nome":"Valença",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610710,
+    "distrito.nome":"Barão de Juparanã",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610715,
+    "distrito.nome":"Conservatória",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610720,
+    "distrito.nome":"Parapeúna",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610725,
+    "distrito.nome":"Pentagna",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330610730,
+    "distrito.nome":"Santa Isabel do Rio Preto",
+    "municipio.id":3306107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330615605,
+    "distrito.nome":"Varre-Sai",
+    "municipio.id":3306156,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330620605,
+    "distrito.nome":"Vassouras",
+    "municipio.id":3306206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330620610,
+    "distrito.nome":"Andrade Pinto",
+    "municipio.id":3306206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330620630,
+    "distrito.nome":"São Sebastião dos Ferreiros",
+    "municipio.id":3306206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330620635,
+    "distrito.nome":"Sebastião de Lacerda",
+    "municipio.id":3306206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  },
+  {
+    "distrito.id":330630505,
+    "distrito.nome":"Volta Redonda",
+    "municipio.id":3306305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Rio de Janeiro"
+  }
+]

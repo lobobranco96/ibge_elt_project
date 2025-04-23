@@ -1,0 +1,158 @@
+[
+  {
+    "distrito.id":120001305,
+    "distrito.nome":"Acrelândia",
+    "municipio.id":1200013,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120005405,
+    "distrito.nome":"Assis Brasil",
+    "municipio.id":1200054,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120010405,
+    "distrito.nome":"Brasiléia",
+    "municipio.id":1200104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120013805,
+    "distrito.nome":"Bujari",
+    "municipio.id":1200138,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120017905,
+    "distrito.nome":"Capixaba",
+    "municipio.id":1200179,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120020305,
+    "distrito.nome":"Cruzeiro do Sul",
+    "municipio.id":1200203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120025205,
+    "distrito.nome":"Epitaciolândia",
+    "municipio.id":1200252,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120030205,
+    "distrito.nome":"Feijó",
+    "municipio.id":1200302,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120032805,
+    "distrito.nome":"Jordão",
+    "municipio.id":1200328,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120033605,
+    "distrito.nome":"Mâncio Lima",
+    "municipio.id":1200336,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120034405,
+    "distrito.nome":"Manoel Urbano",
+    "municipio.id":1200344,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120035105,
+    "distrito.nome":"Marechal Thaumaturgo",
+    "municipio.id":1200351,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120038505,
+    "distrito.nome":"Plácido de Castro",
+    "municipio.id":1200385,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120038510,
+    "distrito.nome":"Campinas",
+    "municipio.id":1200385,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120080705,
+    "distrito.nome":"Porto Acre",
+    "municipio.id":1200807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120080720,
+    "distrito.nome":"Vila do Caquetá",
+    "municipio.id":1200807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120080723,
+    "distrito.nome":"Vila do Incra",
+    "municipio.id":1200807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120080725,
+    "distrito.nome":"Vila do V",
+    "municipio.id":1200807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120039305,
+    "distrito.nome":"Porto Walter",
+    "municipio.id":1200393,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120040105,
+    "distrito.nome":"Rio Branco",
+    "municipio.id":1200401,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120042705,
+    "distrito.nome":"Rodrigues Alves",
+    "municipio.id":1200427,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120043505,
+    "distrito.nome":"Santa Rosa do Purus",
+    "municipio.id":1200435,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120050005,
+    "distrito.nome":"Sena Madureira",
+    "municipio.id":1200500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120045005,
+    "distrito.nome":"Senador Guiomard",
+    "municipio.id":1200450,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120060905,
+    "distrito.nome":"Tarauacá",
+    "municipio.id":1200609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  },
+  {
+    "distrito.id":120070805,
+    "distrito.nome":"Xapuri",
+    "municipio.id":1200708,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Acre"
+  }
+]

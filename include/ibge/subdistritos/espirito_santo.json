@@ -1,0 +1,122 @@
+[
+  {
+    "bairro.id":32052000506,
+    "bairro.nome":"Centro",
+    "distrito.id":320520005,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052000507,
+    "bairro.nome":"Grande Aribiri",
+    "distrito.id":320520005,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052000509,
+    "bairro.nome":"Grande Ibes",
+    "distrito.id":320520005,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052001007,
+    "bairro.nome":"Grande Aribiri",
+    "distrito.id":320520010,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052001008,
+    "bairro.nome":"Grande Cobilândia",
+    "distrito.id":320520010,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052001507,
+    "bairro.nome":"Grande Aribiri",
+    "distrito.id":320520015,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052001508,
+    "bairro.nome":"Grande Cobilândia",
+    "distrito.id":320520015,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052001509,
+    "bairro.nome":"Grande Ibes",
+    "distrito.id":320520015,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052002010,
+    "bairro.nome":"Grande Jucu",
+    "distrito.id":320520020,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052002507,
+    "bairro.nome":"Grande Aribiri",
+    "distrito.id":320520025,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32052002508,
+    "bairro.nome":"Grande Cobilândia",
+    "distrito.id":320520025,
+    "municipio.nome":"Vila Velha"
+  },
+  {
+    "bairro.id":32053090506,
+    "bairro.nome":"Região Administrativa I - Centro",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053090507,
+    "bairro.nome":"Região Administrativa II - Santo Antônio",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053090508,
+    "bairro.nome":"Região Administrativa III - Jucutuquara",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053090509,
+    "bairro.nome":"Região Administrativa IV - Maruípe",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053090510,
+    "bairro.nome":"Região Administrativa V - Praia do Canto",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053090512,
+    "bairro.nome":"Região Administrativa VII - São Pedro",
+    "distrito.id":320530905,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053091013,
+    "bairro.nome":"Região Administrativa VI - Goiabeiras",
+    "distrito.id":320530910,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053091014,
+    "bairro.nome":"Região Administrativa VIII - Jardim Camburi",
+    "distrito.id":320530910,
+    "municipio.nome":"Vitória"
+  },
+  {
+    "bairro.id":32053091015,
+    "bairro.nome":"Região Administrativa IX - Jardim da Penha",
+    "distrito.id":320530910,
+    "municipio.nome":"Vitória"
+  }
+]

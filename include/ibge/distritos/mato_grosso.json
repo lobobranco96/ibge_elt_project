@@ -1,0 +1,1568 @@
+[
+  {
+    "distrito.id":510010205,
+    "distrito.nome":"Acorizal",
+    "municipio.id":5100102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510010207,
+    "distrito.nome":"Baús",
+    "municipio.id":5100102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510010210,
+    "distrito.nome":"Aldeia",
+    "municipio.id":5100102,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510020105,
+    "distrito.nome":"Água Boa",
+    "municipio.id":5100201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510020115,
+    "distrito.nome":"Jaraguá",
+    "municipio.id":5100201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510020125,
+    "distrito.nome":"Serrinha",
+    "municipio.id":5100201,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510025005,
+    "distrito.nome":"Alta Floresta",
+    "municipio.id":5100250,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510030005,
+    "distrito.nome":"Alto Araguaia",
+    "municipio.id":5100300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510030007,
+    "distrito.nome":"Buriti",
+    "municipio.id":5100300,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510035905,
+    "distrito.nome":"Alto Boa Vista",
+    "municipio.id":5100359,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510040905,
+    "distrito.nome":"Alto Garças",
+    "municipio.id":5100409,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510050805,
+    "distrito.nome":"Alto Paraguai",
+    "municipio.id":5100508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510050807,
+    "distrito.nome":"Capão Verde",
+    "municipio.id":5100508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510050810,
+    "distrito.nome":"Lavouras",
+    "municipio.id":5100508,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510060705,
+    "distrito.nome":"Alto Taquari",
+    "municipio.id":5100607,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510080505,
+    "distrito.nome":"Apiacás",
+    "municipio.id":5100805,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510100105,
+    "distrito.nome":"Araguaiana",
+    "municipio.id":5101001,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510120905,
+    "distrito.nome":"Araguainha",
+    "municipio.id":5101209,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510125805,
+    "distrito.nome":"Araputanga",
+    "municipio.id":5101258,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510130805,
+    "distrito.nome":"Arenápolis",
+    "municipio.id":5101308,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510140705,
+    "distrito.nome":"Aripuanã",
+    "municipio.id":5101407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510140735,
+    "distrito.nome":"Conselvan",
+    "municipio.id":5101407,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510160505,
+    "distrito.nome":"Barão de Melgaço",
+    "municipio.id":5101605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510160510,
+    "distrito.nome":"Joselândia",
+    "municipio.id":5101605,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510170405,
+    "distrito.nome":"Barra do Bugres",
+    "municipio.id":5101704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510170406,
+    "distrito.nome":"Assari",
+    "municipio.id":5101704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510170422,
+    "distrito.nome":"Tapirapuã",
+    "municipio.id":5101704,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510180305,
+    "distrito.nome":"Barra do Garças",
+    "municipio.id":5101803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510180315,
+    "distrito.nome":"Indianópolis",
+    "municipio.id":5101803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510180330,
+    "distrito.nome":"Toricueije",
+    "municipio.id":5101803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510180335,
+    "distrito.nome":"Vale dos Sonhos",
+    "municipio.id":5101803,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510185205,
+    "distrito.nome":"Bom Jesus do Araguaia",
+    "municipio.id":5101852,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510190205,
+    "distrito.nome":"Brasnorte",
+    "municipio.id":5101902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510190210,
+    "distrito.nome":"Água da Prata",
+    "municipio.id":5101902,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510250405,
+    "distrito.nome":"Cáceres",
+    "municipio.id":5102504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510250407,
+    "distrito.nome":"Bezerro Branco",
+    "municipio.id":5102504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510250415,
+    "distrito.nome":"Caramujo",
+    "municipio.id":5102504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510250425,
+    "distrito.nome":"Horizonte do Oeste",
+    "municipio.id":5102504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510250430,
+    "distrito.nome":"Nova Cáceres",
+    "municipio.id":5102504,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510260305,
+    "distrito.nome":"Campinápolis",
+    "municipio.id":5102603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510260315,
+    "distrito.nome":"São José do Couto",
+    "municipio.id":5102603,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510263705,
+    "distrito.nome":"Campo Novo do Parecis",
+    "municipio.id":5102637,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510263715,
+    "distrito.nome":"Itanorte",
+    "municipio.id":5102637,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510263720,
+    "distrito.nome":"Marechal Rondon",
+    "municipio.id":5102637,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510267805,
+    "distrito.nome":"Campo Verde",
+    "municipio.id":5102678,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510267810,
+    "distrito.nome":"Coronel Ponce",
+    "municipio.id":5102678,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510268605,
+    "distrito.nome":"Campos de Júlio",
+    "municipio.id":5102686,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510269405,
+    "distrito.nome":"Canabrava do Norte",
+    "municipio.id":5102694,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510270205,
+    "distrito.nome":"Canarana",
+    "municipio.id":5102702,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510279305,
+    "distrito.nome":"Carlinda",
+    "municipio.id":5102793,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510285005,
+    "distrito.nome":"Castanheira",
+    "municipio.id":5102850,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510300705,
+    "distrito.nome":"Chapada dos Guimarães",
+    "municipio.id":5103007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510300710,
+    "distrito.nome":"Água Fria",
+    "municipio.id":5103007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510300720,
+    "distrito.nome":"Rio da Casca",
+    "municipio.id":5103007,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510305605,
+    "distrito.nome":"Cláudia",
+    "municipio.id":5103056,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510310605,
+    "distrito.nome":"Cocalinho",
+    "municipio.id":5103106,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510320505,
+    "distrito.nome":"Colíder",
+    "municipio.id":5103205,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510325405,
+    "distrito.nome":"Colniza",
+    "municipio.id":5103254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510325410,
+    "distrito.nome":"Guariba",
+    "municipio.id":5103254,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510330405,
+    "distrito.nome":"Comodoro",
+    "municipio.id":5103304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510330409,
+    "distrito.nome":"Colônia dos Mineiros",
+    "municipio.id":5103304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510330415,
+    "distrito.nome":"Nova Alvorada",
+    "municipio.id":5103304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510330417,
+    "distrito.nome":"Noroagro",
+    "municipio.id":5103304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510330420,
+    "distrito.nome":"Padronal",
+    "municipio.id":5103304,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510335305,
+    "distrito.nome":"Confresa",
+    "municipio.id":5103353,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510335320,
+    "distrito.nome":"Veranópolis",
+    "municipio.id":5103353,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510336105,
+    "distrito.nome":"Conquista D'Oeste",
+    "municipio.id":5103361,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510337905,
+    "distrito.nome":"Cotriguaçu",
+    "municipio.id":5103379,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510337910,
+    "distrito.nome":"Nova União",
+    "municipio.id":5103379,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340305,
+    "distrito.nome":"Cuiabá",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340310,
+    "distrito.nome":"Coxipó da Ponte",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340315,
+    "distrito.nome":"Coxipó do Ouro",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340320,
+    "distrito.nome":"Guia",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340325,
+    "distrito.nome":"Nova Esperança (Pequizeiro)",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340330,
+    "distrito.nome":"Aguaçu",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510340335,
+    "distrito.nome":"Sucuri",
+    "municipio.id":5103403,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510343705,
+    "distrito.nome":"Curvelândia",
+    "municipio.id":5103437,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510345205,
+    "distrito.nome":"Denise",
+    "municipio.id":5103452,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510350205,
+    "distrito.nome":"Diamantino",
+    "municipio.id":5103502,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510360105,
+    "distrito.nome":"Dom Aquino",
+    "municipio.id":5103601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510360120,
+    "distrito.nome":"Entre Rios",
+    "municipio.id":5103601,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510370005,
+    "distrito.nome":"Feliz Natal",
+    "municipio.id":5103700,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510380905,
+    "distrito.nome":"Figueirópolis D'Oeste",
+    "municipio.id":5103809,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510385805,
+    "distrito.nome":"Gaúcha do Norte",
+    "municipio.id":5103858,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510390805,
+    "distrito.nome":"General Carneiro",
+    "municipio.id":5103908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510390820,
+    "distrito.nome":"Paredão Grande",
+    "municipio.id":5103908,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510395705,
+    "distrito.nome":"Glória D'Oeste",
+    "municipio.id":5103957,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510395716,
+    "distrito.nome":"Monte Castelo D'Oeste",
+    "municipio.id":5103957,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510410405,
+    "distrito.nome":"Guarantã do Norte",
+    "municipio.id":5104104,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510420305,
+    "distrito.nome":"Guiratinga",
+    "municipio.id":5104203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510420310,
+    "distrito.nome":"Alcantilado",
+    "municipio.id":5104203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510420325,
+    "distrito.nome":"Vale Rico",
+    "municipio.id":5104203,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510450005,
+    "distrito.nome":"Indiavaí",
+    "municipio.id":5104500,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510452605,
+    "distrito.nome":"Ipiranga do Norte",
+    "municipio.id":5104526,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510454205,
+    "distrito.nome":"Itanhangá",
+    "municipio.id":5104542,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510455905,
+    "distrito.nome":"Itaúba",
+    "municipio.id":5104559,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510460905,
+    "distrito.nome":"Itiquira",
+    "municipio.id":5104609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510460910,
+    "distrito.nome":"Ouro Branco do Sul",
+    "municipio.id":5104609,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510480705,
+    "distrito.nome":"Jaciara",
+    "municipio.id":5104807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510480720,
+    "distrito.nome":"Celma",
+    "municipio.id":5104807,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510490605,
+    "distrito.nome":"Jangada",
+    "municipio.id":5104906,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510500205,
+    "distrito.nome":"Jauru",
+    "municipio.id":5105002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510500215,
+    "distrito.nome":"Lucialva",
+    "municipio.id":5105002,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510510105,
+    "distrito.nome":"Juara",
+    "municipio.id":5105101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510510110,
+    "distrito.nome":"Águas Claras",
+    "municipio.id":5105101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510510115,
+    "distrito.nome":"Catuaí",
+    "municipio.id":5105101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510510120,
+    "distrito.nome":"Paranorte",
+    "municipio.id":5105101,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510515005,
+    "distrito.nome":"Juína",
+    "municipio.id":5105150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510515009,
+    "distrito.nome":"Filadélfia",
+    "municipio.id":5105150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510515010,
+    "distrito.nome":"Fontanillas",
+    "municipio.id":5105150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510515030,
+    "distrito.nome":"Terra Roxa",
+    "municipio.id":5105150,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510517605,
+    "distrito.nome":"Juruena",
+    "municipio.id":5105176,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510520005,
+    "distrito.nome":"Juscimeira",
+    "municipio.id":5105200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510520010,
+    "distrito.nome":"Irenópolis",
+    "municipio.id":5105200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510520015,
+    "distrito.nome":"Santa Elvira",
+    "municipio.id":5105200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510520020,
+    "distrito.nome":"São Lourenço de Fátima",
+    "municipio.id":5105200,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510523405,
+    "distrito.nome":"Lambari D'Oeste",
+    "municipio.id":5105234,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510525905,
+    "distrito.nome":"Lucas do Rio Verde",
+    "municipio.id":5105259,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510525910,
+    "distrito.nome":"Groslândia",
+    "municipio.id":5105259,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510530905,
+    "distrito.nome":"Luciara",
+    "municipio.id":5105309,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510558005,
+    "distrito.nome":"Marcelândia",
+    "municipio.id":5105580,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510560605,
+    "distrito.nome":"Matupá",
+    "municipio.id":5105606,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510562205,
+    "distrito.nome":"Mirassol d'Oeste",
+    "municipio.id":5105622,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510562230,
+    "distrito.nome":"Sonho Azul",
+    "municipio.id":5105622,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510590305,
+    "distrito.nome":"Nobres",
+    "municipio.id":5105903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510590306,
+    "distrito.nome":"Bom Jardim",
+    "municipio.id":5105903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510590307,
+    "distrito.nome":"Coqueiral",
+    "municipio.id":5105903,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510600005,
+    "distrito.nome":"Nortelândia",
+    "municipio.id":5106000,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510610905,
+    "distrito.nome":"Nossa Senhora do Livramento",
+    "municipio.id":5106109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510610910,
+    "distrito.nome":"Pirizal",
+    "municipio.id":5106109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510610913,
+    "distrito.nome":"Ribeirão dos Cocais",
+    "municipio.id":5106109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510610915,
+    "distrito.nome":"Faval",
+    "municipio.id":5106109,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510615805,
+    "distrito.nome":"Nova Bandeirantes",
+    "municipio.id":5106158,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510615810,
+    "distrito.nome":"Japuranã",
+    "municipio.id":5106158,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510620805,
+    "distrito.nome":"Nova Brasilândia",
+    "municipio.id":5106208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510620810,
+    "distrito.nome":"Riolândia",
+    "municipio.id":5106208,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510621605,
+    "distrito.nome":"Nova Canaã do Norte",
+    "municipio.id":5106216,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510621610,
+    "distrito.nome":"Colorado do Norte",
+    "municipio.id":5106216,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510621615,
+    "distrito.nome":"Ouro Branco",
+    "municipio.id":5106216,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510880805,
+    "distrito.nome":"Nova Guarita",
+    "municipio.id":5108808,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510618205,
+    "distrito.nome":"Nova Lacerda",
+    "municipio.id":5106182,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510885705,
+    "distrito.nome":"Nova Marilândia",
+    "municipio.id":5108857,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510890705,
+    "distrito.nome":"Nova Maringá",
+    "municipio.id":5108907,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510895605,
+    "distrito.nome":"Nova Monte Verde",
+    "municipio.id":5108956,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510622405,
+    "distrito.nome":"Nova Mutum",
+    "municipio.id":5106224,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510622425,
+    "distrito.nome":"Ranchão",
+    "municipio.id":5106224,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510617405,
+    "distrito.nome":"Nova Nazaré",
+    "municipio.id":5106174,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510623205,
+    "distrito.nome":"Nova Olímpia",
+    "municipio.id":5106232,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510619005,
+    "distrito.nome":"Nova Santa Helena",
+    "municipio.id":5106190,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624005,
+    "distrito.nome":"Nova Ubiratã",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624010,
+    "distrito.nome":"Entre Rios",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624015,
+    "distrito.nome":"Novo Mato Grosso",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624017,
+    "distrito.nome":"Parque Água Limpa",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624020,
+    "distrito.nome":"Piratininga",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624026,
+    "distrito.nome":"Santa Terezinha do Rio Ferro",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510624030,
+    "distrito.nome":"Santo Antônio do Rio Bonito",
+    "municipio.id":5106240,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510625705,
+    "distrito.nome":"Nova Xavantina",
+    "municipio.id":5106257,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510625725,
+    "distrito.nome":"União do Leste",
+    "municipio.id":5106257,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510627305,
+    "distrito.nome":"Novo Horizonte do Norte",
+    "municipio.id":5106273,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510626505,
+    "distrito.nome":"Novo Mundo",
+    "municipio.id":5106265,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510631505,
+    "distrito.nome":"Novo Santo Antônio",
+    "municipio.id":5106315,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510628105,
+    "distrito.nome":"Novo São Joaquim",
+    "municipio.id":5106281,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510628115,
+    "distrito.nome":"Itaquerê",
+    "municipio.id":5106281,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510629905,
+    "distrito.nome":"Paranaíta",
+    "municipio.id":5106299,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510630705,
+    "distrito.nome":"Paranatinga",
+    "municipio.id":5106307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510630715,
+    "distrito.nome":"Salto da Alegria",
+    "municipio.id":5106307,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510637205,
+    "distrito.nome":"Pedra Preta",
+    "municipio.id":5106372,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510637210,
+    "distrito.nome":"São José do Planalto",
+    "municipio.id":5106372,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510642205,
+    "distrito.nome":"Peixoto de Azevedo",
+    "municipio.id":5106422,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510642210,
+    "distrito.nome":"União do Norte",
+    "municipio.id":5106422,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510645505,
+    "distrito.nome":"Planalto da Serra",
+    "municipio.id":5106455,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510650505,
+    "distrito.nome":"Poconé",
+    "municipio.id":5106505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510650510,
+    "distrito.nome":"Cangas",
+    "municipio.id":5106505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510650515,
+    "distrito.nome":"Nossa Senhora Aparecida do Chumbo",
+    "municipio.id":5106505,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510665305,
+    "distrito.nome":"Pontal do Araguaia",
+    "municipio.id":5106653,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510670305,
+    "distrito.nome":"Ponte Branca",
+    "municipio.id":5106703,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510675205,
+    "distrito.nome":"Pontes e Lacerda",
+    "municipio.id":5106752,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510677805,
+    "distrito.nome":"Porto Alegre do Norte",
+    "municipio.id":5106778,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510680205,
+    "distrito.nome":"Porto dos Gaúchos",
+    "municipio.id":5106802,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510682805,
+    "distrito.nome":"Porto Esperidião",
+    "municipio.id":5106828,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510682810,
+    "distrito.nome":"Vila Cardoso",
+    "municipio.id":5106828,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510682815,
+    "distrito.nome":"Pedro Neca",
+    "municipio.id":5106828,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510685105,
+    "distrito.nome":"Porto Estrela",
+    "municipio.id":5106851,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510700805,
+    "distrito.nome":"Poxoréu",
+    "municipio.id":5107008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510700810,
+    "distrito.nome":"Alto Coité",
+    "municipio.id":5107008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510700815,
+    "distrito.nome":"Jarudore",
+    "municipio.id":5107008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510700820,
+    "distrito.nome":"Paraíso do Leste",
+    "municipio.id":5107008,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510704005,
+    "distrito.nome":"Primavera do Leste",
+    "municipio.id":5107040,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510706505,
+    "distrito.nome":"Querência",
+    "municipio.id":5107065,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510706515,
+    "distrito.nome":"Coutinho União",
+    "municipio.id":5107065,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510715605,
+    "distrito.nome":"Reserva do Cabaçal",
+    "municipio.id":5107156,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510718005,
+    "distrito.nome":"Ribeirão Cascalheira",
+    "municipio.id":5107180,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510719805,
+    "distrito.nome":"Ribeirãozinho",
+    "municipio.id":5107198,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510720605,
+    "distrito.nome":"Rio Branco",
+    "municipio.id":5107206,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510757805,
+    "distrito.nome":"Rondolândia",
+    "municipio.id":5107578,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510760205,
+    "distrito.nome":"Rondonópolis",
+    "municipio.id":5107602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510760210,
+    "distrito.nome":"Anhumas",
+    "municipio.id":5107602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510760215,
+    "distrito.nome":"Nova Galiléia",
+    "municipio.id":5107602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510760220,
+    "distrito.nome":"Boa Vista",
+    "municipio.id":5107602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510760230,
+    "distrito.nome":"Vila Operária",
+    "municipio.id":5107602,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510770105,
+    "distrito.nome":"Rosário Oeste",
+    "municipio.id":5107701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510770110,
+    "distrito.nome":"Arruda",
+    "municipio.id":5107701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510770115,
+    "distrito.nome":"Bauxi",
+    "municipio.id":5107701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510770120,
+    "distrito.nome":"Marzagão",
+    "municipio.id":5107701,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510775005,
+    "distrito.nome":"Salto do Céu",
+    "municipio.id":5107750,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510775010,
+    "distrito.nome":"Cristinópolis",
+    "municipio.id":5107750,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510775015,
+    "distrito.nome":"Vila Progresso",
+    "municipio.id":5107750,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510724805,
+    "distrito.nome":"Santa Carmem",
+    "municipio.id":5107248,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510774305,
+    "distrito.nome":"Santa Cruz do Xingu",
+    "municipio.id":5107743,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510776805,
+    "distrito.nome":"Santa Rita do Trivelato",
+    "municipio.id":5107768,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510777605,
+    "distrito.nome":"Santa Terezinha",
+    "municipio.id":5107776,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510726305,
+    "distrito.nome":"Santo Afonso",
+    "municipio.id":5107263,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510780005,
+    "distrito.nome":"Santo Antônio de Leverger",
+    "municipio.id":5107800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510780010,
+    "distrito.nome":"Engenho Velho",
+    "municipio.id":5107800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510780015,
+    "distrito.nome":"Mimoso",
+    "municipio.id":5107800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510780017,
+    "distrito.nome":"Caité",
+    "municipio.id":5107800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510780025,
+    "distrito.nome":"Varginha",
+    "municipio.id":5107800,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510779205,
+    "distrito.nome":"Santo Antônio do Leste",
+    "municipio.id":5107792,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510785905,
+    "distrito.nome":"São Félix do Araguaia",
+    "municipio.id":5107859,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510785915,
+    "distrito.nome":"Espigão do Leste",
+    "municipio.id":5107859,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510729705,
+    "distrito.nome":"São José do Povo",
+    "municipio.id":5107297,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510729715,
+    "distrito.nome":"Nova Catanduva",
+    "municipio.id":5107297,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510730505,
+    "distrito.nome":"São José do Rio Claro",
+    "municipio.id":5107305,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510735405,
+    "distrito.nome":"São José do Xingu",
+    "municipio.id":5107354,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510735425,
+    "distrito.nome":"Santo Antônio do Fontoura",
+    "municipio.id":5107354,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510710705,
+    "distrito.nome":"São José dos Quatro Marcos",
+    "municipio.id":5107107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510710710,
+    "distrito.nome":"Santa Fé",
+    "municipio.id":5107107,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510740405,
+    "distrito.nome":"São Pedro da Cipa",
+    "municipio.id":5107404,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510787505,
+    "distrito.nome":"Sapezal",
+    "municipio.id":5107875,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510788305,
+    "distrito.nome":"Serra Nova Dourada",
+    "municipio.id":5107883,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510790905,
+    "distrito.nome":"Sinop",
+    "municipio.id":5107909,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510792505,
+    "distrito.nome":"Sorriso",
+    "municipio.id":5107925,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510792510,
+    "distrito.nome":"Boa Esperança",
+    "municipio.id":5107925,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510792515,
+    "distrito.nome":"Caravágio",
+    "municipio.id":5107925,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510792530,
+    "distrito.nome":"Primavera",
+    "municipio.id":5107925,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510794105,
+    "distrito.nome":"Tabaporã",
+    "municipio.id":5107941,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510795805,
+    "distrito.nome":"Tangará da Serra",
+    "municipio.id":5107958,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510795815,
+    "distrito.nome":"Progresso",
+    "municipio.id":5107958,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510795820,
+    "distrito.nome":"São Joaquim",
+    "municipio.id":5107958,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510795825,
+    "distrito.nome":"São Jorge",
+    "municipio.id":5107958,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510800605,
+    "distrito.nome":"Tapurah",
+    "municipio.id":5108006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510800630,
+    "distrito.nome":"Novo Eldorado",
+    "municipio.id":5108006,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510805505,
+    "distrito.nome":"Terra Nova do Norte",
+    "municipio.id":5108055,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510805515,
+    "distrito.nome":"Miraguaí do Norte",
+    "municipio.id":5108055,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510805520,
+    "distrito.nome":"Nonoaí do Norte",
+    "municipio.id":5108055,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510805530,
+    "distrito.nome":"Nona Agrovila",
+    "municipio.id":5108055,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510810505,
+    "distrito.nome":"Tesouro",
+    "municipio.id":5108105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510810510,
+    "distrito.nome":"Batovi",
+    "municipio.id":5108105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510810515,
+    "distrito.nome":"Cassununga",
+    "municipio.id":5108105,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510820405,
+    "distrito.nome":"Torixoréu",
+    "municipio.id":5108204,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510830305,
+    "distrito.nome":"União do Sul",
+    "municipio.id":5108303,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510835205,
+    "distrito.nome":"Vale de São Domingos",
+    "municipio.id":5108352,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510840205,
+    "distrito.nome":"Várzea Grande",
+    "municipio.id":5108402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510840210,
+    "distrito.nome":"Bom Sucesso",
+    "municipio.id":5108402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510840215,
+    "distrito.nome":"Passagem da Conceição",
+    "municipio.id":5108402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510840220,
+    "distrito.nome":"Porto Velho",
+    "municipio.id":5108402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510840225,
+    "distrito.nome":"Capão Grande",
+    "municipio.id":5108402,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510850105,
+    "distrito.nome":"Vera",
+    "municipio.id":5108501,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510550705,
+    "distrito.nome":"Vila Bela da Santíssima Trindade",
+    "municipio.id":5105507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510550710,
+    "distrito.nome":"Aguapeí",
+    "municipio.id":5105507,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  },
+  {
+    "distrito.id":510860005,
+    "distrito.nome":"Vila Rica",
+    "municipio.id":5108600,
+    "regiao-imediata.regiao-intermediaria.UF.nome":"Mato Grosso"
+  }
+]
