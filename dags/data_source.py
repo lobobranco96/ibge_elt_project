@@ -17,7 +17,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-
 IBGE_BASE_URL = "https://servicodados.ibge.gov.br/api/v1/localidades"
 
 DATA_DIR = "/usr/local/airflow/include/ibge"
@@ -47,7 +46,7 @@ default_args = {
     default_args=default_args,
     tags=["ibge", "validação", "etl"]
 )
-def dag_validacao_com_salvamento():
+def dag_ibge_data_source():
 
     def criar_task_group(nome_contexto: str, metodo_coletor: str):
         @task_group(group_id=f"{nome_contexto}_pipeline")
@@ -86,4 +85,4 @@ def dag_validacao_com_salvamento():
     distritos = criar_task_group("distritos", "get_distritos")
     subdistritos = criar_task_group("subdistritos", "get_subdistritos_paralelo")
 
-dag_instance = dag_validacao_com_salvamento()
+dag_instance = dag_ibge_data_source()

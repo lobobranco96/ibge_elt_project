@@ -1,4 +1,3 @@
-import unicodedata
 import os
 import pandas as pd
 import requests
@@ -14,174 +13,126 @@ logger = logging.getLogger(__name__)
 
 
 class ColetorAPI:
-  def __init__(self):
-    self.base_url_regiao = "https://servicodados.ibge.gov.br/api/v1/localidades/regioes?orderBy=nome"
-    self.base_url_estados = "https://servicodados.ibge.gov.br/api/v1/localidades/estados"
-    self.base_url_intermediaria = "https://servicodados.ibge.gov.br/api/v1/localidades/estados/{}/regioes-intermediarias"
-    self.base_url_imediatas = "https://servicodados.ibge.gov.br/api/v1/localidades/estados/{}/regioes-imediatas"
-    self.base_url_municipios = "https://servicodados.ibge.gov.br/api/v1/localidades/estados/{}/municipios"
-    self.base_url_distritos = "https://servicodados.ibge.gov.br/api/v1/localidades/distritos"
-    self.base_url_subdistritos = "https://servicodados.ibge.gov.br/api/v1/localidades/distritos/{}/subdistritos"
+    def __init__(self, urls: dict, requisicao_api):
+        self.urls = urls
+        self.requisicao_api = requisicao_api
 
-  def get_regioes(self):
-    url = self.base_url_regiao
+    def get_regioes(self):
+        dados = self.requisicao_api(self.urls["regioes"])
 
-    try:
-      response = requests.get(url)
-      regioes = response.json()
+        if not dados:
+            return None
 
-      df = pd.DataFrame(regioes)\
-      .rename(columns={"id": "regiao.id","sigla": "regiao.sigla" ,"nome": "regiao.nome"})
-      path = "/usr/local/airflow/include/ibge/regioes.json"
+        df = pd.DataFrame(dados).rename(columns={
+            "id": "regiao.id", "sigla": "regiao.sigla", "nome": "regiao.nome"
+        })
 
-      logger.info(f"Extração concluída.")
-      return df.to_json(path,orient="records", indent=2, force_ascii=False), path
-  
-    except requests.exceptions.RequestException as e:
-      logging.error(f"Erro de requisição ao acessar {url}: {e}")
-      return None
+        return df
 
-  def get_estados(self):
-    url = self.base_url_estados
+    def get_estados(self):
+      dados = self.requisicao_api(URLS["estados"])
+      if not dados:
+          return None
 
-    try:
-      response = requests.get(self.base_url_estados)
-      estados = response.json()
+      df = pd.DataFrame(dados).rename(columns={
+          "id": "estado.id", "sigla": "estado.sigla", "nome": "estado.nome"
+      })
 
-      df = pd.DataFrame(estados)\
-      .rename(columns={"id": "estado.id", "sigla": "estado.sigla", "nome": "estado.nome"})
+      df_regiao = pd.json_normalize(df["regiao"]).rename(columns={"id": "regiao.id"})
+      df_final = pd.concat([df.drop(columns=["regiao"]), df_regiao.drop(columns=["sigla", "nome"])], axis=1)
 
-      df_normalizado = pd.json_normalize(df["regiao"]).rename(columns={"id": "regiao.id"})\
-      .drop(columns=["sigla", "nome"])
+      return df_final
 
-      df_final = pd.concat([df.drop(columns=["regiao"]), df_normalizado], axis=1)
+    def get_intermediarias(self):
+      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      df = pd.DataFrame()
+      for estado_id in estados:
+          dados = self.requisicao_api(URLS["intermediarias"].format(estado_id))
+          if not dados:
+              continue
 
-      path = "/usr/local/airflow/include/ibge/estados.json"
-      logger.info(f"Extração concluída.")
-      return df_final.to_json(path,orient="records", indent=2, force_ascii=False), path
-    
-    except requests.exceptions.RequestException as e:
-      logging.error(f"Erro de requisição ao acessar {url}: {e}")
-      return None
-    
+          df1 = pd.DataFrame(dados).rename(columns={
+              "id": "intermediaria.id", "nome": "intermediaria.nome"
+          })
 
-  def get_intermediarias(self):
-    estados_id = pd.read_json("/usr/local/airflow/include/ibge/estados.json")['estado.id'].tolist()
+          df_uf = pd.json_normalize(df1["UF"]).rename(columns={
+              "id": "uf.id", "sigla": "uf.sigla"
+          }).drop(columns=["nome", "regiao.id", "regiao.sigla", "regiao.nome"])
 
-    for id in estados_id:
-      url = self.base_url_intermediaria.format(id)
+          df_final = pd.concat([df1.drop(columns=["UF"]), df_uf], axis=1)
+          df = pd.concat([df, df_final], ignore_index=True)
 
-      df = pd.DataFrame(requests.get(url).json())\
-      .rename(columns={"id": "intermediaria.id", "sigla": "intermediaria.sigla", "nome": "intermediaria.nome"})
+      return df
 
-      df_normalizado = pd.json_normalize(df["UF"])\
-      .rename(columns={"id": "uf.id", "sigla": "uf.sigla"})\
-      .drop(columns=["nome", "regiao.id", "regiao.sigla", "regiao.nome"])
+    def get_imediatas(self):
+      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      df = pd.DataFrame()
 
-      df_final = pd.concat([df.drop(columns=["UF"]), df_normalizado], axis=1)
+      for estado_id in estados:
+        dados = self.requisicao_api(URLS["imediatas"].format(estado_id))
+        if not dados:
+            continue
 
-      sigla = df_final["uf.sigla"].iloc[0]
-      path = f"/usr/local/airflow/include/ibge/intermediarias/{sigla}.json"
-      df_final.to_json(path,orient="records", indent=2, force_ascii=False), path
-      logger.info(f"Extração concluída para o estado: {sigla}")
+        df1 = pd.DataFrame(dados).rename(columns={"id": "imediata.id", "nome": "imediata.nome"})
+        df_reg = pd.json_normalize(df1["regiao-intermediaria"]).rename(columns={"id": "regiao-intermediaria.id"})
+        df_final = pd.concat([df1.drop(columns=["regiao-intermediaria"]), df_reg.drop(columns=["nome", "UF.id", "UF.regiao.id", "UF.regiao.sigla", "UF.regiao.nome"])], axis=1)
+        df = pd.concat([df, df_final], ignore_index=True)
+      return df
 
-  def get_imediatas(self):
-     estados_id = pd.read_json("/usr/local/airflow/include/ibge/estados.json")['estado.id'].tolist()
+    def get_municipios(self):
+      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      df = pd.DataFrame()
 
-     for id in estados_id:
-       url = self.base_url_imediatas.format(id)
+      for estado_id in estados:
+        dados = self.requisicao_api(URLS["municipios"].format(estado_id))
+        if not dados:
+            continue
 
-       df = pd.DataFrame(requests.get(url).json())\
-       .rename(columns={"id": "imediata.id", "nome": "imediata.nome"})
+        df1 = pd.DataFrame(dados).rename(columns={"id": "municipio.id", "nome": "municipio.nome"}).drop(columns=["regiao-imediata"])
+        df_microrregiao = pd.json_normalize(df1["microrregiao"]).rename(columns={"id": "microrregiao.id", "nome": "microrregiao.nome"})
+        df_final = pd.concat([df1.drop(columns=["microrregiao"]), df_microrregiao.drop(columns=["mesorregiao.UF.regiao.id", "mesorregiao.UF.regiao.sigla", "mesorregiao.UF.regiao.nome"])], axis=1)
+        df = pd.concat([df, df_final], ignore_index=True)
 
-       df_normalizado = pd.json_normalize(df["regiao-intermediaria"])\
-       .rename(columns={"id": "regiao-intermediaria.id"})\
-       .drop(columns=["nome", "UF.id", "UF.regiao.id", "UF.regiao.sigla", "UF.regiao.nome"])
+      return df
 
-       df_final = pd.concat([df.drop(columns=["regiao-intermediaria"]), df_normalizado], axis=1)
+    def get_distritos(self):
+        dados = self.requisicao_api(self.urls["distritos"])
 
-       uf_nome = unicodedata.normalize('NFKD', str(df_final["UF.nome"].iloc[0]))\
-            .encode('ascii', 'ignore')\
-            .decode('utf-8')\
-            .replace(" ", "_")\
-            .lower()
-       path = f"/usr/local/airflow/include/ibge/imediatas/{uf_nome}.json"
-       df_final.to_json(path, orient="records", indent=2, force_ascii=False), path
-       logger.info(f"Extração concluída para o estado: {uf_nome}")
+        df = pd.DataFrame(dados).rename(columns={
+            "id": "distrito.id",
+            "nome": "distrito.nome"
+        })
 
+        df_municipio = pd.json_normalize(df["municipio"]).rename(columns={
+            "id": "municipio.id",
+            "nome": "municipio.nome"
+        })
 
-  def get_municipios(self):
-    estados_id = pd.read_json("/usr/local/airflow/include/ibge/estados.json")['estado.id'].tolist()
-    for id in estados_id:
-      url = self.base_url_municipios.format(id)
-      df = pd.DataFrame(requests.get(url).json())\
-      .rename(columns={"id": "municipio.id", "nome": "municipio.nome"}).drop(columns=["regiao-imediata"])
+        df_final = pd.concat(
+            [df.drop(columns=["municipio"]), df_municipio[["municipio.id", "regiao-imediata.regiao-intermediaria.UF.nome"]]],
+            axis=1
+        )
 
-      df_normalizado = pd.json_normalize(df["microrregiao"])\
-      .rename(columns={"id": "microrregiao.id", "nome": "microrregiao.nome"})\
-      .drop(columns=["mesorregiao.UF.regiao.id", "mesorregiao.UF.regiao.sigla", "mesorregiao.UF.regiao.nome"])
+        return df_final
 
-      df_final = pd.concat([df.drop(columns=["microrregiao"]), df_normalizado], axis=1)
-      uf_nome = unicodedata.normalize('NFKD', str(df_final["mesorregiao.UF.nome"].iloc[0]))\
-            .encode('ascii', 'ignore')\
-            .decode('utf-8')\
-            .replace(" ", "_")\
-            .lower()
-      path = f"/usr/local/airflow/include/ibge/municipios/{uf_nome}.json"
-      df_final.to_json(path, orient="records", indent=2, force_ascii=False)
-      logger.info(f"Extração concluída para o estado: {uf_nome}")
+    def get_subdistritos_paralelo():
+        distrito_ids = pd.read_json(os.path.join(DATA_DIR, "distritos_validado.json"))["distrito.id"].tolist()
+        urls = [URLS["subdistritos"].format(did) for did in distrito_ids]
 
-  def get_distritos(self):
-    municipios = os.listdir("/usr/local/airflow/include/ibge/municipios/")
-    for nome_arquivo in municipios:
-      municipio = pd.read_json(f"/usr/local/airflow/include/ibge/municipios/{nome_arquivo}")['municipio.id'].to_list()
+        resultados = []
+        with ThreadPoolExecutor(max_workers=20) as executor:
+            futures = {executor.submit(self.requisicao_api, url): url for url in urls}
+            for future in as_completed(futures):
+                data = future.result()
+                if data:
+                    resultados.append(data)
 
-      url = self.base_url_distritos
-      df = pd.DataFrame(requests.get(url).json())\
-      .rename(columns={"id": "distrito.id", "nome": "distrito.nome"})
+        # Agora transforma todos os JSONs em um único DataFrame
+        df_final = pd.DataFrame()
+        for dados in resultados:
+            df = pd.DataFrame(dados).rename(columns={"id": "bairro.id", "nome": "bairro.nome"})
+            df_distrito = pd.json_normalize(df["distrito"]).rename(columns={"id": "distrito.id", "nome": "distrito.nome"})
+            df_merged = pd.concat([df.drop(columns=["distrito"]), df_distrito[["distrito.id", "municipio.nome"]]], axis=1)
+            df_final = pd.concat([df_final, df_merged], ignore_index=True)
 
-      df_normalizado = pd.json_normalize(df["municipio"])\
-      .rename(columns={"id": "municipio.id", "nome": "municipio.nome"})
-
-      df_final = pd.concat([df.drop(columns=["municipio"]), df_normalizado[["municipio.id", "regiao-imediata.regiao-intermediaria.UF.nome"]]], axis=1)
-
-      df_final = df_final[df_final["municipio.id"].isin(municipio)]
-
-      uf_nome = unicodedata.normalize('NFKD', str(df_final["regiao-imediata.regiao-intermediaria.UF.nome"].iloc[0]))\
-              .encode('ascii', 'ignore')\
-              .decode('utf-8')\
-              .replace(" ", "_")\
-              .lower()
-
-      path = f"/usr/local/airflow/include/ibge/distritos/{uf_nome}.json"
-      df_final.to_json(path, orient="records", indent=2, force_ascii=False)
-      logger.info(f"Extração concluída para o estado: {uf_nome}")
-
-  def get_subdistritos(self, arquivos: list):
-
-    for arquivo in arquivos:
-      distrito = pd.read_json(f"/usr/local/airflow/include/ibge/distritos/{arquivo}")['distrito.id'].to_list()
-      # DataFrame para consolidar todos os dados
-      df_consolidado = pd.DataFrame()
-
-      for distrito_id in distrito:
-          try:
-            url = self.base_url_subdistritos.format(distrito_id)
-            response = requests.get(url)
-            response.raise_for_status()
-
-            df = pd.DataFrame(response.json())\
-                .rename(columns={"id": "bairro.id", "nome": "bairro.nome"})
-
-            df_normalizado = pd.json_normalize(df["distrito"])\
-                .rename(columns={"id": "distrito.id", "nome": "distrito.nome"})
-
-            df_final = pd.concat([df.drop(columns=["distrito"]),df_normalizado[["distrito.id", "municipio.nome"]]], axis=1)
-            df_consolidado = pd.concat([df_consolidado, df_final], ignore_index=True)
-          except Exception as e:
-                print(f"Erro ao processar distrito {distrito_id}: {e}")
-                continue
-          
-      path = f"/usr/local/airflow/include/ibge/subdistritos/{arquivo}"
-      df_consolidado.to_json(path, orient="records", indent=2, force_ascii=False)
-      logger.info(f"Extração concluída para o estado: {arquivo.replace(".json", "")}")
+        return df_final
