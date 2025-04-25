@@ -1,0 +1,22 @@
+version: '3'
+services:
+  postgres_dw:
+    image: postgres:15
+    container_name: postgres_dw
+    environment:
+      POSTGRES_USER: dw_user
+      POSTGRES_PASSWORD: dw_pass
+      POSTGRES_DB: dw_database
+    ports:
+      - "5434:5432"  
+    volumes:
+      - postgres_dw_data:/var/lib/postgresql/data
+    networks:
+      - astro_default
+
+volumes:
+  postgres_dw_data:
+
+networks:
+  astro_default:
+    driver: bridge
