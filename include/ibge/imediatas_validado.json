@@ -1,0 +1,3572 @@
+[
+  {
+    "imediata.id":110001,
+    "imediata.nome":"Porto Velho",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110002,
+    "imediata.nome":"Ariquemes",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110003,
+    "imediata.nome":"Jaru",
+    "regiao-intermediaria.id":1101,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110004,
+    "imediata.nome":"Ji-Paraná",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110005,
+    "imediata.nome":"Cacoal",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":110006,
+    "imediata.nome":"Vilhena",
+    "regiao-intermediaria.id":1102,
+    "UF.sigla":"RO",
+    "UF.nome":"Rondônia"
+  },
+  {
+    "imediata.id":120001,
+    "imediata.nome":"Rio Branco",
+    "regiao-intermediaria.id":1201,
+    "UF.sigla":"AC",
+    "UF.nome":"Acre"
+  },
+  {
+    "imediata.id":120002,
+    "imediata.nome":"Brasiléia",
+    "regiao-intermediaria.id":1201,
+    "UF.sigla":"AC",
+    "UF.nome":"Acre"
+  },
+  {
+    "imediata.id":120003,
+    "imediata.nome":"Sena Madureira",
+    "regiao-intermediaria.id":1201,
+    "UF.sigla":"AC",
+    "UF.nome":"Acre"
+  },
+  {
+    "imediata.id":120004,
+    "imediata.nome":"Cruzeiro do Sul",
+    "regiao-intermediaria.id":1202,
+    "UF.sigla":"AC",
+    "UF.nome":"Acre"
+  },
+  {
+    "imediata.id":120005,
+    "imediata.nome":"Tarauacá",
+    "regiao-intermediaria.id":1202,
+    "UF.sigla":"AC",
+    "UF.nome":"Acre"
+  },
+  {
+    "imediata.id":130001,
+    "imediata.nome":"Manaus",
+    "regiao-intermediaria.id":1301,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130002,
+    "imediata.nome":"São Gabriel da Cachoeira",
+    "regiao-intermediaria.id":1301,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130003,
+    "imediata.nome":"Coari",
+    "regiao-intermediaria.id":1301,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130004,
+    "imediata.nome":"Manacapuru",
+    "regiao-intermediaria.id":1301,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130005,
+    "imediata.nome":"Tefé",
+    "regiao-intermediaria.id":1302,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130006,
+    "imediata.nome":"Tabatinga",
+    "regiao-intermediaria.id":1302,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130007,
+    "imediata.nome":"Eirunepé",
+    "regiao-intermediaria.id":1302,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130008,
+    "imediata.nome":"Lábrea",
+    "regiao-intermediaria.id":1303,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130009,
+    "imediata.nome":"Manicoré",
+    "regiao-intermediaria.id":1303,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130010,
+    "imediata.nome":"Parintins",
+    "regiao-intermediaria.id":1304,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":130011,
+    "imediata.nome":"Itacoatiara",
+    "regiao-intermediaria.id":1304,
+    "UF.sigla":"AM",
+    "UF.nome":"Amazonas"
+  },
+  {
+    "imediata.id":140001,
+    "imediata.nome":"Boa Vista",
+    "regiao-intermediaria.id":1401,
+    "UF.sigla":"RR",
+    "UF.nome":"Roraima"
+  },
+  {
+    "imediata.id":140002,
+    "imediata.nome":"Pacaraima",
+    "regiao-intermediaria.id":1401,
+    "UF.sigla":"RR",
+    "UF.nome":"Roraima"
+  },
+  {
+    "imediata.id":140003,
+    "imediata.nome":"Rorainópolis",
+    "regiao-intermediaria.id":1402,
+    "UF.sigla":"RR",
+    "UF.nome":"Roraima"
+  },
+  {
+    "imediata.id":140004,
+    "imediata.nome":"Caracaraí",
+    "regiao-intermediaria.id":1402,
+    "UF.sigla":"RR",
+    "UF.nome":"Roraima"
+  },
+  {
+    "imediata.id":150001,
+    "imediata.nome":"Belém",
+    "regiao-intermediaria.id":1501,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150002,
+    "imediata.nome":"Cametá",
+    "regiao-intermediaria.id":1501,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150003,
+    "imediata.nome":"Abaetetuba",
+    "regiao-intermediaria.id":1501,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150004,
+    "imediata.nome":"Castanhal",
+    "regiao-intermediaria.id":1502,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150005,
+    "imediata.nome":"Bragança",
+    "regiao-intermediaria.id":1502,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150006,
+    "imediata.nome":"Capanema",
+    "regiao-intermediaria.id":1502,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150007,
+    "imediata.nome":"Paragominas",
+    "regiao-intermediaria.id":1502,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150008,
+    "imediata.nome":"Capitão Poço",
+    "regiao-intermediaria.id":1502,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150009,
+    "imediata.nome":"Marabá",
+    "regiao-intermediaria.id":1503,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150010,
+    "imediata.nome":"Parauapebas",
+    "regiao-intermediaria.id":1503,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150011,
+    "imediata.nome":"Tucuruí",
+    "regiao-intermediaria.id":1503,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150012,
+    "imediata.nome":"Redenção",
+    "regiao-intermediaria.id":1504,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150013,
+    "imediata.nome":"Tucumã - São Félix do Xingu",
+    "regiao-intermediaria.id":1504,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150014,
+    "imediata.nome":"Xinguara",
+    "regiao-intermediaria.id":1504,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150015,
+    "imediata.nome":"Santarém",
+    "regiao-intermediaria.id":1505,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150016,
+    "imediata.nome":"Itaituba",
+    "regiao-intermediaria.id":1505,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150017,
+    "imediata.nome":"Oriximiná",
+    "regiao-intermediaria.id":1505,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150018,
+    "imediata.nome":"Altamira",
+    "regiao-intermediaria.id":1506,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150019,
+    "imediata.nome":"Almeirim - Porto de Moz",
+    "regiao-intermediaria.id":1506,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150020,
+    "imediata.nome":"Breves",
+    "regiao-intermediaria.id":1507,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":150021,
+    "imediata.nome":"Soure-Salvaterra",
+    "regiao-intermediaria.id":1507,
+    "UF.sigla":"PA",
+    "UF.nome":"Pará"
+  },
+  {
+    "imediata.id":160001,
+    "imediata.nome":"Macapá",
+    "regiao-intermediaria.id":1601,
+    "UF.sigla":"AP",
+    "UF.nome":"Amapá"
+  },
+  {
+    "imediata.id":160002,
+    "imediata.nome":"Laranjal do Jari",
+    "regiao-intermediaria.id":1601,
+    "UF.sigla":"AP",
+    "UF.nome":"Amapá"
+  },
+  {
+    "imediata.id":160003,
+    "imediata.nome":"Oiapoque",
+    "regiao-intermediaria.id":1602,
+    "UF.sigla":"AP",
+    "UF.nome":"Amapá"
+  },
+  {
+    "imediata.id":160004,
+    "imediata.nome":"Porto Grande",
+    "regiao-intermediaria.id":1602,
+    "UF.sigla":"AP",
+    "UF.nome":"Amapá"
+  },
+  {
+    "imediata.id":170001,
+    "imediata.nome":"Palmas",
+    "regiao-intermediaria.id":1701,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170002,
+    "imediata.nome":"Porto Nacional",
+    "regiao-intermediaria.id":1701,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170003,
+    "imediata.nome":"Paraíso do Tocantins",
+    "regiao-intermediaria.id":1701,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170004,
+    "imediata.nome":"Miracema do Tocantins",
+    "regiao-intermediaria.id":1701,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170005,
+    "imediata.nome":"Araguaína",
+    "regiao-intermediaria.id":1702,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170006,
+    "imediata.nome":"Guaraí",
+    "regiao-intermediaria.id":1702,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170007,
+    "imediata.nome":"Colinas do Tocantins",
+    "regiao-intermediaria.id":1702,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170008,
+    "imediata.nome":"Tocantinópolis",
+    "regiao-intermediaria.id":1702,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170009,
+    "imediata.nome":"Araguatins",
+    "regiao-intermediaria.id":1702,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170010,
+    "imediata.nome":"Gurupi",
+    "regiao-intermediaria.id":1703,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":170011,
+    "imediata.nome":"Dianópolis",
+    "regiao-intermediaria.id":1703,
+    "UF.sigla":"TO",
+    "UF.nome":"Tocantins"
+  },
+  {
+    "imediata.id":210001,
+    "imediata.nome":"São Luís",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210002,
+    "imediata.nome":"Pinheiro",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210003,
+    "imediata.nome":"Chapadinha",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210004,
+    "imediata.nome":"Itapecuru Mirim",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210005,
+    "imediata.nome":"Viana",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210006,
+    "imediata.nome":"Barreirinhas",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210007,
+    "imediata.nome":"Tutóia - Araioses",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210008,
+    "imediata.nome":"Cururupu",
+    "regiao-intermediaria.id":2101,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210009,
+    "imediata.nome":"Santa Inês",
+    "regiao-intermediaria.id":2102,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210010,
+    "imediata.nome":"Bacabal",
+    "regiao-intermediaria.id":2102,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210011,
+    "imediata.nome":"Governador Nunes Freire",
+    "regiao-intermediaria.id":2102,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210012,
+    "imediata.nome":"Pedreiras",
+    "regiao-intermediaria.id":2102,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210013,
+    "imediata.nome":"Caxias",
+    "regiao-intermediaria.id":2103,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210014,
+    "imediata.nome":"Timon",
+    "regiao-intermediaria.id":2103,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210015,
+    "imediata.nome":"Codó",
+    "regiao-intermediaria.id":2103,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210016,
+    "imediata.nome":"Presidente Dutra",
+    "regiao-intermediaria.id":2104,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210017,
+    "imediata.nome":"São João dos Patos",
+    "regiao-intermediaria.id":2104,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210018,
+    "imediata.nome":"Colinas",
+    "regiao-intermediaria.id":2104,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210019,
+    "imediata.nome":"Imperatriz",
+    "regiao-intermediaria.id":2105,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210020,
+    "imediata.nome":"Barra do Corda",
+    "regiao-intermediaria.id":2105,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210021,
+    "imediata.nome":"Açailândia",
+    "regiao-intermediaria.id":2105,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":210022,
+    "imediata.nome":"Balsas",
+    "regiao-intermediaria.id":2105,
+    "UF.sigla":"MA",
+    "UF.nome":"Maranhão"
+  },
+  {
+    "imediata.id":220001,
+    "imediata.nome":"Teresina",
+    "regiao-intermediaria.id":2201,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220002,
+    "imediata.nome":"Amarante - Água Branca - Regeneração",
+    "regiao-intermediaria.id":2201,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220003,
+    "imediata.nome":"Campo Maior",
+    "regiao-intermediaria.id":2201,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220004,
+    "imediata.nome":"Valença do Piauí",
+    "regiao-intermediaria.id":2201,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220005,
+    "imediata.nome":"Barras",
+    "regiao-intermediaria.id":2201,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220006,
+    "imediata.nome":"Parnaíba",
+    "regiao-intermediaria.id":2202,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220007,
+    "imediata.nome":"Piripiri",
+    "regiao-intermediaria.id":2202,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220008,
+    "imediata.nome":"Esperantina",
+    "regiao-intermediaria.id":2202,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220009,
+    "imediata.nome":"Picos",
+    "regiao-intermediaria.id":2203,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220010,
+    "imediata.nome":"Paulistana",
+    "regiao-intermediaria.id":2203,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220011,
+    "imediata.nome":"Oeiras",
+    "regiao-intermediaria.id":2203,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220012,
+    "imediata.nome":"Simplício Mendes",
+    "regiao-intermediaria.id":2203,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220013,
+    "imediata.nome":"São Raimundo Nonato",
+    "regiao-intermediaria.id":2204,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220014,
+    "imediata.nome":"São João do Piauí",
+    "regiao-intermediaria.id":2204,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220015,
+    "imediata.nome":"Corrente",
+    "regiao-intermediaria.id":2205,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220016,
+    "imediata.nome":"Bom Jesus",
+    "regiao-intermediaria.id":2205,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220017,
+    "imediata.nome":"Floriano",
+    "regiao-intermediaria.id":2206,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220018,
+    "imediata.nome":"Uruçuí",
+    "regiao-intermediaria.id":2206,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":220019,
+    "imediata.nome":"Canto do Buriti",
+    "regiao-intermediaria.id":2206,
+    "UF.sigla":"PI",
+    "UF.nome":"Piauí"
+  },
+  {
+    "imediata.id":230001,
+    "imediata.nome":"Fortaleza",
+    "regiao-intermediaria.id":2301,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230002,
+    "imediata.nome":"Itapipoca",
+    "regiao-intermediaria.id":2301,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230003,
+    "imediata.nome":"Redenção-Acarape",
+    "regiao-intermediaria.id":2301,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230004,
+    "imediata.nome":"Canindé",
+    "regiao-intermediaria.id":2301,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230005,
+    "imediata.nome":"Itapagé",
+    "regiao-intermediaria.id":2301,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230006,
+    "imediata.nome":"Quixadá",
+    "regiao-intermediaria.id":2302,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230007,
+    "imediata.nome":"Russas - Limoeiro do Norte",
+    "regiao-intermediaria.id":2302,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230008,
+    "imediata.nome":"Aracati",
+    "regiao-intermediaria.id":2302,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230009,
+    "imediata.nome":"Iguatu",
+    "regiao-intermediaria.id":2303,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230010,
+    "imediata.nome":"Icó",
+    "regiao-intermediaria.id":2303,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230011,
+    "imediata.nome":"Juazeiro do Norte",
+    "regiao-intermediaria.id":2304,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230012,
+    "imediata.nome":"Brejo Santo",
+    "regiao-intermediaria.id":2304,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230013,
+    "imediata.nome":"Crateús",
+    "regiao-intermediaria.id":2305,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230014,
+    "imediata.nome":"Tauá",
+    "regiao-intermediaria.id":2305,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230015,
+    "imediata.nome":"Sobral",
+    "regiao-intermediaria.id":2306,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230016,
+    "imediata.nome":"São Benedito - Ipu - Guaraciaba do Norte - Tianguá",
+    "regiao-intermediaria.id":2306,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230017,
+    "imediata.nome":"Acaraú",
+    "regiao-intermediaria.id":2306,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":230018,
+    "imediata.nome":"Camocim",
+    "regiao-intermediaria.id":2306,
+    "UF.sigla":"CE",
+    "UF.nome":"Ceará"
+  },
+  {
+    "imediata.id":240001,
+    "imediata.nome":"Natal",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240002,
+    "imediata.nome":"Santo Antônio - Passa e Fica - Nova Cruz",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240003,
+    "imediata.nome":"Canguaretama",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240004,
+    "imediata.nome":"Santa Cruz",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240005,
+    "imediata.nome":"João Câmara",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240006,
+    "imediata.nome":"São Paulo do Potengi",
+    "regiao-intermediaria.id":2401,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240007,
+    "imediata.nome":"Caicó",
+    "regiao-intermediaria.id":2402,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240008,
+    "imediata.nome":"Currais Novos",
+    "regiao-intermediaria.id":2402,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240009,
+    "imediata.nome":"Mossoró",
+    "regiao-intermediaria.id":2403,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240010,
+    "imediata.nome":"Pau dos Ferros",
+    "regiao-intermediaria.id":2403,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":240011,
+    "imediata.nome":"Açu",
+    "regiao-intermediaria.id":2403,
+    "UF.sigla":"RN",
+    "UF.nome":"Rio Grande do Norte"
+  },
+  {
+    "imediata.id":250001,
+    "imediata.nome":"João Pessoa",
+    "regiao-intermediaria.id":2501,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250002,
+    "imediata.nome":"Guarabira",
+    "regiao-intermediaria.id":2501,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250003,
+    "imediata.nome":"Mamanguape - Rio Tinto",
+    "regiao-intermediaria.id":2501,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250004,
+    "imediata.nome":"Itabaiana",
+    "regiao-intermediaria.id":2501,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250005,
+    "imediata.nome":"Campina Grande",
+    "regiao-intermediaria.id":2502,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250006,
+    "imediata.nome":"Cuité - Nova Floresta",
+    "regiao-intermediaria.id":2502,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250007,
+    "imediata.nome":"Monteiro",
+    "regiao-intermediaria.id":2502,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250008,
+    "imediata.nome":"Sumé",
+    "regiao-intermediaria.id":2502,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250009,
+    "imediata.nome":"Patos",
+    "regiao-intermediaria.id":2503,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250010,
+    "imediata.nome":"Itaporanga",
+    "regiao-intermediaria.id":2503,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250011,
+    "imediata.nome":"Catolé do Rocha - São Bento",
+    "regiao-intermediaria.id":2503,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250012,
+    "imediata.nome":"Pombal",
+    "regiao-intermediaria.id":2503,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250013,
+    "imediata.nome":"Princesa Isabel",
+    "regiao-intermediaria.id":2503,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250014,
+    "imediata.nome":"Sousa",
+    "regiao-intermediaria.id":2504,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":250015,
+    "imediata.nome":"Cajazeiras",
+    "regiao-intermediaria.id":2504,
+    "UF.sigla":"PB",
+    "UF.nome":"Paraíba"
+  },
+  {
+    "imediata.id":260001,
+    "imediata.nome":"Recife",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260002,
+    "imediata.nome":"Goiana ¿ Timbaúba",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260003,
+    "imediata.nome":"Palmares",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260004,
+    "imediata.nome":"Limoeiro",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260005,
+    "imediata.nome":"Vitória de Santo Antão",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260006,
+    "imediata.nome":"Carpina",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260007,
+    "imediata.nome":"Barreiros - Sirinhaém",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260008,
+    "imediata.nome":"Surubim",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260018,
+    "imediata.nome":"Escada - Ribeirão",
+    "regiao-intermediaria.id":2601,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260009,
+    "imediata.nome":"Caruaru",
+    "regiao-intermediaria.id":2602,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260010,
+    "imediata.nome":"Garanhuns",
+    "regiao-intermediaria.id":2602,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260011,
+    "imediata.nome":"Arcoverde",
+    "regiao-intermediaria.id":2602,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260012,
+    "imediata.nome":"Belo Jardim ¿ Pesqueira",
+    "regiao-intermediaria.id":2602,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260013,
+    "imediata.nome":"Serra Talhada",
+    "regiao-intermediaria.id":2603,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260014,
+    "imediata.nome":"Afogados da Ingazeira",
+    "regiao-intermediaria.id":2603,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260015,
+    "imediata.nome":"Petrolina",
+    "regiao-intermediaria.id":2604,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260016,
+    "imediata.nome":"Araripina",
+    "regiao-intermediaria.id":2604,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":260017,
+    "imediata.nome":"Salgueiro",
+    "regiao-intermediaria.id":2604,
+    "UF.sigla":"PE",
+    "UF.nome":"Pernambuco"
+  },
+  {
+    "imediata.id":270001,
+    "imediata.nome":"Maceió",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270002,
+    "imediata.nome":"Porto Calvo - São Luís do Quitunde",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270003,
+    "imediata.nome":"Penedo",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270004,
+    "imediata.nome":"São Miguel dos Campos",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270005,
+    "imediata.nome":"União dos Palmares",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270006,
+    "imediata.nome":"Atalaia",
+    "regiao-intermediaria.id":2701,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270007,
+    "imediata.nome":"Arapiraca",
+    "regiao-intermediaria.id":2702,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270008,
+    "imediata.nome":"Palmeira dos Índios",
+    "regiao-intermediaria.id":2702,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270009,
+    "imediata.nome":"Delmiro Gouveia",
+    "regiao-intermediaria.id":2702,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270010,
+    "imediata.nome":"Santana do Ipanema",
+    "regiao-intermediaria.id":2702,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":270011,
+    "imediata.nome":"Pão de Açúcar - Olho d'Água das Flores ¿ Batalha",
+    "regiao-intermediaria.id":2702,
+    "UF.sigla":"AL",
+    "UF.nome":"Alagoas"
+  },
+  {
+    "imediata.id":280001,
+    "imediata.nome":"Aracaju",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280002,
+    "imediata.nome":"Estância",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280003,
+    "imediata.nome":"Propriá",
+    "regiao-intermediaria.id":2801,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280004,
+    "imediata.nome":"Itabaiana",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280005,
+    "imediata.nome":"Lagarto",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":280006,
+    "imediata.nome":"Nossa Senhora da Glória",
+    "regiao-intermediaria.id":2802,
+    "UF.sigla":"SE",
+    "UF.nome":"Sergipe"
+  },
+  {
+    "imediata.id":290001,
+    "imediata.nome":"Salvador",
+    "regiao-intermediaria.id":2901,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290002,
+    "imediata.nome":"Alagoinhas",
+    "regiao-intermediaria.id":2901,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290003,
+    "imediata.nome":"Santo Antônio de Jesus",
+    "regiao-intermediaria.id":2902,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290004,
+    "imediata.nome":"Cruz das Almas",
+    "regiao-intermediaria.id":2902,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290005,
+    "imediata.nome":"Valença",
+    "regiao-intermediaria.id":2902,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290006,
+    "imediata.nome":"Nazaré ¿ Maragogipe",
+    "regiao-intermediaria.id":2902,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290007,
+    "imediata.nome":"Ilhéus ¿ Itabuna",
+    "regiao-intermediaria.id":2903,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290008,
+    "imediata.nome":"Teixeira de Freitas",
+    "regiao-intermediaria.id":2903,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290009,
+    "imediata.nome":"Eunápolis - Porto Seguro",
+    "regiao-intermediaria.id":2903,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290010,
+    "imediata.nome":"Camacan",
+    "regiao-intermediaria.id":2903,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290011,
+    "imediata.nome":"Vitória da Conquista",
+    "regiao-intermediaria.id":2904,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290012,
+    "imediata.nome":"Jequié",
+    "regiao-intermediaria.id":2904,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290013,
+    "imediata.nome":"Brumado",
+    "regiao-intermediaria.id":2904,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290014,
+    "imediata.nome":"Ipiaú",
+    "regiao-intermediaria.id":2904,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290015,
+    "imediata.nome":"Itapetinga",
+    "regiao-intermediaria.id":2904,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290016,
+    "imediata.nome":"Guanambi",
+    "regiao-intermediaria.id":2905,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290017,
+    "imediata.nome":"Bom Jesus da Lapa",
+    "regiao-intermediaria.id":2905,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290018,
+    "imediata.nome":"Barreiras",
+    "regiao-intermediaria.id":2906,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290019,
+    "imediata.nome":"Santa Maria da Vitoria",
+    "regiao-intermediaria.id":2906,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290020,
+    "imediata.nome":"Irecê",
+    "regiao-intermediaria.id":2907,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290021,
+    "imediata.nome":"Xique-Xique ¿ Barra",
+    "regiao-intermediaria.id":2907,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290022,
+    "imediata.nome":"Juazeiro",
+    "regiao-intermediaria.id":2908,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290023,
+    "imediata.nome":"Senhor do Bonfim",
+    "regiao-intermediaria.id":2908,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290024,
+    "imediata.nome":"Paulo Afonso",
+    "regiao-intermediaria.id":2909,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290025,
+    "imediata.nome":"Ribeira do Pombal",
+    "regiao-intermediaria.id":2909,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290026,
+    "imediata.nome":"Euclides da Cunha",
+    "regiao-intermediaria.id":2909,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290027,
+    "imediata.nome":"Cícero Dantas",
+    "regiao-intermediaria.id":2909,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290028,
+    "imediata.nome":"Jeremoabo",
+    "regiao-intermediaria.id":2909,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290029,
+    "imediata.nome":"Feira de Santana",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290030,
+    "imediata.nome":"Jacobina",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290031,
+    "imediata.nome":"Itaberaba",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290032,
+    "imediata.nome":"Conceição do Coité",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290033,
+    "imediata.nome":"Serrinha",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":290034,
+    "imediata.nome":"Seabra",
+    "regiao-intermediaria.id":2910,
+    "UF.sigla":"BA",
+    "UF.nome":"Bahia"
+  },
+  {
+    "imediata.id":310001,
+    "imediata.nome":"Belo Horizonte",
+    "regiao-intermediaria.id":3101,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310002,
+    "imediata.nome":"Sete Lagoas",
+    "regiao-intermediaria.id":3101,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310003,
+    "imediata.nome":"Santa Bárbara - Ouro Preto",
+    "regiao-intermediaria.id":3101,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310004,
+    "imediata.nome":"Curvelo",
+    "regiao-intermediaria.id":3101,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310005,
+    "imediata.nome":"Itabira",
+    "regiao-intermediaria.id":3101,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310006,
+    "imediata.nome":"Montes Claros",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310007,
+    "imediata.nome":"Janaúba",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310008,
+    "imediata.nome":"Salinas",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310009,
+    "imediata.nome":"Januária",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310010,
+    "imediata.nome":"Pirapora",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310011,
+    "imediata.nome":"São Francisco",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310012,
+    "imediata.nome":"Espinosa",
+    "regiao-intermediaria.id":3102,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310013,
+    "imediata.nome":"Teófilo Otoni",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310014,
+    "imediata.nome":"Capelinha",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310015,
+    "imediata.nome":"Almenara",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310016,
+    "imediata.nome":"Diamantina",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310017,
+    "imediata.nome":"Araçuaí",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310018,
+    "imediata.nome":"Pedra Azul",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310019,
+    "imediata.nome":"Águas Formosas",
+    "regiao-intermediaria.id":3103,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310020,
+    "imediata.nome":"Governador Valadares",
+    "regiao-intermediaria.id":3104,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310021,
+    "imediata.nome":"Guanhães",
+    "regiao-intermediaria.id":3104,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310022,
+    "imediata.nome":"Mantena",
+    "regiao-intermediaria.id":3104,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310023,
+    "imediata.nome":"Aimorés - Resplendor",
+    "regiao-intermediaria.id":3104,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310024,
+    "imediata.nome":"Ipatinga",
+    "regiao-intermediaria.id":3105,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310025,
+    "imediata.nome":"Caratinga",
+    "regiao-intermediaria.id":3105,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310026,
+    "imediata.nome":"João Monlevade",
+    "regiao-intermediaria.id":3105,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310027,
+    "imediata.nome":"Juiz de Fora",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310028,
+    "imediata.nome":"Manhuaçu",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310029,
+    "imediata.nome":"Ubá",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310030,
+    "imediata.nome":"Ponte Nova",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310031,
+    "imediata.nome":"Muriaé",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310032,
+    "imediata.nome":"Cataguases",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310033,
+    "imediata.nome":"Viçosa",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310034,
+    "imediata.nome":"Carangola",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310035,
+    "imediata.nome":"São João Nepomuceno - Bicas",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310036,
+    "imediata.nome":"Além Paraíba",
+    "regiao-intermediaria.id":3106,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310037,
+    "imediata.nome":"Barbacena",
+    "regiao-intermediaria.id":3107,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310038,
+    "imediata.nome":"Conselheiro Lafaiete",
+    "regiao-intermediaria.id":3107,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310039,
+    "imediata.nome":"São João del Rei",
+    "regiao-intermediaria.id":3107,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310040,
+    "imediata.nome":"Varginha",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310041,
+    "imediata.nome":"Passos",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310042,
+    "imediata.nome":"Alfenas",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310043,
+    "imediata.nome":"Lavras",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310044,
+    "imediata.nome":"Guaxupé",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310045,
+    "imediata.nome":"Três Corações",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310046,
+    "imediata.nome":"Três Pontas - Boa Esperança",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310047,
+    "imediata.nome":"São Sebastião do Paraíso",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310048,
+    "imediata.nome":"Campo Belo",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310049,
+    "imediata.nome":"Piumhi",
+    "regiao-intermediaria.id":3108,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310050,
+    "imediata.nome":"Pouso Alegre",
+    "regiao-intermediaria.id":3109,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310051,
+    "imediata.nome":"Poços de Caldas",
+    "regiao-intermediaria.id":3109,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310052,
+    "imediata.nome":"Itajubá",
+    "regiao-intermediaria.id":3109,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310053,
+    "imediata.nome":"São Lourenço",
+    "regiao-intermediaria.id":3109,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310054,
+    "imediata.nome":"Caxambu - Baependi",
+    "regiao-intermediaria.id":3109,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310055,
+    "imediata.nome":"Uberaba",
+    "regiao-intermediaria.id":3110,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310056,
+    "imediata.nome":"Araxá",
+    "regiao-intermediaria.id":3110,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310057,
+    "imediata.nome":"Frutal",
+    "regiao-intermediaria.id":3110,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310058,
+    "imediata.nome":"Iturama",
+    "regiao-intermediaria.id":3110,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310059,
+    "imediata.nome":"Uberlândia",
+    "regiao-intermediaria.id":3111,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310060,
+    "imediata.nome":"Ituiutaba",
+    "regiao-intermediaria.id":3111,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310061,
+    "imediata.nome":"Monte Carmelo",
+    "regiao-intermediaria.id":3111,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310062,
+    "imediata.nome":"Patos de Minas",
+    "regiao-intermediaria.id":3112,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310063,
+    "imediata.nome":"Unaí",
+    "regiao-intermediaria.id":3112,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310064,
+    "imediata.nome":"Patrocínio",
+    "regiao-intermediaria.id":3112,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310065,
+    "imediata.nome":"Divinópolis",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310066,
+    "imediata.nome":"Formiga",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310067,
+    "imediata.nome":"Dores do Indaiá",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310068,
+    "imediata.nome":"Pará de Minas",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310069,
+    "imediata.nome":"Oliveira",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":310070,
+    "imediata.nome":"Abaeté",
+    "regiao-intermediaria.id":3113,
+    "UF.sigla":"MG",
+    "UF.nome":"Minas Gerais"
+  },
+  {
+    "imediata.id":320001,
+    "imediata.nome":"Vitória",
+    "regiao-intermediaria.id":3201,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320002,
+    "imediata.nome":"Afonso Cláudio - Venda Nova do Imigrante - Santa Maria de Jetibá",
+    "regiao-intermediaria.id":3201,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320003,
+    "imediata.nome":"São Mateus",
+    "regiao-intermediaria.id":3202,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320004,
+    "imediata.nome":"Linhares",
+    "regiao-intermediaria.id":3202,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320005,
+    "imediata.nome":"Colatina",
+    "regiao-intermediaria.id":3203,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320006,
+    "imediata.nome":"Nova Venécia",
+    "regiao-intermediaria.id":3203,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320007,
+    "imediata.nome":"Cachoeiro de Itapemirim",
+    "regiao-intermediaria.id":3204,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":320008,
+    "imediata.nome":"Alegre",
+    "regiao-intermediaria.id":3204,
+    "UF.sigla":"ES",
+    "UF.nome":"Espírito Santo"
+  },
+  {
+    "imediata.id":330001,
+    "imediata.nome":"Rio de Janeiro",
+    "regiao-intermediaria.id":3301,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330002,
+    "imediata.nome":"Angra dos Reis",
+    "regiao-intermediaria.id":3301,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330003,
+    "imediata.nome":"Rio Bonito",
+    "regiao-intermediaria.id":3301,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330004,
+    "imediata.nome":"Volta Redonda - Barra Mansa",
+    "regiao-intermediaria.id":3302,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330005,
+    "imediata.nome":"Resende",
+    "regiao-intermediaria.id":3302,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330006,
+    "imediata.nome":"Valença",
+    "regiao-intermediaria.id":3302,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330007,
+    "imediata.nome":"Petrópolis",
+    "regiao-intermediaria.id":3303,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330008,
+    "imediata.nome":"Nova Friburgo",
+    "regiao-intermediaria.id":3303,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330009,
+    "imediata.nome":"Três Rios - Paraíba do Sul",
+    "regiao-intermediaria.id":3303,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330010,
+    "imediata.nome":"Campos dos Goytacazes",
+    "regiao-intermediaria.id":3304,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330011,
+    "imediata.nome":"Itaperuna",
+    "regiao-intermediaria.id":3304,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330012,
+    "imediata.nome":"Santo Antônio de Pádua",
+    "regiao-intermediaria.id":3304,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330013,
+    "imediata.nome":"Cabo Frio",
+    "regiao-intermediaria.id":3305,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":330014,
+    "imediata.nome":"Macaé - Rio das Ostras",
+    "regiao-intermediaria.id":3305,
+    "UF.sigla":"RJ",
+    "UF.nome":"Rio de Janeiro"
+  },
+  {
+    "imediata.id":350001,
+    "imediata.nome":"São Paulo",
+    "regiao-intermediaria.id":3501,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350002,
+    "imediata.nome":"Santos",
+    "regiao-intermediaria.id":3501,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350003,
+    "imediata.nome":"Sorocaba",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350004,
+    "imediata.nome":"Itapeva",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350005,
+    "imediata.nome":"Registro",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350006,
+    "imediata.nome":"Itapetininga",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350007,
+    "imediata.nome":"Avaré",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350008,
+    "imediata.nome":"Tatuí",
+    "regiao-intermediaria.id":3502,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350009,
+    "imediata.nome":"Bauru",
+    "regiao-intermediaria.id":3503,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350010,
+    "imediata.nome":"Jaú",
+    "regiao-intermediaria.id":3503,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350011,
+    "imediata.nome":"Botucatu",
+    "regiao-intermediaria.id":3503,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350012,
+    "imediata.nome":"Lins",
+    "regiao-intermediaria.id":3503,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350013,
+    "imediata.nome":"Marília",
+    "regiao-intermediaria.id":3504,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350014,
+    "imediata.nome":"Assis",
+    "regiao-intermediaria.id":3504,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350015,
+    "imediata.nome":"Ourinhos",
+    "regiao-intermediaria.id":3504,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350016,
+    "imediata.nome":"Tupã",
+    "regiao-intermediaria.id":3504,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350017,
+    "imediata.nome":"Piraju",
+    "regiao-intermediaria.id":3504,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350018,
+    "imediata.nome":"Presidente Prudente",
+    "regiao-intermediaria.id":3505,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350019,
+    "imediata.nome":"Adamantina - Lucélia",
+    "regiao-intermediaria.id":3505,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350020,
+    "imediata.nome":"Dracena",
+    "regiao-intermediaria.id":3505,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350021,
+    "imediata.nome":"Presidente Epitácio-Presidente Venceslau",
+    "regiao-intermediaria.id":3505,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350022,
+    "imediata.nome":"Araçatuba",
+    "regiao-intermediaria.id":3506,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350023,
+    "imediata.nome":"Birigui - Penápolis",
+    "regiao-intermediaria.id":3506,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350024,
+    "imediata.nome":"Andradina",
+    "regiao-intermediaria.id":3506,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350025,
+    "imediata.nome":"São José do Rio Preto",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350026,
+    "imediata.nome":"Catanduva",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350027,
+    "imediata.nome":"Votuporanga",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350028,
+    "imediata.nome":"Jales",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350029,
+    "imediata.nome":"Fernandópolis",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350030,
+    "imediata.nome":"Santa Fé do Sul",
+    "regiao-intermediaria.id":3507,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350031,
+    "imediata.nome":"Ribeirão Preto",
+    "regiao-intermediaria.id":3508,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350032,
+    "imediata.nome":"Barretos",
+    "regiao-intermediaria.id":3508,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350033,
+    "imediata.nome":"Franca",
+    "regiao-intermediaria.id":3508,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350034,
+    "imediata.nome":"São Joaquim da Barra ¿ Orlândia",
+    "regiao-intermediaria.id":3508,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350035,
+    "imediata.nome":"Ituverava",
+    "regiao-intermediaria.id":3508,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350036,
+    "imediata.nome":"Araraquara",
+    "regiao-intermediaria.id":3509,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350037,
+    "imediata.nome":"São Carlos",
+    "regiao-intermediaria.id":3509,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350038,
+    "imediata.nome":"Campinas",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350039,
+    "imediata.nome":"Jundiaí",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350040,
+    "imediata.nome":"Piracicaba",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350041,
+    "imediata.nome":"Bragança Paulista",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350042,
+    "imediata.nome":"Limeira",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350043,
+    "imediata.nome":"Mogi Guaçu",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350044,
+    "imediata.nome":"São João da Boa Vista",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350045,
+    "imediata.nome":"Araras",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350046,
+    "imediata.nome":"Rio Claro",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350047,
+    "imediata.nome":"São José do Rio Pardo - Mococa",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350048,
+    "imediata.nome":"Amparo",
+    "regiao-intermediaria.id":3510,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350049,
+    "imediata.nome":"São José dos Campos",
+    "regiao-intermediaria.id":3511,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350050,
+    "imediata.nome":"Taubaté - Pindamonhangaba",
+    "regiao-intermediaria.id":3511,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350051,
+    "imediata.nome":"Caraguatatuba - Ubatuba - São Sebastião",
+    "regiao-intermediaria.id":3511,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350052,
+    "imediata.nome":"Guaratinguetá",
+    "regiao-intermediaria.id":3511,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":350053,
+    "imediata.nome":"Cruzeiro",
+    "regiao-intermediaria.id":3511,
+    "UF.sigla":"SP",
+    "UF.nome":"São Paulo"
+  },
+  {
+    "imediata.id":410001,
+    "imediata.nome":"Curitiba",
+    "regiao-intermediaria.id":4101,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410002,
+    "imediata.nome":"Paranaguá",
+    "regiao-intermediaria.id":4101,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410003,
+    "imediata.nome":"União da Vitória",
+    "regiao-intermediaria.id":4101,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410004,
+    "imediata.nome":"Guarapuava",
+    "regiao-intermediaria.id":4102,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410005,
+    "imediata.nome":"Pitanga",
+    "regiao-intermediaria.id":4102,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410006,
+    "imediata.nome":"Cascavel",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410007,
+    "imediata.nome":"Foz do Iguaçu",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410008,
+    "imediata.nome":"Toledo",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410009,
+    "imediata.nome":"Francisco Beltrão",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410010,
+    "imediata.nome":"Pato Branco",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410011,
+    "imediata.nome":"Laranjeiras do Sul - Quedas do Iguaçu",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410012,
+    "imediata.nome":"Dois Vizinhos",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410013,
+    "imediata.nome":"Marechal Cândido Rondon",
+    "regiao-intermediaria.id":4103,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410014,
+    "imediata.nome":"Maringá",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410015,
+    "imediata.nome":"Campo Mourão",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410016,
+    "imediata.nome":"Umuarama",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410017,
+    "imediata.nome":"Paranavaí",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410018,
+    "imediata.nome":"Cianorte",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410019,
+    "imediata.nome":"Paranacity - Colorado",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410020,
+    "imediata.nome":"Loanda",
+    "regiao-intermediaria.id":4104,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410021,
+    "imediata.nome":"Londrina",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410022,
+    "imediata.nome":"Santo Antônio da Platina",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410023,
+    "imediata.nome":"Apucarana",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410024,
+    "imediata.nome":"Cornélio Procópio ¿ Bandeirantes",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410025,
+    "imediata.nome":"Ivaiporã",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410026,
+    "imediata.nome":"Ibaiti",
+    "regiao-intermediaria.id":4105,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410027,
+    "imediata.nome":"Ponta Grossa",
+    "regiao-intermediaria.id":4106,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410028,
+    "imediata.nome":"Telêmaco Borba",
+    "regiao-intermediaria.id":4106,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":410029,
+    "imediata.nome":"Irati",
+    "regiao-intermediaria.id":4106,
+    "UF.sigla":"PR",
+    "UF.nome":"Paraná"
+  },
+  {
+    "imediata.id":420001,
+    "imediata.nome":"Florianópolis",
+    "regiao-intermediaria.id":4201,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420002,
+    "imediata.nome":"Criciúma",
+    "regiao-intermediaria.id":4202,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420003,
+    "imediata.nome":"Tubarão",
+    "regiao-intermediaria.id":4202,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420004,
+    "imediata.nome":"Araranguá",
+    "regiao-intermediaria.id":4202,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420005,
+    "imediata.nome":"Lages",
+    "regiao-intermediaria.id":4203,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420006,
+    "imediata.nome":"Curitibanos",
+    "regiao-intermediaria.id":4203,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420007,
+    "imediata.nome":"Chapecó",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420008,
+    "imediata.nome":"Joaçaba - Herval d'Oeste",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420009,
+    "imediata.nome":"São Miguel do Oeste",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420010,
+    "imediata.nome":"Concórdia",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420011,
+    "imediata.nome":"Xanxerê",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420012,
+    "imediata.nome":"Maravilha",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420013,
+    "imediata.nome":"São Lourenço do Oeste",
+    "regiao-intermediaria.id":4204,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420014,
+    "imediata.nome":"Caçador",
+    "regiao-intermediaria.id":4205,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420015,
+    "imediata.nome":"Videira",
+    "regiao-intermediaria.id":4205,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420016,
+    "imediata.nome":"Joinville",
+    "regiao-intermediaria.id":4206,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420017,
+    "imediata.nome":"Mafra",
+    "regiao-intermediaria.id":4206,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420018,
+    "imediata.nome":"São Bento do Sul - Rio Negrinho",
+    "regiao-intermediaria.id":4206,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420019,
+    "imediata.nome":"Blumenau",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420020,
+    "imediata.nome":"Itajaí",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420021,
+    "imediata.nome":"Brusque",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420022,
+    "imediata.nome":"Rio do Sul",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420023,
+    "imediata.nome":"Ibirama - Presidente Getúlio",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":420024,
+    "imediata.nome":"Ituporanga",
+    "regiao-intermediaria.id":4207,
+    "UF.sigla":"SC",
+    "UF.nome":"Santa Catarina"
+  },
+  {
+    "imediata.id":430001,
+    "imediata.nome":"Porto Alegre",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430002,
+    "imediata.nome":"Novo Hamburgo - São Leopoldo",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430003,
+    "imediata.nome":"Tramandaí - Osório",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430004,
+    "imediata.nome":"Taquara - Parobé - Igrejinha",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430005,
+    "imediata.nome":"Camaquã",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430006,
+    "imediata.nome":"Charqueadas - Triunfo - São Jerônimo",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430007,
+    "imediata.nome":"Montenegro",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430008,
+    "imediata.nome":"Torres",
+    "regiao-intermediaria.id":4301,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430009,
+    "imediata.nome":"Pelotas",
+    "regiao-intermediaria.id":4302,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430010,
+    "imediata.nome":"Bagé",
+    "regiao-intermediaria.id":4302,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430011,
+    "imediata.nome":"Santa Maria",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430012,
+    "imediata.nome":"São Gabriel - Caçapava do Sul",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430013,
+    "imediata.nome":"Cachoeira do Sul",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430014,
+    "imediata.nome":"Santiago",
+    "regiao-intermediaria.id":4303,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430015,
+    "imediata.nome":"Uruguaiana",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430016,
+    "imediata.nome":"Santana do Livramento",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430017,
+    "imediata.nome":"São Borja",
+    "regiao-intermediaria.id":4304,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430018,
+    "imediata.nome":"Ijuí",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430019,
+    "imediata.nome":"Santa Rosa",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430020,
+    "imediata.nome":"Santo Ângelo",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430021,
+    "imediata.nome":"Três Passos",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430022,
+    "imediata.nome":"São Luiz Gonzaga",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430023,
+    "imediata.nome":"Três de Maio",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430024,
+    "imediata.nome":"Cerro Largo",
+    "regiao-intermediaria.id":4305,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430025,
+    "imediata.nome":"Passo Fundo",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430026,
+    "imediata.nome":"Erechim",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430027,
+    "imediata.nome":"Cruz Alta",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430028,
+    "imediata.nome":"Carazinho",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430029,
+    "imediata.nome":"Frederico Westphalen",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430030,
+    "imediata.nome":"Marau",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430031,
+    "imediata.nome":"Soledade",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430032,
+    "imediata.nome":"Tapejara - Sananduva",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430033,
+    "imediata.nome":"Lagoa Vermelha",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430034,
+    "imediata.nome":"Palmeira das Missões",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430035,
+    "imediata.nome":"Nonoai",
+    "regiao-intermediaria.id":4306,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430036,
+    "imediata.nome":"Caxias do Sul",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430037,
+    "imediata.nome":"Bento Gonçalves",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430038,
+    "imediata.nome":"Nova Prata - Guaporé",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430039,
+    "imediata.nome":"Vacaria",
+    "regiao-intermediaria.id":4307,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430040,
+    "imediata.nome":"Santa Cruz do Sul",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430041,
+    "imediata.nome":"Lajeado",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430042,
+    "imediata.nome":"Sobradinho",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":430043,
+    "imediata.nome":"Encantado",
+    "regiao-intermediaria.id":4308,
+    "UF.sigla":"RS",
+    "UF.nome":"Rio Grande do Sul"
+  },
+  {
+    "imediata.id":500001,
+    "imediata.nome":"Campo Grande",
+    "regiao-intermediaria.id":5001,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500002,
+    "imediata.nome":"Três Lagoas",
+    "regiao-intermediaria.id":5001,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500003,
+    "imediata.nome":"Paranaíba - Chapadão do Sul - Cassilândia",
+    "regiao-intermediaria.id":5001,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500004,
+    "imediata.nome":"Coxim",
+    "regiao-intermediaria.id":5001,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500005,
+    "imediata.nome":"Dourados",
+    "regiao-intermediaria.id":5002,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500006,
+    "imediata.nome":"Naviraí - Mundo Novo",
+    "regiao-intermediaria.id":5002,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500007,
+    "imediata.nome":"Nova Andradina",
+    "regiao-intermediaria.id":5002,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500008,
+    "imediata.nome":"Ponta Porã",
+    "regiao-intermediaria.id":5002,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500009,
+    "imediata.nome":"Amambai",
+    "regiao-intermediaria.id":5002,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500010,
+    "imediata.nome":"Corumbá",
+    "regiao-intermediaria.id":5003,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500011,
+    "imediata.nome":"Jardim",
+    "regiao-intermediaria.id":5003,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":500012,
+    "imediata.nome":"Aquidauana - Anastácio",
+    "regiao-intermediaria.id":5003,
+    "UF.sigla":"MS",
+    "UF.nome":"Mato Grosso do Sul"
+  },
+  {
+    "imediata.id":510001,
+    "imediata.nome":"Cuiabá",
+    "regiao-intermediaria.id":5101,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510002,
+    "imediata.nome":"Tangará da Serra",
+    "regiao-intermediaria.id":5101,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510003,
+    "imediata.nome":"Diamantino",
+    "regiao-intermediaria.id":5101,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510004,
+    "imediata.nome":"Cáceres",
+    "regiao-intermediaria.id":5102,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510005,
+    "imediata.nome":"Pontes e Lacerda - Comodoro",
+    "regiao-intermediaria.id":5102,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510006,
+    "imediata.nome":"Mirassol D'oeste",
+    "regiao-intermediaria.id":5102,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510007,
+    "imediata.nome":"Sinop",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510008,
+    "imediata.nome":"Sorriso",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510009,
+    "imediata.nome":"Juína",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510010,
+    "imediata.nome":"Alta Floresta",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510011,
+    "imediata.nome":"Peixoto de Azevedo - Guarantã do Norte",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510012,
+    "imediata.nome":"Juara",
+    "regiao-intermediaria.id":5103,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510013,
+    "imediata.nome":"Barra do Garças",
+    "regiao-intermediaria.id":5104,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510014,
+    "imediata.nome":"Confresa - Vila Rica",
+    "regiao-intermediaria.id":5104,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510015,
+    "imediata.nome":"Água Boa",
+    "regiao-intermediaria.id":5104,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510016,
+    "imediata.nome":"Rondonópolis",
+    "regiao-intermediaria.id":5105,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510017,
+    "imediata.nome":"Primavera do Leste",
+    "regiao-intermediaria.id":5105,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":510018,
+    "imediata.nome":"Jaciara",
+    "regiao-intermediaria.id":5105,
+    "UF.sigla":"MT",
+    "UF.nome":"Mato Grosso"
+  },
+  {
+    "imediata.id":520001,
+    "imediata.nome":"Goiânia",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520002,
+    "imediata.nome":"Anápolis",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520003,
+    "imediata.nome":"Inhumas - Itaberaí - Anicuns",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520004,
+    "imediata.nome":"Catalão",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520005,
+    "imediata.nome":"Goiás - Itapuranga",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520006,
+    "imediata.nome":"Pires do Rio",
+    "regiao-intermediaria.id":5201,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520007,
+    "imediata.nome":"Itumbiara",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520008,
+    "imediata.nome":"Caldas Novas-Morrinhos",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520009,
+    "imediata.nome":"Piracanjuba",
+    "regiao-intermediaria.id":5202,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520010,
+    "imediata.nome":"Rio Verde",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520011,
+    "imediata.nome":"Jataí-Mineiros",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520012,
+    "imediata.nome":"Quirinópolis",
+    "regiao-intermediaria.id":5203,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520013,
+    "imediata.nome":"São Luís de Montes Belos",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520014,
+    "imediata.nome":"Iporá",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520015,
+    "imediata.nome":"Palmeiras de Goiás",
+    "regiao-intermediaria.id":5204,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520016,
+    "imediata.nome":"Porangatu",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520017,
+    "imediata.nome":"Uruaçu - Niquelândia",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520018,
+    "imediata.nome":"Ceres - Rialma - Goianésia",
+    "regiao-intermediaria.id":5205,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520019,
+    "imediata.nome":"Luziânia",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520020,
+    "imediata.nome":"Águas Lindas de Goiás",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520021,
+    "imediata.nome":"Posse-Campos Belos",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":520022,
+    "imediata.nome":"Flores de Goiás",
+    "regiao-intermediaria.id":5206,
+    "UF.sigla":"GO",
+    "UF.nome":"Goiás"
+  },
+  {
+    "imediata.id":530001,
+    "imediata.nome":"Distrito Federal",
+    "regiao-intermediaria.id":5301,
+    "UF.sigla":"DF",
+    "UF.nome":"Distrito Federal"
+  }
+]

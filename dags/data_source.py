@@ -2,7 +2,7 @@ from airflow.decorators import dag, task, task_group
 from datetime import datetime, timedelta
 
 from script.utils import salvar_json, requisicao_api
-from script.schema_ibge import schemas
+from script.ibge_schema import schemas
 from script.validador import ValidadorDataQuality
 from script.coletor import ColetorAPI
 
@@ -49,11 +49,11 @@ default_args = {
 def dag_ibge_data_source():
 
     def criar_task_group(nome_contexto: str, metodo_coletor: str):
-        @task_group(group_id=f"{nome_contexto}_pipeline")
+        @task_group(group_id=f"{nome_contexto}_task", tooltip="Pipeline de coleta e validação dos dados do IBGE", prefix_group_id=False)
         def pipeline():
             @task
             def extrair() -> pd.DataFrame:
-                api = ColetorAPI(urls=URLS, requisicao_api=requisicao_api)
+                api = ColetorAPI(urls=URLS, requisicao_api=requisicao_api, data_dir=DATA_DIR)
                 metodo = getattr(api, metodo_coletor)
                 return metodo()
 
@@ -84,5 +84,9 @@ def dag_ibge_data_source():
     municipios = criar_task_group("municipios", "get_municipios")
     distritos = criar_task_group("distritos", "get_distritos")
     subdistritos = criar_task_group("subdistritos", "get_subdistritos_paralelo")
+
+    regioes >> [estados, distritos]  # se eles podem rodar ao mesmo tempo
+    estados >> [intermediarias, imediatas, municipios]
+    municipios >> subdistritos
 
 dag_instance = dag_ibge_data_source()

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import requests
 import logging
-
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 logging.basicConfig(
     level=logging.INFO,
@@ -13,9 +13,10 @@ logger = logging.getLogger(__name__)
 
 
 class ColetorAPI:
-    def __init__(self, urls: dict, requisicao_api):
+    def __init__(self, urls: dict, requisicao_api: str, data_dir: str):
         self.urls = urls
         self.requisicao_api = requisicao_api
+        self.data_dir = data_dir
 
     def get_regioes(self):
         dados = self.requisicao_api(self.urls["regioes"])
@@ -30,7 +31,7 @@ class ColetorAPI:
         return df
 
     def get_estados(self):
-      dados = self.requisicao_api(URLS["estados"])
+      dados = self.requisicao_api(self.urls["estados"])
       if not dados:
           return None
 
@@ -44,10 +45,10 @@ class ColetorAPI:
       return df_final
 
     def get_intermediarias(self):
-      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      estados = pd.read_json(os.path.join(self.data_dir, "estados_validado.json"))["estado.id"].tolist()
       df = pd.DataFrame()
       for estado_id in estados:
-          dados = self.requisicao_api(URLS["intermediarias"].format(estado_id))
+          dados = self.requisicao_api(self.urls["intermediarias"].format(estado_id))
           if not dados:
               continue
 
@@ -65,11 +66,11 @@ class ColetorAPI:
       return df
 
     def get_imediatas(self):
-      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      estados = pd.read_json(os.path.join(self.data_dir, "estados_validado.json"))["estado.id"].tolist()
       df = pd.DataFrame()
 
       for estado_id in estados:
-        dados = self.requisicao_api(URLS["imediatas"].format(estado_id))
+        dados = self.requisicao_api(self.urls["imediatas"].format(estado_id))
         if not dados:
             continue
 
@@ -80,11 +81,11 @@ class ColetorAPI:
       return df
 
     def get_municipios(self):
-      estados = pd.read_json(os.path.join(DATA_DIR, "estados_validado.json"))["estado.id"].tolist()
+      estados = pd.read_json(os.path.join(self.data_dir, "estados_validado.json"))["estado.id"].tolist()
       df = pd.DataFrame()
 
       for estado_id in estados:
-        dados = self.requisicao_api(URLS["municipios"].format(estado_id))
+        dados = self.requisicao_api(self.urls["municipios"].format(estado_id))
         if not dados:
             continue
 
@@ -115,9 +116,9 @@ class ColetorAPI:
 
         return df_final
 
-    def get_subdistritos_paralelo():
-        distrito_ids = pd.read_json(os.path.join(DATA_DIR, "distritos_validado.json"))["distrito.id"].tolist()
-        urls = [URLS["subdistritos"].format(did) for did in distrito_ids]
+    def get_subdistritos_paralelo(self):
+        distrito_ids = pd.read_json(os.path.join(self.data_dir, "distritos_validado.json"))["distrito.id"].tolist()
+        urls = [self.urls["subdistritos"].format(did) for did in distrito_ids]
 
         resultados = []
         with ThreadPoolExecutor(max_workers=20) as executor:
