@@ -38,7 +38,7 @@ default_args = {
 
 # Define the basic parameters of the DAG, like schedule and start_date
 @dag(
-    start_date=datetime(2024, 4, 20),
+    start_date=datetime(2024, 4, 26),
     schedule="@daily",
     max_active_runs=1,
     catchup=False,
