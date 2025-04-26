@@ -10,7 +10,7 @@ O objetivo deste projeto é automatizar a extração, carga e transformação de
 
 O pipeline segue o modelo **ELT** dividido em três etapas principais:
 
-### 1. **Extract (Extração)**
+### 1. **Extract (Extração) data_source.py DAG **
 - A extração de dados é feita via **API do IBGE**, que fornece informações sobre regioes, estados, intermediarios, imediatos, municípios, distritos e subdistritos(bairros) do Brasil.
 - Os dados extraídos incluem:
   - Dados de regioes (regiao.id, regiao.sigla (SE), etc.)
@@ -20,10 +20,12 @@ O pipeline segue o modelo **ELT** dividido em três etapas principais:
   - Dados de municípios (municipio.id, municipio.nome('Angra dos Reis'), microregiao.nome('Baía da Ilha Grande'), etc)
   - Dados de distritos (distrito.id, distrito.nome, regiao-imediata.regiao-intermediaria.UF.nome, etc)
   - Dados de subdistritos (bairro.id, bairro.nome('Penha'), municipio.nome, etc)
-- Os dados sao armazenados em um diretorio /include em formato json
-### 2. **Load (Carregamento)**
-- Após a extração, os dados são carregados em um banco de dados **PostgreSQL** local.
-- O carregamento é feito utilizando a ferramenta **load_file** do **Astronomer** para garantir um processo eficiente e sem erros.
+- Antes de armazenar os dados, é feita um data quality check para a segurar um schema predefinido para assim armazenar os dados em um diretorio /include em formato json.
+  
+### 2. **Load (Carregamento) elt_pipeline.py DAG**
+- Inicio da dag elt_pipeline com as seguintes tasks:
+  - Após a extração, os dados são carregados em um banco de dados **PostgreSQL** local.
+  - O carregamento é feito utilizando a ferramenta **load_file** do **Astronomer** para garantir um processo eficiente e sem erros.
 
 ### 3. **Transform (Transformação)**
 - A transformação dos dados é realizada utilizando **DBT** (Data Build Tool), aplicando um modelo **Snowflake**.
@@ -38,11 +40,34 @@ O pipeline segue o modelo **ELT** dividido em três etapas principais:
 - **Airflow**: Orquestração das tarefas de ETL.
 - **PostgreSQL**: Banco de dados relacional para armazenamento temporário dos dados.
 - **DBT**: Ferramenta para transformação de dados e modelagem dimensional.
-- **API do IBGE**: Fonte dos dados geográficos e demográficos do Brasil.
+- **API do IBGE**: Fonte dos dados geográficos do Brasil.
 - **Astronomer**: Plataforma para execução e gerenciamento do Airflow.
 - **Python**: Linguagem de programação para automação das tarefas de extração e carregamento de dados.
 
 ## Estrutura do Repositório
 
 A estrutura do repositório é organizada da seguinte forma:
+
+```bash
+ibge_elt_project/
+├── dags/                          # Arquivos responsáveis pelas DAGs do Airflow
+│   ├── scripts/                   # Scripts auxiliares para o pipeline
+│   │   ├── coletor.py             # Script para coletar dados da API do IBGE
+│   │   ├── utils.py               # Funções auxiliares para processamento
+│   │   ├── ibge_schema.py         # Definição do esquema dos dados do IBGE
+│   │   └── validador.py           # Funções para validação dos dados
+│   ├── data_source.py             # Tarefa para extrair dados da API do IBGE
+│   └── elt_pipeline.py            # Tarefa para carregar dados no PostgreSQL, rodar as transformações DBT
+├── dbt/                           # Arquivos de configuração e modelos DBT
+│   ├── dbt_project.yml            # Configuração do projeto DBT
+│   ├── profiles.yml               # Arquivo de configurações do DBT
+│   └── models/                    # Modelos DBT para transformação de dados
+│       ├── source.yml             # Definições das fontes de dados
+│       ├── staging/               # Modelos de staging
+│       └── marts/                 # Modelos de mart
+├── config/                        # Arquivos de configuração do Airflow
+│   └── airflow.cfg                # Configuração do Airflow
+├── images/                        # Pasta para armazenar imagens ou visualizações
+├── requirements.txt               # Dependências do projeto
+└── README.md                      # Documentação do projeto
 
