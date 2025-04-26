@@ -10,7 +10,7 @@ O objetivo deste projeto é automatizar a extração, carga e transformação de
 
 O pipeline segue o modelo **ELT** dividido em três etapas principais:
 
-### 1. **Extract (Extração) data_source.py DAG **
+### 1. **Extract (Extração) data_source.py DAG**
 - A extração de dados é feita via **API do IBGE**, que fornece informações sobre regioes, estados, intermediarios, imediatos, municípios, distritos e subdistritos(bairros) do Brasil.
 - Os dados extraídos incluem:
   - Dados de regioes (regiao.id, regiao.sigla (SE), etc.)
