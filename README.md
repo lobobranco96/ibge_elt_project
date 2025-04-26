@@ -58,6 +58,16 @@ ibge_elt_project/
 │   │   └── validador.py           # Funções para validação dos dados
 │   ├── data_source.py             # Tarefa para extrair dados da API do IBGE
 │   └── elt_pipeline.py            # Tarefa para carregar dados no PostgreSQL, rodar as transformações DBT
+├── include/                         
+│   └── ibge/                   
+|   │   ├── distritos_validado.json    # Arquivo JSON com dados de distritos validados
+|   │   ├── estados_validado.json      # Arquivo JSON com dados de estados validados
+|   │   ├── imediatas_validado.json    # Arquivo JSON com dados de imediatas validados
+|   │   ├── intermediarias_validado.json # Arquivo JSON com dados de intermediárias validados
+|   │   ├── municipios_validado.json   # Arquivo JSON com dados de municípios validados
+|   │   ├── regioes_validado.json      # Arquivo JSON com dados de regiões validadas
+|   │   └── subdistritos_validado.json # Arquivo JSON com dados de subdistritos validados        
+│   |
 ├── dbt/                           # Arquivos de configuração e modelos DBT
 │   ├── dbt_project.yml            # Configuração do projeto DBT
 │   ├── profiles.yml               # Arquivo de configurações do DBT
@@ -65,9 +75,29 @@ ibge_elt_project/
 │       ├── source.yml             # Definições das fontes de dados
 │       ├── staging/               # Modelos de staging
 │       └── marts/                 # Modelos de mart
-├── config/                        # Arquivos de configuração do Airflow
-│   └── airflow.cfg                # Configuração do Airflow
-├── images/                        # Pasta para armazenar imagens ou visualizações
+├── docker-compose.override.yml    # imagem postgres para o nosso dw
+├── Dockerfile                     # astronomer
+├── images/                        # Pasta para armazenar imagens
 ├── requirements.txt               # Dependências do projeto
 └── README.md                      # Documentação do projeto
+```
 
+## Como Rodar o Projeto
+
+### Pré-requisitos
+
+Antes de rodar o projeto, certifique-se de ter as seguintes ferramentas instaladas:
+
+- **Python 3.8+**
+- **Astro CLI** para exectar o astro dev start
+- **PostgreSQL**
+- **DBT**
+
+### Passos para Execução
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/lobobranco96/ibge_elt_project.git
+   cd ibge_elt_project
+   ```
