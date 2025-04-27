@@ -37,7 +37,9 @@ def local_to_postgres():
         table_name = Path(path).stem.replace("_validado", "")  # Remove a extensão .json
         return aql.load_file(
             input_file=File(path=str(path)),
-            output_table=Table(name=table_name, conn_id=POSTGRES_CONN_ID),
+            output_table=Table(
+                name=table_name,
+                conn_id=POSTGRES_CONN_ID),
             if_exists="replace",
         )
 

@@ -3,10 +3,10 @@ dbt_project:
   outputs:
     dev:
       type: postgres
-      host: postgres       
-      user: airflow
-      password: airflow
-      port: 5432
-      dbname: airflow_db
+      host: host.docker.internal  
+      user: dw_admin
+      password: dw_pass
+      port: 5434
+      dbname: dw_database
       schema: public
       threads: 4

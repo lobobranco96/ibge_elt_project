@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: postgres
+    database: dw_database
+    schema: tmp_astro  
+    tables:
+      - name: regioes
+      - name: populacao
+      - name: estados
+      - name: intermediarias
+      - name: imediatas
+      - name: municipios
+      - name: distritos
+      - name: subdistritos
