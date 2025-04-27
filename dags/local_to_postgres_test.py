@@ -21,7 +21,7 @@ default_args = {
 }
 
 @dag(
-    start_date=datetime(2024, 4, 20),
+    start_date=datetime(2024, 4, 27),
     schedule="@daily",
     max_active_runs=1,
     catchup=False,
@@ -34,18 +34,18 @@ def local_to_postgres():
     # Função para carregar os arquivos JSON no PostgreSQL
     def load_json_to_postgres(file_name: str):
         path = file_path(file_name)
-        table_name = Path(path).stem  # Remove a extensão .json
+        table_name = Path(path).stem.replace("_validado", "")  # Remove a extensão .json
         return aql.load_file(
-            input_file=File(path=path),
+            input_file=File(path=str(path)),
             output_table=Table(name=table_name, conn_id=POSTGRES_CONN_ID),
             if_exists="replace",
         )
 
     with TaskGroup("load_files", tooltip="Carregar arquivos para o PostgreSQL") as load_files_group:
         arquivos = [
+            "regioes_validado.json",
+            "populacao_validado.json",
             "estados_validado.json",
-            "municipios_validado.json",
-            "distritos_validado.json",
             "intermediarias_validado.json",
             "imediatas_validado.json",
             "municipios_validado.json",

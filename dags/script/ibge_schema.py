@@ -44,5 +44,19 @@ schemas = {
         "bairro.nome": str,
         "distrito.id": int,
         "municipio.nome": str
+    },
+    "populacao": {
+        "localidade.id": str,
+        "localidade.nivel.nome": str,
+        "localidade.nome": str,
+        "serie.2014": str,
+        "serie.2015": str,
+        "serie.2016": str,
+        "serie.2017": str,
+        "serie.2018": str,
+        "serie.2019": str,
+        "serie.2020": str,
+        "serie.2021": str,
+        "serie.2024": str
     }
 }

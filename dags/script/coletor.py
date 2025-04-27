@@ -137,3 +137,19 @@ class ColetorAPI:
             df_final = pd.concat([df_final, df_merged], ignore_index=True)
 
         return df_final
+
+    def get_populacao(self):
+        dados = self.requisicao_api(self.urls["populacao"])
+        if not dados:
+            return None
+        
+        df = pd.DataFrame(dados)
+        df_resultados = pd.json_normalize(df['resultados'].explode().reset_index(drop=True))
+
+        # Normalizando a lista de 'series' (cada item dentro da lista 'series' é um dicionário)
+        populacao_re = pd.json_normalize(df_resultados['series'].explode().reset_index(drop=True))\
+            .drop(index=[0,1,2,3,4,5])\
+            .reset_index(drop=True)\
+            .drop(columns=['localidade.nivel.id'])
+        
+        return populacao_re

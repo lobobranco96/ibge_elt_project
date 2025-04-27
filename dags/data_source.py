@@ -28,7 +28,8 @@ URLS = {
     "imediatas": f"{IBGE_BASE_URL}/estados/{{}}/regioes-imediatas",
     "municipios": f"{IBGE_BASE_URL}/estados/{{}}/municipios",
     "distritos": f"{IBGE_BASE_URL}/distritos",
-    "subdistritos": f"{IBGE_BASE_URL}/distritos/{{}}/subdistritos"
+    "subdistritos": f"{IBGE_BASE_URL}/distritos/{{}}/subdistritos",
+    "populacao": "https://servicodados.ibge.gov.br/api/v3/agregados/6579/periodos/2014%7C2015%7C2016%7C2017%7C2018%7C2019%7C2020%7C2021%7C2024/variaveis/9324?localidades=N1[all]|N2[all]|N3[all]"
 }
 
 
@@ -84,8 +85,9 @@ def dag_ibge_data_source():
     municipios = criar_task_group("municipios", "get_municipios")
     distritos = criar_task_group("distritos", "get_distritos")
     subdistritos = criar_task_group("subdistritos", "get_subdistritos_paralelo")
+    populacao = criar_task_group("populacao", "get_populacao")
 
-    regioes >> [estados, distritos]  # se eles podem rodar ao mesmo tempo
+    regioes >> [estados, distritos, populacao]  # se eles podem rodar ao mesmo tempo
     estados >> [intermediarias, imediatas, municipios]
     municipios >> subdistritos
 
