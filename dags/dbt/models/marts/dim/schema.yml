@@ -3,56 +3,139 @@ version: 2
 models:
   - name: dim_regiao
     columns:
-      - name: sk_regiao
+      - name: id_regiao
         tests:
           - not_null
           - unique
+      - name: sigla_regiao
+        tests:
+          - not_null
+      - name: nome_regiao
+        tests:
+          - not_null
 
   - name: dim_estado
     columns:
-      - name: sk_estado
+      - name: id_estado
         tests:
           - not_null
           - unique
+      - name: sigla_estado
+        tests:
+          - not_null
+      - name: nome_estado
+        tests:
+          - not_null
+      - name: id_regiao
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_regiao')
+              field: id_regiao
 
   - name: dim_intermediaria
     columns:
-      - name: sk_intermediaria
+      - name: id_intermediaria
         tests:
           - not_null
           - unique
+      - name: nome_intermediaria
+        tests:
+          - not_null
+      - name: id_uf
+        tests:
+          - not_null
+      - name: sigla_uf
+        tests:
+          - not_null
 
   - name: dim_imediata
     columns:
-      - name: sk_imediata
+      - name: id_imediata
         tests:
           - not_null
           - unique
+      - name: nome_imediata
+        tests:
+          - not_null
+      - name: id_intermediaria
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_intermediaria')
+              field: id_intermediaria
+      - name: uf_sigla
+        tests:
+          - not_null
+      - name: uf_nome
+        tests:
+          - not_null
 
   - name: dim_municipio
     columns:
-      - name: sk_municipio
+      - name: id_municipio
         tests:
           - not_null
           - unique
+      - name: nome_municipio
+        tests:
+          - not_null
+      - name: microrregiao_id
+        tests:
+          - not_null
+      - name: microrregiao_nome
+        tests:
+          - not_null
+      - name: mesorregiao_id
+        tests:
+          - not_null
+      - name: mesorregiao_nome
+        tests:
+          - not_null
+      - name: mesorregiao_uf_id
+        tests:
+          - not_null
+      - name: mesorregiao_uf_sigla
+        tests:
+          - not_null
+      - name: mesorregiao_uf_nome
+        tests:
+          - not_null
 
   - name: dim_distrito
     columns:
-      - name: sk_distrito
+      - name: id_distrito
         tests:
           - not_null
           - unique
+      - name: nome_distrito
+        tests:
+          - not_null
+      - name: municipio_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_municipio')
+              field: id_municipio
+      - name: uf_nome
+        tests:
+          - not_null
 
   - name: dim_subdistrito
     columns:
-      - name: sk_subdistrito
+      - name: id_subdistrito
         tests:
           - not_null
           - unique
-
-  - name: fato_populacao
-    columns:
-      - name: sk_fato_populacao
+      - name: nome_subdistrito
         tests:
           - not_null
-          - unique
+      - name: distrito_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_distrito')
+              field: id_distrito
+      - name: municipio_nome
+        tests:
+          - not_null
