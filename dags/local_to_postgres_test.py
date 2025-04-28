@@ -58,5 +58,5 @@ def local_to_postgres():
         # Cria uma tarefa para cada arquivo
         for arquivo in arquivos:
             load_json_to_postgres(arquivo)
-
+        
 dag = local_to_postgres()

@@ -30,7 +30,6 @@ models:
     +materialized: table
 
   marts:
-    +materialized: table
     dim:
       +materialized: table
     fact:

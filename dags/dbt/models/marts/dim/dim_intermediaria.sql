@@ -8,6 +8,5 @@ with base as (
 )
 
 select
-    md5(cast(id_intermediaria as text)) as sk_intermediaria,
     *
 from base

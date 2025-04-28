@@ -8,6 +8,5 @@ with base as (
 )
 
 select
-    md5(cast(id_bairro as text)) as sk_subdistrito,
     *
 from base

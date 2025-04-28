@@ -9,6 +9,5 @@ with base as (
 )
 
 select
-    md5(cast(id_imediata as text)) as sk_imediata,
     *
 from base

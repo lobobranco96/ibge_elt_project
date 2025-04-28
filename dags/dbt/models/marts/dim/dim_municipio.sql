@@ -13,6 +13,5 @@ with base as (
 )
 
 select
-    md5(cast(id_municipio as text)) as sk_municipio,
     *
 from base
