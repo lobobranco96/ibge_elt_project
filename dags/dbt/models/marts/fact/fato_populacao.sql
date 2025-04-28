@@ -1,6 +1,6 @@
 with base as (
     select
-        cast("localidade.id" as text) as id_localidade,
+        cast("localidade.id" as int) as id_localidade,
         "localidade.nome" as nome_localidade,
         "localidade.nivel.nome" as nivel_localidade,
         cast("serie.2014" as int) as populacao_2014,
