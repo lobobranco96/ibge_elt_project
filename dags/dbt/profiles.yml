@@ -3,10 +3,10 @@ dbt_project:
   outputs:
     dev:
       type: postgres
-      host: host.docker.internal  
-      user: dw_admin
+      host: host.docker.internal
+      port: 5434         
+      user: dw_user
       password: dw_pass
-      port: 5434
       dbname: dw_database
       schema: public
-      threads: 4
+      threads: 1

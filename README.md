@@ -82,6 +82,98 @@ ibge_elt_project/
 └── README.md                      # Documentação do projeto
 ```
 
+```bash
+**DIMENSAO**
+
+                              +----------------+
+                               |  dim_regiao     |
+                               |  sk_regiao (PK) |
+                               +--------+--------+
+                                        |
+                                        |
+                                        |
+                               +--------v--------+
+                               |   dim_estado     |
+                               |  sk_estado (PK)  |
+                               |  id_regiao (FK)  |
+                               +--------+---------+
+                                        |
+                                        |
+                                        |
+                               +--------v---------+
+                               | dim_intermediaria |
+                               | sk_intermediaria  |
+                               | id_uf (FK)        |
+                               +--------+----------+
+                                        |
+                                        |
+                                        |
+                               +--------v---------+
+                               |  dim_imediata     |
+                               |  sk_imediata      |
+                               | id_intermediaria  |
+                               +--------+----------+
+                                        |
+                                        |
+                                        |
+                               +--------v---------+
+                               |   dim_municipio   |
+                               |  sk_municipio     |
+                               | id_mesorregiao    |
+                               +--------+----------+
+                                        |
+                                        |
+                                        |
+                               +--------v---------+
+                               |   dim_distrito    |
+                               |  sk_distrito      |
+                               | id_municipio      |
+                               +--------+----------+
+                                        |
+                                        |
+                                        |
+                               +--------v---------+
+                               |  dim_subdistrito  |
+                               | sk_subdistrito    |
+                               | id_distrito       |
+                               +-------------------+
+```
+
+```bash
+                 +----------------------+
+                 |     fato_populacao    |
+                 |  sk_fato_populacao    |
+                 |  id_localidade (FK?)  |
+                 |  ano                  |
+                 |  populacao            |
+                 +----------+------------+
+                            |
+                            |
+                            v
+                +----------------------+
+                |   Dimensões ligadas    |
+                | (localidade / municipio|
+                | estado / regiao)       |
+                +------------------------+
+```
+
+## Relancionamento
+```bash
+dim_regiao → dim_estado (id_regiao)
+
+dim_estado → dim_intermediaria (id_uf)
+
+dim_intermediaria → dim_imediata (id_intermediaria)
+
+dim_imediata → dim_municipio (id_mesorregiao via estrutura de intermediárias)
+
+dim_municipio → dim_distrito (id_municipio)
+
+dim_distrito → dim_subdistrito (id_distrito)
+
+fato_populacao pode se conectar a dim_municipio, dim_estado, dim_regiao dependendo da granularidade de "localidade".
+```
+
 ## Como Rodar o Projeto
 
 ### Pré-requisitos

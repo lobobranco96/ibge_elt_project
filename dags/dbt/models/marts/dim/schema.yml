@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: dim_regiao
+    columns:
+      - name: sk_regiao
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_estado
+    columns:
+      - name: sk_estado
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_intermediaria
+    columns:
+      - name: sk_intermediaria
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_imediata
+    columns:
+      - name: sk_imediata
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_municipio
+    columns:
+      - name: sk_municipio
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_distrito
+    columns:
+      - name: sk_distrito
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_subdistrito
+    columns:
+      - name: sk_subdistrito
+        tests:
+          - not_null
+          - unique
+
+  - name: fato_populacao
+    columns:
+      - name: sk_fato_populacao
+        tests:
+          - not_null
+          - unique
