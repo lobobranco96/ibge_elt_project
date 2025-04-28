@@ -83,95 +83,70 @@ ibge_elt_project/
 ```
 
 ```bash
-**DIMENSAO**
+[ fato_populacao ] 
+    (id_localidade PK, id_estado FK)
 
-                              +----------------+
-                               |  dim_regiao     |
-                               |  sk_regiao (PK) |
-                               +--------+--------+
-                                        |
-                                        |
-                                        |
-                               +--------v--------+
-                               |   dim_estado     |
-                               |  sk_estado (PK)  |
-                               |  id_regiao (FK)  |
-                               +--------+---------+
-                                        |
-                                        |
-                                        |
-                               +--------v---------+
-                               | dim_intermediaria |
-                               | sk_intermediaria  |
-                               | id_uf (FK)        |
-                               +--------+----------+
-                                        |
-                                        |
-                                        |
-                               +--------v---------+
-                               |  dim_imediata     |
-                               |  sk_imediata      |
-                               | id_intermediaria  |
-                               +--------+----------+
-                                        |
-                                        |
-                                        |
-                               +--------v---------+
-                               |   dim_municipio   |
-                               |  sk_municipio     |
-                               | id_mesorregiao    |
-                               +--------+----------+
-                                        |
-                                        |
-                                        |
-                               +--------v---------+
-                               |   dim_distrito    |
-                               |  sk_distrito      |
-                               | id_municipio      |
-                               +--------+----------+
-                                        |
-                                        |
-                                        |
-                               +--------v---------+
-                               |  dim_subdistrito  |
-                               | sk_subdistrito    |
-                               | id_distrito       |
-                               +-------------------+
-```
+        |
+        |  (N:1)
+        v
 
-```bash
-                 +----------------------+
-                 |     fato_populacao    |
-                 |  sk_fato_populacao    |
-                 |  id_localidade (FK?)  |
-                 |  ano                  |
-                 |  populacao            |
-                 +----------+------------+
-                            |
-                            |
-                            v
-                +----------------------+
-                |   Dimensões ligadas    |
-                | (localidade / municipio|
-                | estado / regiao)       |
-                +------------------------+
+[ dim_estado ]
+    (id_estado PK, id_regiao FK, id_intermediario FK)
+
+        |                               
+        |  (N:1)                         (N:1)
+        v                                v
+
+[ dim_regiao ]                      [ dim_intermediario ]
+    (id_regiao PK)                      (id_intermediario PK)
+
+                                           |
+                                           | (N:1)
+                                           v
+
+                                 [ dim_imediata ]
+                                     (id_imediata PK, id_municipio FK)
+
+                                           |
+                                           | (N:1)
+                                           v
+
+                                 [ dim_municipio ]
+                                     (id_municipio PK)
+
+                                           |
+                                           | (1:N)
+                                           v
+
+                                 [ dim_distrito ]
+                                     (id_distrito PK, id_municipio FK)
+
+                                           |
+                                           | (1:N)
+                                           v
+
+                                 [ dim_subdistrito ]
+                                     (id_subdistrito PK, id_distrito FK)
+
 ```
 
 ## Relancionamento
 ```bash
-dim_regiao → dim_estado (id_regiao)
+1. Hierarquia das Dimensões:
+dim_regiao → dim_estado (via id_regiao)
 
-dim_estado → dim_intermediaria (id_uf)
+dim_estado → dim_intermediaria (via id_uf)
 
-dim_intermediaria → dim_imediata (id_intermediaria)
+dim_intermediaria → dim_imediata (via id_intermediaria)
 
-dim_imediata → dim_municipio (id_mesorregiao via estrutura de intermediárias)
+dim_imediata → dim_municipio (via id_mesorregiao, dependendo da estrutura de intermediárias)
 
-dim_municipio → dim_distrito (id_municipio)
+dim_municipio → dim_distrito (via id_municipio)
 
-dim_distrito → dim_subdistrito (id_distrito)
+dim_distrito → dim_subdistrito (via id_distrito)
 
-fato_populacao pode se conectar a dim_municipio, dim_estado, dim_regiao dependendo da granularidade de "localidade".
+2. Fato População:
+O fato_populacao pode se conectar a dim_municipio, dim_estado, ou dim_regiao, dependendo da granularidade de "localidade".
 ```
 
 ## Como Rodar o Projeto

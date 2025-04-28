@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: fato_populacao
+    columns:
+      - name: localidade_id
+        tests:
+          - not_null
+          - unique
+      - name: nivel_nome
+        tests:
+          - not_null
+      - name: nome
+        tests:
+          - not_null
+      - name: serie_2014
+        tests:
+          - not_null
+      - name: serie_2015
+        tests:
+          - not_null
+      - name: serie_2016
+        tests:
+          - not_null
+      - name: serie_2017
+        tests:
+          - not_null
+      - name: serie_2018
+        tests:
+          - not_null
+      - name: serie_2019
+        tests:
+          - not_null
+      - name: serie_2020
+        tests:
+          - not_null
+      - name: serie_2021
+        tests:
+          - not_null
+      - name: serie_2024
+        tests:
+          - not_null

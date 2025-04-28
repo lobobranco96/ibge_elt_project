@@ -1,6 +1,6 @@
 with base as (
     select
-        cast("localidade.id" as text) as id_localidade,
+        cast("localidade.id" as int) as id_localidade,
         "localidade.nome" as nome_localidade,
         "localidade.nivel.nome" as nivel_localidade,
         cast("serie.2014" as int) as populacao_2014,
@@ -36,7 +36,10 @@ with base as (
 )
 
 select
-    md5(cast(id_localidade || '-' || cast(ano as text) as text)) as sk_fato_populacao,
-    *
+    id_localidade,
+    nome_localidade,
+    nivel_localidade,
+    ano,
+    populacao
 from unpivot
 where populacao is not null
