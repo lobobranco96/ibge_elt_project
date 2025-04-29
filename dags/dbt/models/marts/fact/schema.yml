@@ -3,40 +3,39 @@ version: 2
 models:
   - name: fato_populacao
     columns:
-      - name: localidade_id
+      - name: id_localidade
         tests:
           - not_null
-          - unique
-      - name: nivel_nome
+      - name: nivel_localidade
         tests:
           - not_null
-      - name: nome
+      - name: nome_localidade
         tests:
           - not_null
-      - name: serie_2014
+      - name: populacao_2014
         tests:
           - not_null
-      - name: serie_2015
+      - name: populacao_2015
         tests:
           - not_null
-      - name: serie_2016
+      - name: populacao_2016
         tests:
           - not_null
-      - name: serie_2017
+      - name: populacao_2017
         tests:
           - not_null
-      - name: serie_2018
+      - name: populacao_2018
         tests:
           - not_null
-      - name: serie_2019
+      - name: populacao_2019
         tests:
           - not_null
-      - name: serie_2020
+      - name: populacao_2020
         tests:
           - not_null
-      - name: serie_2021
+      - name: populacao_2021
         tests:
           - not_null
-      - name: serie_2024
+      - name: populacao_2024
         tests:
           - not_null

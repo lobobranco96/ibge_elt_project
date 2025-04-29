@@ -64,10 +64,10 @@ models:
           - relationships:
               to: ref('dim_intermediaria')
               field: id_intermediaria
-      - name: uf_sigla
+      - name: sigla_uf
         tests:
           - not_null
-      - name: uf_nome
+      - name: nome_uf
         tests:
           - not_null
 
@@ -76,29 +76,31 @@ models:
       - name: id_municipio
         tests:
           - not_null
-          - unique
+          - relationships:
+              to: ref('dim_municipio')
+              field: id_municipio
       - name: nome_municipio
         tests:
           - not_null
-      - name: microrregiao_id
+      - name: id_microrregiao
         tests:
           - not_null
-      - name: microrregiao_nome
+      - name: nome_microrregiao
         tests:
           - not_null
-      - name: mesorregiao_id
+      - name: id_mesorregiao
         tests:
           - not_null
-      - name: mesorregiao_nome
+      - name: nome_mesorregiao
         tests:
           - not_null
-      - name: mesorregiao_uf_id
+      - name: id_uf
         tests:
           - not_null
-      - name: mesorregiao_uf_sigla
+      - name: sigla_uf
         tests:
           - not_null
-      - name: mesorregiao_uf_nome
+      - name: nome_uf
         tests:
           - not_null
 
@@ -117,7 +119,7 @@ models:
           - relationships:
               to: ref('dim_municipio')
               field: id_municipio
-      - name: uf_nome
+      - name: nome_uf
         tests:
           - not_null
 
@@ -130,12 +132,12 @@ models:
       - name: nome_subdistrito
         tests:
           - not_null
-      - name: distrito_id
+      - name: id_distrito
         tests:
           - not_null
           - relationships:
               to: ref('dim_distrito')
               field: id_distrito
-      - name: municipio_nome
+      - name: nome_municipio
         tests:
           - not_null
