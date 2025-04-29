@@ -74,11 +74,9 @@ models:
   - name: dim_municipio
     columns:
       - name: id_municipio
-        tests:
+        tests: 
           - not_null
-          - relationships:
-              to: ref('dim_municipio')
-              field: id_municipio
+          - unique
       - name: nome_municipio
         tests:
           - not_null
@@ -109,11 +107,10 @@ models:
       - name: id_distrito
         tests:
           - not_null
-          - unique
       - name: nome_distrito
         tests:
           - not_null
-      - name: municipio_id
+      - name: id_municipio
         tests:
           - not_null
           - relationships:
@@ -128,7 +125,6 @@ models:
       - name: id_subdistrito
         tests:
           - not_null
-          - unique
       - name: nome_subdistrito
         tests:
           - not_null

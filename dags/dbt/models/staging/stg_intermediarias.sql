@@ -1,3 +1,7 @@
+{{ config(
+    materialized="table"
+) }}
+
 with source_data as (
     select
         "intermediaria.id",

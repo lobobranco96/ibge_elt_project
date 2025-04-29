@@ -1,3 +1,7 @@
+{{ config(
+    materialized="view"
+) }}
+
 with base as (
     select
         "estado.id" as id_estado,

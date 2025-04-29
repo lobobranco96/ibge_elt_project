@@ -84,7 +84,7 @@ ibge_elt_project/
 
 ```bash
 [ fato_populacao ] 
-    (id_localidade PK, id_estado FK)
+    (id_estado PK, id_estado FK)
 
         |
         |  (N:1)

@@ -1,3 +1,8 @@
+/* {{ config(
+    file_format="parquet",
+    materialized="table"
+) }}
+*/
 with source_data as (
     select
         "bairro.id",

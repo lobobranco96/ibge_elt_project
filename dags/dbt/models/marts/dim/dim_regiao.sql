@@ -1,3 +1,7 @@
+{{ config(
+    materialized="view"
+) }}
+
 with base as (
     select
         "regiao.id" as id_regiao,

@@ -3,39 +3,18 @@ version: 2
 models:
   - name: fato_populacao
     columns:
-      - name: id_localidade
+      - name: id_estado
         tests:
           - not_null
-      - name: nivel_localidade
+      - name: nome_estado
         tests:
           - not_null
-      - name: nome_localidade
+      - name: nivel_estado
         tests:
           - not_null
-      - name: populacao_2014
+      - name: ano
         tests:
           - not_null
-      - name: populacao_2015
-        tests:
-          - not_null
-      - name: populacao_2016
-        tests:
-          - not_null
-      - name: populacao_2017
-        tests:
-          - not_null
-      - name: populacao_2018
-        tests:
-          - not_null
-      - name: populacao_2019
-        tests:
-          - not_null
-      - name: populacao_2020
-        tests:
-          - not_null
-      - name: populacao_2021
-        tests:
-          - not_null
-      - name: populacao_2024
+      - name: populacao
         tests:
           - not_null

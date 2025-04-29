@@ -1,3 +1,7 @@
+{{ config(
+    materialized="view"
+) }}
+
 with base as (
     select
         "municipio.id" as id_municipio,
@@ -13,5 +17,13 @@ with base as (
 )
 
 select
-    *
+    id_municipio,
+    nome_municipio,
+    id_microrregiao,
+    nome_microrregiao,
+    id_mesorregiao,
+    nome_mesorregiao,
+    id_uf,
+    sigla_uf,
+    nome_uf
 from base

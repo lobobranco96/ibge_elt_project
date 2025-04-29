@@ -1,3 +1,7 @@
+{{ config(
+    materialized="view"
+) }}
+
 with base as (
     select
         "intermediaria.id" as id_intermediaria,

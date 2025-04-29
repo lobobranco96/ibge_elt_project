@@ -1,3 +1,7 @@
+{{ config(
+    materialized="view"
+) }}
+
 with base as (
     select
         "imediata.id" as id_imediata,
